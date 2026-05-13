@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html</guid>
+<pubDate>2026-05-13T22:19:27.411722+00:00</pubDate>
+<description>欧州最大級の自動車マーケットプレイスAutoScout24がOpenAI CodexとChatGPTを活用し、開発サイクル短縮とコード品質向上を実現した事例を解説。</description>
+</item>
+<item>
+<title>OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html</guid>
+<pubDate>2026-05-13T22:18:56.848870+00:00</pubDate>
+<description>OpenAIが財務チーム向けにCodex活用ガイドを公開。月次経営報告(MBR)や予実差異分析、計画シナリオ作成までを自動化する具体的なユースケースを解説する。</description>
+</item>
+<item>
+<title>OpenAI、Codex Windows対応へ。安全なサンドボックスでAIコーディングを実現</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-windows-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-windows-ai.html</guid>
+<pubDate>2026-05-13T22:18:15.974200+00:00</pubDate>
+<description>OpenAIがCodex向けにWindows用サンドボックスを構築。ファイルアクセスとネットワーク通信を制御し、AIコーディングエージェントを安全に実行できる環境を実現した。</description>
+</item>
+<item>
 <title>Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html</guid>

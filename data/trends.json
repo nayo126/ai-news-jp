@@ -1,240 +1,20 @@
 {
-  "fetched_at": "2026-05-13T15:15:59.427054+00:00",
-  "count": 95,
+  "fetched_at": "2026-05-13T22:17:34.343126+00:00",
+  "count": 34,
   "items": [
     {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tb7bds",
-      "title": "I asked ChatGPT to imagine itself in retirement",
-      "body": "",
-      "score": 14403,
-      "comments": 2020,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tb7bds/i_asked_chatgpt_to_imagine_itself_in_retirement/",
-      "age_hours": 22.4
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tb3td8",
-      "title": "Plumbers, electricians, and HVAC techs watching AI replace everyone except them.",
-      "body": "",
-      "score": 3622,
-      "comments": 445,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tb3td8/plumbers_electricians_and_hvac_techs_watching_ai/",
-      "age_hours": 24.5
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tb327h",
-      "title": "Git push ftw",
-      "body": "",
-      "score": 2165,
-      "comments": 37,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tb327h/git_push_ftw/",
-      "age_hours": 24.9
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tatxnq",
-      "title": "I made an AI concierge for my wedding guests. The second most popular thing they did with it was try to jailbreak it.",
-      "body": "",
-      "score": 1637,
-      "comments": 141,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tatxnq/i_made_an_ai_concierge_for_my_wedding_guests_the/",
-      "age_hours": 32.1
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tbuoyg",
-      "title": "Bro solved the problems from Game of Thrones",
-      "body": "",
-      "score": 1580,
-      "comments": 83,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tbuoyg/bro_solved_the_problems_from_game_of_thrones/",
-      "age_hours": 5.6
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tb043e",
-      "title": "Basically 99,9 % of this subreddit",
-      "body": "",
-      "score": 1579,
-      "comments": 88,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tb043e/basically_999_of_this_subreddit/",
-      "age_hours": 26.8
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tbx4yu",
-      "title": "Animators are cooked",
-      "body": "",
-      "score": 1297,
-      "comments": 239,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tbx4yu/animators_are_cooked/",
-      "age_hours": 3.5
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tbezo0",
-      "title": "Making the competition look bad.",
-      "body": "Create an image that looks like an iPhone screenshot of a Google search AI overview result that is completely wrong and poorly written.",
-      "score": 1184,
-      "comments": 82,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tbezo0/making_the_competition_look_bad/",
-      "age_hours": 18.0
-    },
-    {
-      "source": "reddit/r/OpenAI",
-      "id": "reddit-1tae896",
-      "title": "i cannot go back to claude now",
-      "body": "",
-      "score": 1097,
-      "comments": 32,
-      "url": "https://reddit.com/r/OpenAI/comments/1tae896/i_cannot_go_back_to_claude_now/",
-      "age_hours": 43.5
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tbgj86",
-      "title": "Coders in 2030 be like:",
-      "body": "\"Dude, I don't code anymore, I just prompt the AI and hope it works.\"",
-      "score": 1011,
-      "comments": 57,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tbgj86/coders_in_2030_be_like/",
-      "age_hours": 17.0
-    },
-    {
-      "source": "reddit/r/LocalLLaMA",
-      "id": "reddit-1tbi2n3",
-      "title": "I got a real transformer language model running locally on a stock Game Boy Color!",
-      "body": "No phone, PC, Wi-Fi, link cable, or cloud inference. \n\n• The cartridge boots a ROM, and the GBC runs the model itself.   \n• The model is Andrej Karpathy’s TinyStories-260K, converted to INT8 weights with fixed-point math so it can run without floating point.   \n• Built with GBDK-2020 as an MBC5 Game Boy ROM.   \n• The model weights live in bank-switched cartridge ROM. Prompt entry happens on-device with the D-pad/buttons and an on-screen keyboard.   \n• The prompt is tokenized on the Game Boy, then the ROM runs transformer prefill + autoregressive generation. The KV cache is stored in cartridge SRAM, because the GBC’s work RAM is tiny. \n\nIt is extremely slow, and the output is gibberish because the math is heavily quantized/approximated, but the core thing works!\n\nHardware: stock Game Boy Color + EZ Flash Junior + microSD.\n\nUsed Codex for a large portion of the building!\n\nhttps://github.com/maddiedreese/gbc-transformer",
-      "score": 963,
-      "comments": 66,
-      "url": "https://reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/",
-      "age_hours": 16.0
-    },
-    {
-      "source": "reddit/r/OpenAI",
-      "id": "reddit-1tb7r0d",
-      "title": "Sam Altman testimony: Musk wanted 'total control' of OpenAI to pass to his children",
-      "body": "",
-      "score": 933,
-      "comments": 117,
-      "url": "https://reddit.com/r/OpenAI/comments/1tb7r0d/sam_altman_testimony_musk_wanted_total_control_of/",
-      "age_hours": 22.2
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tbv67w",
-      "title": "I asked Chat to make a poster for a horrible RomCom movie",
-      "body": "",
-      "score": 832,
-      "comments": 189,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tbv67w/i_asked_chat_to_make_a_poster_for_a_horrible/",
-      "age_hours": 5.2
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1taw47z",
-      "title": "What a weird way to wish someone a happy birthday…",
-      "body": "I asked “Do you know what day it is today?” to test what it knows. It threw out a “Happy 36th Birthday”. I had to correct it, and then it went dark.\n\nThis has been a common thing recently. It throws out random things mid conversation. Some of the things are weirdly dark.\n\nDoes this happen to anyone else?",
-      "score": 831,
-      "comments": 98,
-      "url": "https://reddit.com/r/ChatGPT/comments/1taw47z/what_a_weird_way_to_wish_someone_a_happy_birthday/",
-      "age_hours": 30.0
-    },
-    {
-      "source": "reddit/r/OpenAI",
-      "id": "reddit-1tarzjy",
-      "title": "When you ask ChatGPT a question about VSCode but it pulls in VictoriaSecret for context 😂",
-      "body": "",
-      "score": 808,
-      "comments": 34,
-      "url": "https://reddit.com/r/OpenAI/comments/1tarzjy/when_you_ask_chatgpt_a_question_about_vscode_but/",
-      "age_hours": 33.8
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tbcfg6",
-      "title": "Well.. 😅",
-      "body": "",
-      "score": 788,
-      "comments": 41,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tbcfg6/well/",
-      "age_hours": 19.5
-    },
-    {
-      "source": "reddit/r/OpenAI",
-      "id": "reddit-1tbgklg",
-      "title": "Coders in 2030 be like:",
-      "body": "\"Bro, I don't code anymore, I just prompt the AI and pray it works.\"\n\n— Coders in 2030 💀",
-      "score": 760,
-      "comments": 49,
-      "url": "https://reddit.com/r/OpenAI/comments/1tbgklg/coders_in_2030_be_like/",
-      "age_hours": 17.0
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tbk2qv",
-      "title": "Claude has finally begun to understand how lazy I truly am.",
-      "body": "",
-      "score": 718,
-      "comments": 27,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tbk2qv/claude_has_finally_begun_to_understand_how_lazy_i/",
-      "age_hours": 14.6
-    },
-    {
-      "source": "reddit/r/OpenAI",
-      "id": "reddit-1tbwgby",
-      "title": "AI has officially made us unemployed",
-      "body": "AI will make many, many people sink into a bottomless hole of Dunning-Kruger and delusion.",
-      "score": 686,
-      "comments": 72,
-      "url": "https://reddit.com/r/OpenAI/comments/1tbwgby/ai_has_officially_made_us_unemployed/",
-      "age_hours": 4.1
-    },
-    {
-      "source": "reddit/r/LocalLLaMA",
-      "id": "reddit-1tayu5t",
-      "title": "Stop wasting electricity",
-      "body": "Run on my rtx4090\n\nllama.cpp params:\n\n    llama-server -m ~/Projects/llm/models/Qwen3.6-27B-UD-Q4_K_XL.gguf --flash-attn on -ngl all -ctk q4_0 -ctv q4_0 -t 32 -c 262144\n\nPower limit was set using sudo nvidia-smi -pl N  \n  \nOn my observation, GPU constantly hitting power limit, so its safe to say that it actual consumption. You can cut power consumption to 40% without losing performance(and also reduce noise, heat from pc, and extend lifespan of gpu).",
-      "score": 671,
-      "comments": 184,
-      "url": "https://reddit.com/r/LocalLLaMA/comments/1tayu5t/stop_wasting_electricity/",
-      "age_hours": 27.7
-    },
-    {
-      "source": "reddit/r/OpenAI",
-      "id": "reddit-1tb3r2h",
-      "title": "Plumbers, electricians, and HVAC techs watching AI replace everyone except them.",
-      "body": "",
-      "score": 627,
-      "comments": 158,
-      "url": "https://reddit.com/r/OpenAI/comments/1tb3r2h/plumbers_electricians_and_hvac_techs_watching_ai/",
-      "age_hours": 24.5
-    },
-    {
-      "source": "hackernews",
-      "id": "hn-48111896",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "body": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok&#x2F;s prefill and 1200 tok&#x2F;s decode on consumer devices.<p>We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.<p>Simple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-shot function calling for consumer devices (phones, watches, glasses...).<p>Training:\n- Pretrained on 200B tokens across 16 TPU v6e (27 hours)\n- Post-trained on 2B tokens of synthesized function-calling data (45 minutes)\n- Dataset synthesized via Gemini with 15 tool categories (timers, messaging, navigation, smart home, etc.)<p>You can test it right now and finetune on your Mac&#x2F;PC: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle</a><p>The full writeup on the architecture is here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle&#x2F;blob&#x2F;main&#x2F;docs&#x2F;simple_attention_networks.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle&#x2F;blob&#x2F;main&#x2F;docs&#x2F;simp...</a><p>We found that the &quot;no FFN&quot; finding generalizes beyond function calling to any task where the model has access to external structured knowledge (RAG, tool use, retrieval-augmented generation). The model doesn&#x27;t need to memorize facts in FFN weights if the facts are provided in the input. Experimental results to published.<p",
-      "score": 558,
-      "comments": 157,
-      "url": "https://github.com/cactus-compute/needle",
-      "age_hours": 21.2
-    },
-    {
-      "source": "reddit/r/LocalLLaMA",
-      "id": "reddit-1tbemwa",
-      "title": "Dad why is my sisters name Lora?",
-      "body": "",
-      "score": 542,
-      "comments": 37,
-      "url": "https://reddit.com/r/LocalLLaMA/comments/1tbemwa/dad_why_is_my_sisters_name_lora/",
-      "age_hours": 18.2
+      "source": "rss/openai_blog",
+      "id": "openai_blog-c412990c",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "body": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "age_hours": null
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-306dbe93",
+      "id": "openai_blog-3d53a857",
       "title": "How finance teams use Codex",
       "body": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "score": null,
@@ -244,27 +24,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-b401090a",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "body": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/nvidia",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-c2156bd2",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "body": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-3eed35a6",
+      "id": "openai_blog-5877e63c",
       "title": "AutoScout24 scales engineering with AI-powered workflows",
       "body": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
       "score": null,
@@ -274,7 +34,27 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-44eb8389",
+      "id": "openai_blog-6875bffb",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "body": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-1f994089",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "body": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/nvidia",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-d8a4e369",
       "title": "How ChatGPT adoption broadened in early 2026",
       "body": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "score": null,
@@ -284,17 +64,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-5682b6aa",
-      "title": "How enterprises are scaling AI",
-      "body": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-5179145d",
+      "id": "openai_blog-716ae00a",
       "title": "OpenAI Campus Network: Student club interest form",
       "body": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
       "score": null,
@@ -304,7 +74,17 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-852fd6ce",
+      "id": "openai_blog-293665f7",
+      "title": "How enterprises are scaling AI",
+      "body": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-a11db18d",
       "title": "OpenAI launches DeployCo to help businesses build around intelligence",
       "body": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
       "score": null,
@@ -314,7 +94,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-bf890f19",
+      "id": "openai_blog-5437fefd",
       "title": "Running Codex safely at OpenAI",
       "body": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
       "score": null,
@@ -323,18 +103,8 @@
       "age_hours": null
     },
     {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-cc8ed16",
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "body": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "age_hours": null
-    },
-    {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-f8dcc264",
+      "id": "google_ai_blog-3070a46a",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp\">This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
       "score": null,
@@ -344,7 +114,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-9cd5d88f",
+      "id": "google_ai_blog-d63b6fd5",
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp\">Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
       "score": null,
@@ -354,7 +124,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-8789ae02",
+      "id": "google_ai_blog-fff84903",
       "title": "5 gardening tips you can try right in Search",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp\">We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
       "score": null,
@@ -364,7 +134,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-2d09f4f3",
+      "id": "google_ai_blog-4c57d038",
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\">Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "score": null,
@@ -374,7 +144,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-20cf01f9",
+      "id": "google_ai_blog-ca25d50b",
       "title": "The latest AI news we announced in April 2026",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from April 2026",
       "score": null,
@@ -384,7 +154,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-fd427e8",
+      "id": "google_ai_blog-9f8cfe75",
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\">Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
       "score": null,
@@ -394,7 +164,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-af7167bd",
+      "id": "google_ai_blog-6c330119",
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\">Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
       "score": null,
@@ -404,7 +174,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-f09f5f1",
+      "id": "google_ai_blog-c0c77b35",
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\">Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
       "score": null,
@@ -414,7 +184,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-3bccf79e",
+      "id": "google_ai_blog-28d03008",
       "title": "8 Gemini tips for organizing your space (and life)",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\">Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
       "score": null,
@@ -424,7 +194,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-6a1e8140",
+      "id": "google_ai_blog-1b75fcb9",
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\">Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
       "score": null,
@@ -434,7 +204,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-77c21722",
+      "id": "huggingface_blog-aaaed5da",
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
       "body": "",
       "score": null,
@@ -444,7 +214,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-f6a14a8",
+      "id": "huggingface_blog-bde1e66f",
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
       "body": "",
       "score": null,
@@ -454,7 +224,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-ece16ddb",
+      "id": "huggingface_blog-3eb4d745",
       "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "body": "",
       "score": null,
@@ -464,7 +234,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-7882dfca",
+      "id": "huggingface_blog-2e1a3b28",
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
       "body": "",
       "score": null,
@@ -474,7 +244,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-22693d79",
+      "id": "huggingface_blog-6219d2d2",
       "title": "Granite 4.1 LLMs: How They’re Built",
       "body": "",
       "score": null,
@@ -484,7 +254,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-d6693f73",
+      "id": "huggingface_blog-be51ce0a",
       "title": "DeepInfra on Hugging Face Inference Providers 🔥",
       "body": "",
       "score": null,
@@ -494,7 +264,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-d1fbd14d",
+      "id": "huggingface_blog-e90cb4da",
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "body": "",
       "score": null,
@@ -504,7 +274,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-4a6fc8a",
+      "id": "huggingface_blog-c791701e",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "body": "",
       "score": null,
@@ -514,7 +284,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-dd5eb620",
+      "id": "huggingface_blog-1b9b0db8",
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "body": "",
       "score": null,
@@ -524,7 +294,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-b7c15cc5",
+      "id": "huggingface_blog-3fe0df64",
       "title": "How to Use Transformers.js in a Chrome Extension",
       "body": "",
       "score": null,
@@ -533,274 +303,44 @@
       "age_hours": null
     },
     {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1taxk6n",
-      "title": "Do they not even read this?",
-      "body": "Credit: random book from nepal (Facebook)",
-      "score": 496,
-      "comments": 44,
-      "url": "https://reddit.com/r/ChatGPT/comments/1taxk6n/do_they_not_even_read_this/",
-      "age_hours": 28.7
-    },
-    {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1tafo58",
-      "title": "Mark Zuckerberg ‘Personally Authorized and Actively Encouraged’ Meta’s Massive Copyright Infringement to Train AI Systems, Publishers and Scott Turow Allege in Lawsuit",
+      "source": "hackernews",
+      "id": "hn-48126000",
+      "title": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
       "body": "",
-      "score": 471,
-      "comments": 52,
-      "url": "https://reddit.com/r/singularity/comments/1tafo58/mark_zuckerberg_personally_authorized_and/",
-      "age_hours": 42.6
+      "score": 107,
+      "comments": 67,
+      "url": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
+      "age_hours": 3.3
     },
     {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1tb6kum",
-      "title": "On a difficult new SWE benchmark, ProgramBench, GPT5.5 high/xhigh solves a task for first time, significantly outperforms Opus 4.7",
-      "body": "Link to tweets:\n\nhttps://x.com/KLieret/status/2054215545663144217?s=20\n\nLink to GitHub:\n\n[https://github.com/facebookresearch/ProgramBench/](https://github.com/facebookresearch/ProgramBench/)\n\nLink to ProgramBench website:\n\n[https://programbench.com/blog/gpt-5-5-first-solve/](https://programbench.com/blog/gpt-5-5-first-solve/)",
-      "score": 459,
-      "comments": 83,
-      "url": "https://reddit.com/r/singularity/comments/1tb6kum/on_a_difficult_new_swe_benchmark_programbench/",
-      "age_hours": 22.9
+      "source": "hackernews",
+      "id": "hn-48126675",
+      "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
+      "body": "I spent a fortnight using Claude to create specs for every version of RAR, then another using gpt-5.5 to write compressors in Rust.<p>It&#x27;s not fast and it&#x27;s not pretty, but it works.",
+      "score": 65,
+      "comments": 46,
+      "url": "https://bitplane.net/log/2026/05/rars/",
+      "age_hours": 2.3
     },
     {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tbaq2d",
-      "title": "PSA: If your project has an ANTHROPIC_API_KEY in any .env file, Claude Code will silently bill your API account instead of your Max plan — Anthropic calls it \"intentional functionality\"",
-      "body": "r/ClaudeAI • also crosspost to r/LocalLLaMA and r/artificial\n\nI lost $187 to this and want to save others the same headache.  \n  \n**What happened**  \n  \nI run Claude Code headlessly via Windows Task Scheduler. My project repo has a `.env` file with `ANTHROPIC_API_KEY` set — legitimately, for a separate Express server doing AI-based transaction classification. Nothing to do with Claude Code itself.  \n  \nClaude Code reads environment variables from the `.env` in its working directory on launch. When it finds `ANTHROPIC_API_KEY` there, it silently uses that key for billing instead of your OAuth subscription credentials — even though my `.credentials.json` showed `subscriptionType: \"max\"` the entire time. No warning. No notification. No dashboard alert that billing had switched.  \n  \nNine auto-recharge charges later, $187 gone.  \n  \n**Anthropic's response**  \n  \nI contacted support. After four denials across two channels, here is their exact explanation:\n\n\"Claude Code is designed to prioritize API keys set as environment variables over subscription credentials — this is intentional functionality that gives users flexibility in authentication methods.\"  \n  \nIntentional. Undisclosed at the point of use. No opt-out. No warning when CC launches and detects an API key in the environment.  \n  \nTheir final position: \"API credits consumed are non-refundable regardless of underlying cause.\" When I mentioned disputing with my card issuer: \"Please be aware that chargebacks may affect your account access.\"  \n  \n**The fix**  \n  \nOne line in your launch script before `claude -p` runs:  \n$env:ANTHROPIC\\_API\\_KEY = $null     # PowerShell  \nunset ANTHROPIC\\_API\\_KEY            # bash/zsh  \nThis clears the key from CC's environment so it falls back to OAuth. Your `.env` is untouched — other tools in the same project still have the key.  \n  \n**Who is most at risk**  \n  \n— Anyone running CC headlessly (Task Scheduler, cron, CI)  \n— Any project where a `.env` has `ANTHROPIC_API_KEY` for a d",
-      "score": 437,
-      "comments": 105,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tbaq2d/psa_if_your_project_has_an_anthropic_api_key_in/",
-      "age_hours": 20.5
-    },
-    {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1tbidrb",
-      "title": "China’s ‘dark factory’ more than doubles production efficiency for J-20 jets",
+      "source": "hackernews",
+      "id": "hn-48126438",
+      "title": "New Claude Code programmatic usage restrictions",
       "body": "",
-      "score": 429,
-      "comments": 61,
-      "url": "https://reddit.com/r/singularity/comments/1tbidrb/chinas_dark_factory_more_than_doubles_production/",
-      "age_hours": 15.8
+      "score": 28,
+      "comments": 12,
+      "url": "https://twitter.com/i/status/2054610152817619388",
+      "age_hours": 2.6
     },
     {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tbqp6y",
-      "title": "This dude literally heals our Game of Thrones traumas using Al to put himself in the scenes (GOT Spoilers)",
-      "body": "credit advkiki",
-      "score": 407,
-      "comments": 38,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tbqp6y/this_dude_literally_heals_our_game_of_thrones/",
-      "age_hours": 9.4
-    },
-    {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1tb3wtl",
-      "title": "Demis Hassabis's Isomorphic Labs announces Series B investment round with $2.1B in new funding",
-      "body": "",
-      "score": 395,
-      "comments": 40,
-      "url": "https://reddit.com/r/singularity/comments/1tb3wtl/demis_hassabiss_isomorphic_labs_announces_series/",
-      "age_hours": 24.4
-    },
-    {
-      "source": "reddit/r/OpenAI",
-      "id": "reddit-1taqgfd",
-      "title": "Ex OpenAI CTO Mira Murati is giving them a serious fight for the bucks. Her new “Interaction Model” makes “GPT-Realtime-2” look like caveman, current capabilities level wise",
-      "body": "",
-      "score": 393,
-      "comments": 102,
-      "url": "https://reddit.com/r/OpenAI/comments/1taqgfd/ex_openai_cto_mira_murati_is_giving_them_a/",
-      "age_hours": 35.1
-    },
-    {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1taue3z",
-      "title": "GPT-5.5 was used to flag fatal errors in FrontierMath problems",
-      "body": "FrontierMath is supposed to be one of the hard benchmarks for frontier models, and now Epoch is saying an AI-assisted review found fatal errors in about a third of Tiers 1-4.\n\nNoam Brown says the initial flags came from GPT-5.5.\n\nObviously we’ll have to wait for the corrected scores, but this is a pretty interesting moment: the model is already strong enough to sanity-check the benchmark.",
-      "score": 383,
-      "comments": 41,
-      "url": "https://reddit.com/r/singularity/comments/1taue3z/gpt55_was_used_to_flag_fatal_errors_in/",
-      "age_hours": 31.7
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tbwwel",
-      "title": "Claude Code tips for terminal users (from a senior dev)",
-      "body": "I've been using Claude Code heavily in the terminal for the past 6+ months (as a Linux user you don't get the luxury of a dedicated Claude desktop app lol). But tbh what might seem like a constraint at first, really isn't (at least from my experience). If anything, it forced me to dig deeper into what Claude Code actually offers beyond the basic chat loop. And over time, I realized I'd been barely scratching the surface of what it can do.\n\nHere are 5 hidden commands (or at least ones I completely missed at the beginning) that transformed my daily workflow:\n\n* **Customize your statusline with** `/statusline`: I personally like having a persistent status bar that gives me key info at a glance, and this command adds exactly that at the bottom of your terminal. You can ask Claude to put whatever you want in it (model, branch, context % etc.).\n* **Run shell commands with** `!`: You can run any shell command directly from the chat by prefixing it with `!`. The output stays in the conversation, so you can follow up without copy-pasting. Press `Ctrl+B` while a `!` command is running to send (long-running) commands to the background.\n* **Mention files with @:** Type `@` \\+ filename to trigger path autocomplete. This is way faster than letting Claude wander around your repo looking for the right file.\n* **Expand your working context with** `/add-dir`: Add another directory to the session. Perfect for projects split across multiple repos.\n* **Start a side conversation with** `/btw`: Ask a quick question without interrupting Claude's current task. For longer side discussions, you can use `/branch` to spin off a new session instead.\n\nTbh none of this is anything super fancy. But still, these small things have removed a lot of friction for me. Which commands are you guys using?",
-      "score": 346,
-      "comments": 32,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tbwwel/claude_code_tips_for_terminal_users_from_a_senior/",
-      "age_hours": 3.7
-    },
-    {
-      "source": "reddit/r/OpenAI",
-      "id": "reddit-1tar1wq",
-      "title": "ChatGPT seeing me write a whole sentence by myself",
-      "body": "",
-      "score": 334,
-      "comments": 15,
-      "url": "https://reddit.com/r/OpenAI/comments/1tar1wq/chatgpt_seeing_me_write_a_whole_sentence_by_myself/",
-      "age_hours": 34.6
-    },
-    {
-      "source": "reddit/r/LocalLLaMA",
-      "id": "reddit-1tb9b0r",
-      "title": "Needle: We Distilled Gemini Tool Calling Into a 26M Model",
-      "body": "We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.\n\nWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.\n\nSimple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-shot function calling for consumer devices (phones, watches, glasses...).\n\nTraining:\n\n\\- Pretrained on 200B tokens across 16 TPU v6e (27 hours)\n\n\\- Post-trained on 2B tokens of synthesized function-calling data (45 minutes)\n\n\\- Dataset synthesized via Gemini with 15 tool categories (timers, messaging, navigation, smart home, etc.)\n\nYou can test it right now and finetune on your Mac/PC: [https://github.com/cactus-compute/needle](https://github.com/cactus-compute/needle)\n\nThe full writeup on the architecture is here: [https://github.com/cactus-compute/needle/blob/main/docs/simple\\_attention\\_networks.md](https://github.com/cactus-compute/needle/blob/main/docs/simple_attention_networks.md)\n\nWe found that the \"no FFN\" finding generalizes beyond function calling to any task where the model has access to external structured knowledge (RAG, tool use, retrieval-augmented generation). The model doesn't need to memorize facts in FFN weights if the facts are provided in the input. Experimental results to be published.\n\nWhile it beats FunctionGemma-270M, Qwen-0.6B, Granite-350M, LFM2.5-350M on single-shot function calling, those models have more scope/capacity and excel in conversational settings. We encourage you to test on",
-      "score": 329,
-      "comments": 45,
-      "url": "https://reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/",
-      "age_hours": 21.3
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tbhxpt",
-      "title": "This can only end badly",
-      "body": "Managing ai bots gets one step closer to just being a manger of unruly juniors\n\ngot this from the meme section of [ijustvibecodedthis.com](http://ijustvibecodedthis.com)",
-      "score": 306,
-      "comments": 15,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tbhxpt/this_can_only_end_badly/",
-      "age_hours": 16.1
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tbmt26",
-      "title": "Yet another book made using AI",
-      "body": "",
-      "score": 282,
-      "comments": 37,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tbmt26/yet_another_book_made_using_ai/",
-      "age_hours": 12.6
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tbrs6b",
-      "title": "The difference between coding before AI and after AI",
-      "body": "",
-      "score": 262,
-      "comments": 6,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tbrs6b/the_difference_between_coding_before_ai_and_after/",
-      "age_hours": 8.4
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tbjr11",
-      "title": "Claude roasting r/ClaudeAI",
-      "body": "I've been using Claude exclusively for about a year. I decided to ask it to evaluate where I could use AI Agents, because it comes up here often. \n\nI don't really see a use for me, just because nothing I do is really at a scale where an agent makes sense, or my work is too context dependent (I work as a consultant with a wide range of clients).\n\nAnyway, Claude proposed some possible use cases. They all sounded useless (for me). Claude asked where I got the idea...\n\nAnd well... roasted! 😂",
-      "score": 257,
-      "comments": 27,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tbjr11/claude_roasting_rclaudeai/",
-      "age_hours": 14.8
-    },
-    {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1ta99ss",
-      "title": "Upcoming Leaked Gemini Omni VS Nearly Shutting Down Sora 2",
-      "body": "Hey everyone,\n\nWith all the hype around the leaked Gemini Omni video model, I wanted to see how it compares directly to OpenAI's Sora 2.\n\nJust a quick heads up on Sora 2. It is currently closed off and only available through the API, and it is going to be shut down completely in the near future. I used the Bing Sora 2 video generator to make these comparison clips. I left the AI watermark on the Sora 2 generations on purpose so you can easily tell the difference between the two models at a glance.\n\nTo make the comparison as fair as possible, I tried to keep the prompts very similar to the leaked Gemini Omni videos I found on X.\n\nHere are the sources for the original Gemini Omni clips:\n\n[https://x.com/i/status/2053824398503678108](https://x.com/i/status/2053824398503678108)\n\n[https://x.com/i/status/2053718756799467735](https://x.com/i/status/2053718756799467735)\n\n[https://x.com/i/status/2053857806374064496](https://x.com/i/status/2053857806374064496)\n\nHere are the prompts I used, in order of appearance:\n\n**1. The Spaghetti Scene** \"Create a scene with two men at a table seaside at an upscale restaurant on outdoor deck seating. They are at a circular table with a nice white table cloth, and all of the fancy accessories, all the spoons forks and knives, fancy napkins, centerpiece. One man is Distinguished: A mature African-American man in his 50s with a short beard and confident posture, wearing a tailored, sophisticated suit, the other is is friend, both approaching the table to eat a plate of spaghetti.\"\n\n**2. Anime Combat** \"High-energy anime combat scene in a vast meadow during sunset, featuring a black-haired boy with blue flaming markings delivering powerful punches and a kick to a stoic white-haired opponent, with dynamic blue energy effects and impact lines,\"\n\n**3. Chalkboard Math Proof** \"A professor writes out a mathematical proof for trigonometric identities on a traditional chalkboard, explaining the step he is currently on in the equation.\"\n\nLet me know wh",
-      "score": 256,
-      "comments": 78,
-      "url": "https://reddit.com/r/singularity/comments/1ta99ss/upcoming_leaked_gemini_omni_vs_nearly_shutting/",
-      "age_hours": 46.3
-    },
-    {
-      "source": "reddit/r/LocalLLaMA",
-      "id": "reddit-1tb6nkx",
-      "title": "Let's build claude code from scratch!",
-      "body": "So, I made this video about how to create claude code from scratch.\n\n\n\nHere's the video: [https://youtu.be/8pDfgBEy8bg](https://youtu.be/8pDfgBEy8bg)\n\nand Github: [https://github.com/CohleM/nanoclaude](https://github.com/CohleM/nanoclaude)\n\n\n\nFeedback is extremely appreciated.",
-      "score": 254,
-      "comments": 86,
-      "url": "https://reddit.com/r/LocalLLaMA/comments/1tb6nkx/lets_build_claude_code_from_scratch/",
-      "age_hours": 22.8
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tb5t9r",
-      "title": "Pixelart games in 1st person, Hotline Miami look sick",
-      "body": "",
-      "score": 236,
-      "comments": 45,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tb5t9r/pixelart_games_in_1st_person_hotline_miami_look/",
-      "age_hours": 23.3
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tbtv67",
-      "title": "We've got it all mixed up",
-      "body": "No comment needed",
-      "score": 232,
-      "comments": 2,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tbtv67/weve_got_it_all_mixed_up/",
-      "age_hours": 6.4
-    },
-    {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1tah5lg",
-      "title": "OpenAI Daybreak (response to Mythos)",
-      "body": "",
-      "score": 226,
-      "comments": 32,
-      "url": "https://reddit.com/r/singularity/comments/1tah5lg/openai_daybreak_response_to_mythos/",
-      "age_hours": 41.8
-    },
-    {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1ta7x9l",
-      "title": "AI is the manager at this Stockholm café",
-      "body": "",
-      "score": 218,
-      "comments": 51,
-      "url": "https://reddit.com/r/singularity/comments/1ta7x9l/ai_is_the_manager_at_this_stockholm_café/",
-      "age_hours": 47.1
-    },
-    {
-      "source": "reddit/r/OpenAI",
-      "id": "reddit-1tbgm07",
-      "title": "This can only end badly",
-      "body": "Managing ai bots gets one step closer to just being a manger of unruly juniors\n\ngot this meme from the big free ai newsletter [ijustvibecodedthis.com](http://ijustvibecodedthis.com)",
-      "score": 210,
-      "comments": 6,
-      "url": "https://reddit.com/r/OpenAI/comments/1tbgm07/this_can_only_end_badly/",
-      "age_hours": 17.0
-    },
-    {
-      "source": "reddit/r/ChatGPT",
-      "id": "reddit-1tbx675",
-      "title": "I requested ChatGPT  to make a horrible and highly offensive romcom movie that will be a disaster and I guess it did the job quiet well !",
-      "body": "",
-      "score": 198,
-      "comments": 125,
-      "url": "https://reddit.com/r/ChatGPT/comments/1tbx675/i_requested_chatgpt_to_make_a_horrible_and_highly/",
-      "age_hours": 3.5
-    },
-    {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1tbdmny",
-      "title": "Bloomberg: Google in Talks to Use SpaceX to Launch Space Data Centers",
-      "body": "[https://www.bloomberg.com/news/articles/2026-05-12/google-in-talks-to-use-spacex-to-launch-space-data-centers-wsj](https://www.bloomberg.com/news/articles/2026-05-12/google-in-talks-to-use-spacex-to-launch-space-data-centers-wsj)",
-      "score": 192,
-      "comments": 96,
-      "url": "https://reddit.com/r/singularity/comments/1tbdmny/bloomberg_google_in_talks_to_use_spacex_to_launch/",
-      "age_hours": 18.8
-    },
-    {
-      "source": "reddit/r/singularity",
-      "id": "reddit-1taj9lz",
-      "title": "And there it is. I think this is confirmation of a superapp this week.",
-      "body": "",
-      "score": 181,
-      "comments": 74,
-      "url": "https://reddit.com/r/singularity/comments/1taj9lz/and_there_it_is_i_think_this_is_confirmation_of_a/",
-      "age_hours": 40.4
-    },
-    {
-      "source": "reddit/r/ClaudeAI",
-      "id": "reddit-1tbjp08",
-      "title": "Sonos quit supporting their Mac app and my wife wanted a prettier iOS one. So I made both in a weekend with Claude/Claude Code. (I'm an IP lawyer, not a developer.)",
-      "body": "Writing this top portion without Claude. Claude's hot takes below it.\n\n1. I am not selling anything.\n2. I'm not distributing this. In fact, I'm not in software at all and work full time as an intellectual property attorney. I work with tech companies but maintaining software like this for years isn't really feasible for me beyond my personal use.\n3. I was able to spin up the iOS app in a single weekend. It's not perfect but I feel like that's pretty far along considering the hours and I think it looks pretty.\n\nI am someone that hasn't taken a coding class since I graduated from Georgia Tech in 2008 and has no coding experience beyond some tiny projects to solve very small problems.\n\nI used claude code and codex to make this. Initially, I was irritated that Sonos quit supporting its macOS app and wanted to fix that. And I did. And it worked really well. It lives in the menu bar and does what i want it to do. I only use Spotify as a music service so it hooks into that and voilà. Now I can control where music is playing in my house and group/ungroup speakers.\n\nI asked my wife if she wanted it on her computer. She doesn't want that but wants an app. I told her the Sonos app works fine but \"that's not very pretty like your app.\" So I did something unhinged and made an app that didn't need making. But I learned a lot. It also strips out a lot of the things I don't use on either Sonos or Spotify and I learned a lot about how the speaker works and that making everything go fast is much easier said than done. I also added a pin functionality so playlists or albums I'm really into or listening to a lot can get pinned to the music screen.\n\nStarting points I took for building this:\n\n* I told Claude chat what I wanted to build and why. Asked Claude what the best way to go about accomplishing it is with options and their pros and cons and what my budget was.\n* I went and got the API info I needed from the services I planned to use, looked at their rules for coding agents, fed it ",
-      "score": 177,
-      "comments": 35,
-      "url": "https://reddit.com/r/ClaudeAI/comments/1tbjp08/sonos_quit_supporting_their_mac_app_and_my_wife/",
-      "age_hours": 14.8
+      "source": "hackernews",
+      "id": "hn-48128003",
+      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "body": "I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don&#x27;t have access to them anymore.<p>This is a first. I never lost access to any of my past sessions because I unsubscribed in any of the LLM apps.<p>I actually wanted to try out codex previously, but had similar experience with my credits. They gave extra credits equivalent to my montly subscription price, with some time limit because claude has so many issues that month. And as soon as plan ended. I lost access to the credits. Even after resubscribing, I still don&#x27;t have access to those credits.<p>I have sympathies towards the engineers, especially the ones that are putting themselves on X. But only when someone with large following has some issue, they sort it out.<p>Having worked at a billing company, I can see how complex contracts sound good for the growth&#x2F;sales folks but are also horrible for engineers actually implementing those contracts. Their complex rate limiting which is now a norm, identifying other harnesses to count them against extra usage are all probably not easy to implement without very rough edge cases. But all the &quot;bugs&quot; are just where the user gets screwed is what is problematic.<p>I just wanted to post this here, after tagging them multiple times on X to alert other users.",
+      "score": 12,
+      "comments": 0,
+      "url": "https://news.ycombinator.com/item?id=48128003",
+      "age_hours": 0.6
     }
   ]
 }
