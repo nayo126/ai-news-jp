@@ -25,10 +25,9 @@
     "must_include_sections": ["要点3行まとめ", "詳しい解説", "高校生がやるべきこと", "関連リンク"]
   },
   "monetization": {
-    "amazon_associate_id": "TODO",
-    "adsterra_publisher_id": "TODO",
-    "a8_sid": "TODO",
-    "rakuten_id": "TODO",
+    "_strategy": "minor-friendly: 楽天アフィ + 忍者AdMax + もしも (親不要)",
+    "monetization_ids_file": "/Users/tsukaking/MONETIZATION_IDS.json",
+    "amazon_associate_id": "TODO_parent_only",
     "newsletter_form_action": ""
   },
   "deploy": {

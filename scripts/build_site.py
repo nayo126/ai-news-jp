@@ -29,6 +29,13 @@ SITE = CONFIG["site"]
 MON = CONFIG["monetization"]
 BASE_URL = SITE["base_url"].rstrip("/")
 
+# Load minor-friendly monetization IDs (楽天/もしも/忍者AdMax)
+MIDS_PATH = Path(MON.get("monetization_ids_file") or "")
+try:
+    MIDS = json.loads(MIDS_PATH.read_text()) if MIDS_PATH.exists() else {}
+except Exception:
+    MIDS = {}
+
 
 def md_to_html(md: str) -> str:
     """Minimal markdown converter — handles headings, lists, paragraphs, bold, links, code spans."""
