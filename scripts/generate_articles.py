@@ -64,6 +64,14 @@ PROMPT_HEAD = """\
 
 
 def call_claude(prompt: str, retries: int = 2) -> str:
+    import sys
+    sys.path.insert(0, str(Path(__file__).parent))
+    from rate_limit_helper import looks_like_rate_limit, mark_rate_limited, mark_clear, is_currently_blocked
+
+    if is_currently_blocked("claude_cli"):
+        log("claude_cli is currently rate-limited; skipping (watchdog will retry)")
+        return ""
+
     cli = CONFIG.get("claude_cli", "claude")
     for attempt in range(retries + 1):
         try:
@@ -72,8 +80,14 @@ def call_claude(prompt: str, retries: int = 2) -> str:
                 capture_output=True, text=True, timeout=420,
             )
             if r.returncode == 0 and r.stdout.strip():
+                mark_clear("claude_cli")
                 return r.stdout.strip()
-            log(f"claude attempt {attempt+1} failed rc={r.returncode} err={r.stderr[:200]}")
+            combined = (r.stderr or "") + " " + (r.stdout or "")
+            log(f"claude attempt {attempt+1} failed rc={r.returncode} err={combined[:300]}")
+            if looks_like_rate_limit(combined):
+                mark_rate_limited("claude_cli", combined[:300])
+                log("rate limit detected -> state file written, abort run")
+                return ""
         except subprocess.TimeoutExpired:
             log(f"claude attempt {attempt+1} timed out")
         except Exception as e:
