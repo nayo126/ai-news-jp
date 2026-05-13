@@ -5,6 +5,7 @@ import html
 import json
 import re
 import shutil
+import urllib.parse
 import xml.sax.saxutils as sx
 from datetime import datetime, timezone
 from pathlib import Path
@@ -122,38 +123,51 @@ def parse_post(path: Path) -> dict | None:
     return front
 
 
-def adsterra_block() -> str:
-    pid = MON.get("adsterra_publisher_id")
-    if not pid or pid == "TODO":
-        return '<div class="ad-slot ad-placeholder"><span>広告枠 (Adsterra設定後に自動表示)</span></div>'
-    # placeholder for actual adsterra direct link / banner
-    return f'<div class="ad-slot"><script type="text/javascript">var atOptions = {{key:"{pid}",format:"iframe",height:250,width:300,params:{{}}}};</script><script type="text/javascript" src="//www.profitableratecpm.com/{pid}/invoke.js"></script></div>'
+def ad_block() -> str:
+    """忍者AdMax (年齢制限なし) 広告枠 — IDが入るまでプレースホルダ"""
+    tag = (MIDS.get("ninja_admax") or {}).get("ad_tag_html")
+    if not tag or tag == "TODO":
+        return '<div class="ad-slot ad-placeholder"><span>広告枠 (忍者AdMax設定後に自動表示)</span></div>'
+    return f'<div class="ad-slot">{tag}</div>'
 
 
-def amazon_cta(keywords: list[str]) -> str:
-    aid = MON.get("amazon_associate_id")
+def rakuten_cta(keywords: list[str]) -> str:
+    """楽天アフィリエイト (未成年OK・楽天ポイントで受取) — キーワード検索リンク"""
     kw = keywords[0] if keywords else "ChatGPT 副業"
-    if not aid or aid == "TODO":
-        url = f"https://www.amazon.co.jp/s?k={kw}"
-        note = "（Amazonアソシエイト未承認 — 承認後タグ自動付与）"
-    else:
-        url = f"https://www.amazon.co.jp/s?k={kw}&tag={aid}"
+    rid = (MIDS.get("rakuten_affiliate") or {}).get("affiliate_id")
+    search_url = f"https://search.rakuten.co.jp/search/mall/{urllib.parse.quote(kw)}/"
+    if rid and rid != "TODO":
+        affiliated = (
+            f"https://hb.afl.rakuten.co.jp/hgc/{rid}/?pc=" +
+            urllib.parse.quote(search_url, safe="") +
+            "&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D"
+        )
+        url = affiliated
         note = ""
+    else:
+        url = search_url
+        note = "（楽天アフィリエイトID未登録 — 登録後タグ自動付与）"
     return (
         f'<aside class="cta-box">'
-        f'<h4>📚 関連書籍をAmazonで探す</h4>'
+        f'<h4>📚 関連書籍・グッズを楽天市場で探す</h4>'
         f'<p>「{html.escape(kw)}」で検索 {note}</p>'
-        f'<a class="cta-btn" href="{html.escape(url)}" rel="sponsored noopener" target="_blank">Amazonで見る</a>'
+        f'<a class="cta-btn" href="{html.escape(url)}" rel="sponsored noopener" target="_blank">楽天市場で見る</a>'
         f'</aside>'
     )
 
 
-def a8_cta(category: str) -> str:
-    sid = MON.get("a8_sid")
-    if not sid or sid == "TODO":
+def moshimo_cta(category: str) -> str:
+    """もしもアフィリエイト (中高生OK) — カテゴリ別の固定リンク先（IDがあれば）"""
+    aid = (MIDS.get("moshimo") or {}).get("a_id")
+    if not aid or aid == "TODO":
         return ""
-    # placeholder slot — user will paste actual A8 link tag here per category
-    return f'<aside class="cta-box"><h4>💡 関連サービス (PR)</h4><p>A8.netの広告タグをここに貼ると自動表示されます (sid: {sid})</p></aside>'
+    return (
+        f'<aside class="cta-box">'
+        f'<h4>💡 関連サービス (PR・もしもアフィリエイト)</h4>'
+        f'<p>カテゴリ「{html.escape(category)}」におすすめ — '
+        f'<a href="https://af.moshimo.com/af/c/click?a_id={html.escape(aid)}" rel="sponsored noopener" target="_blank">詳細を見る</a></p>'
+        f'</aside>'
+    )
 
 
 HEAD = """\
@@ -270,11 +284,11 @@ def build_post_page(post: dict) -> str:
     out.append(f'<h1>{html.escape(post["title"])}</h1>')
     out.append(f'<div class="meta">公開: {pub} | カテゴリ: {html.escape(cat)}</div>')
     out.append('</header>')
-    out.append(adsterra_block())
+    out.append(ad_block())
     out.append(body_html)
-    out.append(amazon_cta(post.get("keywords") or post.get("tags") or []))
-    out.append(a8_cta(cat))
-    out.append(adsterra_block())
+    out.append(rakuten_cta(post.get("keywords") or post.get("tags") or []))
+    out.append(moshimo_cta(cat))
+    out.append(ad_block())
     if post.get("source_url"):
         out.append(f'<p style="font-size:13px;color:var(--mut)">元情報: <a href="{html.escape(post["source_url"])}" rel="noopener" target="_blank">{html.escape(post.get("source_name",""))}</a></p>')
     if tags_html:
@@ -298,7 +312,7 @@ def build_index(posts: list[dict]) -> str:
     out = [head]
     out.append(f'<h1 style="margin-top:10px">{html.escape(SITE["name"])}</h1>')
     out.append(f'<p style="color:var(--mut)">{html.escape(SITE["tagline"])}</p>')
-    out.append(adsterra_block())
+    out.append(ad_block())
     out.append('<ul class="post-list">')
     for p in posts[:30]:
         slug = p["slug"]
