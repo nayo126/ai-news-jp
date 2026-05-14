@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-13T22:17:34.343126+00:00",
-  "count": 34,
+  "fetched_at": "2026-05-14T08:12:34.164537+00:00",
+  "count": 30,
   "items": [
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-c412990c",
+      "id": "openai_blog-ab666f01",
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "body": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
       "score": null,
@@ -14,7 +14,17 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-3d53a857",
+      "id": "openai_blog-eb61bd88",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "body": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-bcaf0427",
       "title": "How finance teams use Codex",
       "body": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "score": null,
@@ -24,7 +34,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-5877e63c",
+      "id": "openai_blog-66b7321a",
       "title": "AutoScout24 scales engineering with AI-powered workflows",
       "body": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
       "score": null,
@@ -34,7 +44,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-6875bffb",
+      "id": "openai_blog-f0a6202c",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "body": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "score": null,
@@ -44,7 +54,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-1f994089",
+      "id": "openai_blog-45f15773",
       "title": "How NVIDIA engineers and researchers build with Codex",
       "body": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
       "score": null,
@@ -54,7 +64,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-d8a4e369",
+      "id": "openai_blog-88feb6b0",
       "title": "How ChatGPT adoption broadened in early 2026",
       "body": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "score": null,
@@ -64,17 +74,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-716ae00a",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "body": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-293665f7",
+      "id": "openai_blog-88251fff",
       "title": "How enterprises are scaling AI",
       "body": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "score": null,
@@ -84,7 +84,17 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-a11db18d",
+      "id": "openai_blog-88d3ec3a",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "body": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-45123fa1",
       "title": "OpenAI launches DeployCo to help businesses build around intelligence",
       "body": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
       "score": null,
@@ -93,18 +103,8 @@
       "age_hours": null
     },
     {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-5437fefd",
-      "title": "Running Codex safely at OpenAI",
-      "body": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/running-codex-safely",
-      "age_hours": null
-    },
-    {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-3070a46a",
+      "id": "google_ai_blog-c904c38a",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp\">This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
       "score": null,
@@ -114,7 +114,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-d63b6fd5",
+      "id": "google_ai_blog-decda97",
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp\">Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
       "score": null,
@@ -124,7 +124,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-fff84903",
+      "id": "google_ai_blog-9725dbb6",
       "title": "5 gardening tips you can try right in Search",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp\">We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
       "score": null,
@@ -134,7 +134,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-4c57d038",
+      "id": "google_ai_blog-46545b79",
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\">Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "score": null,
@@ -144,7 +144,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-ca25d50b",
+      "id": "google_ai_blog-827aaeed",
       "title": "The latest AI news we announced in April 2026",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from April 2026",
       "score": null,
@@ -154,7 +154,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-9f8cfe75",
+      "id": "google_ai_blog-20982b9f",
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\">Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
       "score": null,
@@ -164,7 +164,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-6c330119",
+      "id": "google_ai_blog-2847e760",
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\">Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
       "score": null,
@@ -174,7 +174,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-c0c77b35",
+      "id": "google_ai_blog-2560a69e",
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\">Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
       "score": null,
@@ -184,7 +184,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-28d03008",
+      "id": "google_ai_blog-e65b4b7a",
       "title": "8 Gemini tips for organizing your space (and life)",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\">Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
       "score": null,
@@ -194,7 +194,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-1b75fcb9",
+      "id": "google_ai_blog-64fb91dd",
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\">Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
       "score": null,
@@ -204,7 +204,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-aaaed5da",
+      "id": "huggingface_blog-2ec16485",
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
       "body": "",
       "score": null,
@@ -214,7 +214,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-bde1e66f",
+      "id": "huggingface_blog-50ab0f28",
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
       "body": "",
       "score": null,
@@ -224,7 +224,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-3eb4d745",
+      "id": "huggingface_blog-119f45d0",
       "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "body": "",
       "score": null,
@@ -234,7 +234,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-2e1a3b28",
+      "id": "huggingface_blog-406d6aea",
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
       "body": "",
       "score": null,
@@ -244,7 +244,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-6219d2d2",
+      "id": "huggingface_blog-fd94ab16",
       "title": "Granite 4.1 LLMs: How They’re Built",
       "body": "",
       "score": null,
@@ -254,7 +254,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-be51ce0a",
+      "id": "huggingface_blog-df77eaf4",
       "title": "DeepInfra on Hugging Face Inference Providers 🔥",
       "body": "",
       "score": null,
@@ -264,7 +264,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-e90cb4da",
+      "id": "huggingface_blog-62cf729f",
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "body": "",
       "score": null,
@@ -274,7 +274,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-c791701e",
+      "id": "huggingface_blog-e72b3db",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "body": "",
       "score": null,
@@ -284,7 +284,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-1b9b0db8",
+      "id": "huggingface_blog-88d4fc00",
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "body": "",
       "score": null,
@@ -294,53 +294,13 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-3fe0df64",
+      "id": "huggingface_blog-3aa89ba1",
       "title": "How to Use Transformers.js in a Chrome Extension",
       "body": "",
       "score": null,
       "comments": null,
       "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "age_hours": null
-    },
-    {
-      "source": "hackernews",
-      "id": "hn-48126000",
-      "title": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
-      "body": "",
-      "score": 107,
-      "comments": 67,
-      "url": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
-      "age_hours": 3.3
-    },
-    {
-      "source": "hackernews",
-      "id": "hn-48126675",
-      "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
-      "body": "I spent a fortnight using Claude to create specs for every version of RAR, then another using gpt-5.5 to write compressors in Rust.<p>It&#x27;s not fast and it&#x27;s not pretty, but it works.",
-      "score": 65,
-      "comments": 46,
-      "url": "https://bitplane.net/log/2026/05/rars/",
-      "age_hours": 2.3
-    },
-    {
-      "source": "hackernews",
-      "id": "hn-48126438",
-      "title": "New Claude Code programmatic usage restrictions",
-      "body": "",
-      "score": 28,
-      "comments": 12,
-      "url": "https://twitter.com/i/status/2054610152817619388",
-      "age_hours": 2.6
-    },
-    {
-      "source": "hackernews",
-      "id": "hn-48128003",
-      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
-      "body": "I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don&#x27;t have access to them anymore.<p>This is a first. I never lost access to any of my past sessions because I unsubscribed in any of the LLM apps.<p>I actually wanted to try out codex previously, but had similar experience with my credits. They gave extra credits equivalent to my montly subscription price, with some time limit because claude has so many issues that month. And as soon as plan ended. I lost access to the credits. Even after resubscribing, I still don&#x27;t have access to those credits.<p>I have sympathies towards the engineers, especially the ones that are putting themselves on X. But only when someone with large following has some issue, they sort it out.<p>Having worked at a billing company, I can see how complex contracts sound good for the growth&#x2F;sales folks but are also horrible for engineers actually implementing those contracts. Their complex rate limiting which is now a norm, identifying other harnesses to count them against extra usage are all probably not easy to implement without very rough edge cases. But all the &quot;bugs&quot; are just where the user gets screwed is what is problematic.<p>I just wanted to post this here, after tagging them multiple times on X to alert other users.",
-      "score": 12,
-      "comments": 0,
-      "url": "https://news.ycombinator.com/item?id=48128003",
-      "age_hours": 0.6
     }
   ]
 }
