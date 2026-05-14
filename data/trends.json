@@ -1,10 +1,20 @@
 {
-  "fetched_at": "2026-05-14T08:21:01.089174+00:00",
-  "count": 30,
+  "fetched_at": "2026-05-14T10:16:01.725809+00:00",
+  "count": 33,
   "items": [
     {
+      "source": "reddit/r/ChatGPT",
+      "id": "reddit-1tcrlbm",
+      "title": "Life before this tweet",
+      "body": "",
+      "score": 592,
+      "comments": 35,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tcrlbm/life_before_this_tweet/",
+      "age_hours": 2.1
+    },
+    {
       "source": "rss/openai_blog",
-      "id": "openai_blog-30e632b2",
+      "id": "openai_blog-b2d986be",
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "body": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
       "score": null,
@@ -14,7 +24,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-b23252cd",
+      "id": "openai_blog-3c456ac7",
       "title": "Our response to the TanStack npm supply chain attack",
       "body": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
       "score": null,
@@ -24,7 +34,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-5bfb2966",
+      "id": "openai_blog-ccdebb29",
       "title": "How finance teams use Codex",
       "body": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "score": null,
@@ -34,27 +44,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-cc017d53",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "body": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/autoscout24",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-47545e82",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "body": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-cc4d5d0e",
+      "id": "openai_blog-414f82a7",
       "title": "How NVIDIA engineers and researchers build with Codex",
       "body": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
       "score": null,
@@ -64,7 +54,27 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-112d4240",
+      "id": "openai_blog-af0f6336",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "body": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-48632495",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "body": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/index/autoscout24",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-ced5f8c0",
       "title": "How ChatGPT adoption broadened in early 2026",
       "body": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "score": null,
@@ -74,17 +84,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-d5b523b",
-      "title": "How enterprises are scaling AI",
-      "body": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "score": null,
-      "comments": null,
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "age_hours": null
-    },
-    {
-      "source": "rss/openai_blog",
-      "id": "openai_blog-2319fb13",
+      "id": "openai_blog-57381c5c",
       "title": "OpenAI Campus Network: Student club interest form",
       "body": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
       "score": null,
@@ -94,7 +94,17 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-d958233f",
+      "id": "openai_blog-10f6afa4",
+      "title": "How enterprises are scaling AI",
+      "body": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "score": null,
+      "comments": null,
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "age_hours": null
+    },
+    {
+      "source": "rss/openai_blog",
+      "id": "openai_blog-7074bbe8",
       "title": "OpenAI launches DeployCo to help businesses build around intelligence",
       "body": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
       "score": null,
@@ -104,7 +114,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-2555604e",
+      "id": "google_ai_blog-5184bd07",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp\">This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
       "score": null,
@@ -114,7 +124,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-e8320c25",
+      "id": "google_ai_blog-187e2b95",
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp\">Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
       "score": null,
@@ -124,7 +134,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-bc0fd771",
+      "id": "google_ai_blog-b09553b",
       "title": "5 gardening tips you can try right in Search",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp\">We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
       "score": null,
@@ -134,7 +144,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-68fb28af",
+      "id": "google_ai_blog-40ebf007",
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\">Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "score": null,
@@ -144,7 +154,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-41874ec6",
+      "id": "google_ai_blog-717d400d",
       "title": "The latest AI news we announced in April 2026",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from April 2026",
       "score": null,
@@ -154,7 +164,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-2711a960",
+      "id": "google_ai_blog-628807bc",
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\">Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
       "score": null,
@@ -164,7 +174,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-87029a10",
+      "id": "google_ai_blog-4534db1c",
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\">Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
       "score": null,
@@ -174,7 +184,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-f1747803",
+      "id": "google_ai_blog-154d7c60",
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\">Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
       "score": null,
@@ -184,7 +194,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-bc4f7e7f",
+      "id": "google_ai_blog-b7a45878",
       "title": "8 Gemini tips for organizing your space (and life)",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\">Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
       "score": null,
@@ -194,7 +204,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-789e2a2d",
+      "id": "google_ai_blog-34278c17",
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\">Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
       "score": null,
@@ -204,7 +214,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-5de12724",
+      "id": "huggingface_blog-5d50464c",
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
       "body": "",
       "score": null,
@@ -214,7 +224,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-55c2b13c",
+      "id": "huggingface_blog-6b805ca4",
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
       "body": "",
       "score": null,
@@ -224,7 +234,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-e870347d",
+      "id": "huggingface_blog-aec13075",
       "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "body": "",
       "score": null,
@@ -234,7 +244,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-79293282",
+      "id": "huggingface_blog-63d14053",
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
       "body": "",
       "score": null,
@@ -244,7 +254,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-ff9d7acf",
+      "id": "huggingface_blog-6b9b94fb",
       "title": "Granite 4.1 LLMs: How They’re Built",
       "body": "",
       "score": null,
@@ -254,7 +264,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-57f68bb4",
+      "id": "huggingface_blog-a488350b",
       "title": "DeepInfra on Hugging Face Inference Providers 🔥",
       "body": "",
       "score": null,
@@ -264,7 +274,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-59a38f52",
+      "id": "huggingface_blog-f1980478",
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "body": "",
       "score": null,
@@ -274,7 +284,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-3b362c9c",
+      "id": "huggingface_blog-fe5af065",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "body": "",
       "score": null,
@@ -284,7 +294,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-45f6d218",
+      "id": "huggingface_blog-ee56c7ec",
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "body": "",
       "score": null,
@@ -294,13 +304,33 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-35c72413",
+      "id": "huggingface_blog-40f96855",
       "title": "How to Use Transformers.js in a Chrome Extension",
       "body": "",
       "score": null,
       "comments": null,
       "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "age_hours": null
+    },
+    {
+      "source": "reddit/r/singularity",
+      "id": "reddit-1tcl5bh",
+      "title": "FDA Shortens Clinical Trial Timelines for Drugs and Medical Devices with AI",
+      "body": "Causal AI helps shorten drug clinical trial timelines.\n\nThe first-of-its-kind pilot could lead to speedier regulatory approval of medical drugs and devices and potentially reduce “20, 30, 40% of overall clinical trial time,” according to FDA Chief Artificial Intelligence Officer Jeremy Walsh.\n\nhttps://www.govexec.com/technology/2026/04/fda-pilot-real-time-clinical-drug-trials-cloud-ai/413199/",
+      "score": 92,
+      "comments": 18,
+      "url": "https://reddit.com/r/singularity/comments/1tcl5bh/fda_shortens_clinical_trial_timelines_for_drugs/",
+      "age_hours": 7.5
+    },
+    {
+      "source": "reddit/r/LocalLLaMA",
+      "id": "reddit-1tcc7h5",
+      "title": "24+ tok/s from ~30B MoE models on an old GTX 1080 (8 GB VRAM, 128k context)",
+      "body": "I got **Qwen 3.6 35B-A3B** and **Gemma 4 26B-A4B** running on a $200 secondhand machine (i7-6700 / GTX 1080 / 32 GB RAM) using llama.cpp (the TurboQuant/RotorQuant KV cache quantisation allows 128k context within the 8 GB VRAM).\n\n**Results (Q4\\_K\\_M models, 128k context):**\n\n|Model|tok/s|Key flags|\n|:-|:-|:-|\n|Qwen 3.6 35B-A3B|\\~24| \\--n-cpu-moe 30, K=turbo4 V=turbo3|\n|Gemma 4 26B-A4B (no MTP) |\\~20|\\--n-cpu-moe 20, K=V=turbo3, --flash-attn|\n|Gemma 4 26B-A4B + MTP (naive)|\\~21|embedding table silently on CPU|\n|Gemma 4 26B-A4B + MTP (fixed)|\\~24.5|\\--override-tensor-draft \"token\\_embd\\\\.weight=CUDA0\"|\n\nThe trick is MoE offloading: llama.cpp can park the cold expert weights in system RAM, and stream over PCIe to the GPU, while keeping hot layers + KV cache on GPU. The system is fully PCIe bandwidth-limited (GPU sits at \\~40-50% utilisation while PCIe 3.0 x16 is maxed out).\n\n**Biggest finding:** Gemma 4's MTP speculative decoding barely helps out of the box (\\~5% gain). Turns out llama.cpp unconditionally keeps the token embedding table on CPU. Normally that's fine (just a `get_rows` lookup), but Gemma 4's MTP assistant has a tied LM head - so every draft token does a full 262k×1024 matmul across PCIe.  Forcing it onto GPU with `--override-tensor-draft` gives the real \\~22% speedup and \\~79% draft acceptance rate.\n\n**Setup pain points (Fedora 42 + Pascal GPU):**\n\n* Pin akmod-nvidia to 580xx branch (Pascal is going legacy)\n* Force gcc-14 for CUDA 12.9 (newer gcc rejected)\n* Patch CUDA's math\\_functions.h for glibc 2.41 compatibility\n* Used the AtomicBot-ai/atomic-llama-cpp-turboquant fork for both TurboQuant cache + Gemma MTP support\n\n[Full blog post with all the grindy build details](https://mdda.net/blog/tech/dl/llama-cpp-moe-on-an-old-gtx-1080) (every command, and the debugging deep-dive into the MTP embedding table issue)\n\nI'm also planning a YouTube video walkthrough soon -  I'll update when that's live.\n\nHappy to answer questions about the setup.",
+      "score": 84,
+      "comments": 40,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1tcc7h5/24_toks_from_30b_moe_models_on_an_old_gtx_1080_8/",
+      "age_hours": 13.6
     }
   ]
 }
