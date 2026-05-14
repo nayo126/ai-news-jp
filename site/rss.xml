@@ -5,25 +5,39 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
-<title>OpenAI Codex活用術: 財務チームがMBR・分散分析・経営計画を自動化する方法</title>
+<title>OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html</guid>
-<pubDate>2026-05-14T08:14:24.170069+00:00</pubDate>
-<description>OpenAIがCodexを使った財務チーム向けの実務ガイドを公開。MBRやレポーティング、分散分析、モデル検証、シナリオ計画の自動化手法を解説する。</description>
+<pubDate>2026-05-14T08:22:34.046829+00:00</pubDate>
+<description>OpenAIがCodexの財務チーム向け活用ガイドを公開。MBR作成、差異ブリッジ、モデルチェック、計画シナリオなど実務での使い方を解説。</description>
 </item>
 <item>
-<title>OpenAI、TanStack npm供給チェーン攻撃に対応 macOSアプリは2026年6月12日までに更新必須</title>
+<title>OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html</guid>
-<pubDate>2026-05-14T08:13:48.512894+00:00</pubDate>
-<description>OpenAIがTanStack npmを標的にした「Mini Shai-Hulud」供給チェーン攻撃への対応を公表。macOS版アプリは2026年6月12日までの更新が必要。影響範囲と再発防止策を解説。</description>
+<pubDate>2026-05-14T08:22:00.246356+00:00</pubDate>
+<description>OpenAIがTanStack npmサプライチェーン攻撃「Mini Shai-Hulud」への対応を公表。macOS版アプリ利用者は2026年6月12日までの更新が必要。被害範囲と再発防止策を解説。</description>
 </item>
 <item>
-<title>OpenAI、Codex on Windowsで安全なサンドボックス環境を構築</title>
+<title>OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html</guid>
+<pubDate>2026-05-14T08:21:28.283101+00:00</pubDate>
+<description>OpenAIがWindows版Codexに専用サンドボックスを導入。ファイルアクセス制限とネットワーク制御で、安全かつ効率的なコーディングエージェント実行環境を構築した経緯と仕組みを解説。</description>
+</item>
+<item>
+<title>OpenAI Codex on Windows対応、安全なサンドボックス設計を公開</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows.html</guid>
-<pubDate>2026-05-14T08:13:03.705612+00:00</pubDate>
-<description>OpenAIがWindows版Codexで実装したセキュアなサンドボックス技術を解説。ファイルアクセス制御とネットワーク制限により、安全で効率的なコーディングエージェントを実現する仕組みとは。</description>
+<pubDate>2026-05-14T08:18:57.340972+00:00</pubDate>
+<description>OpenAIがコーディングエージェントCodexをWindowsで動作させるサンドボックス技術を解説。ファイルアクセスとネットワーク制限の仕組みと開発者への影響を整理する。</description>
+</item>
+<item>
+<title>OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html</guid>
+<pubDate>2026-05-14T08:15:52.465525+00:00</pubDate>
+<description>OpenAIがWindows版Codexで安全に動くサンドボックスを公開。ファイルアクセス制限とネットワーク制御で、開発者がAIエージェントを安心して動かせる仕組みを解説する。</description>
 </item>
 <item>
 <title>Claude Proの使用制限が話題、映画『In Time』に例えるRedditユーザーの嘆き</title>

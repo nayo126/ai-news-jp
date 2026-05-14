@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-14T08:12:34.164537+00:00",
+  "fetched_at": "2026-05-14T08:21:01.089174+00:00",
   "count": 30,
   "items": [
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-ab666f01",
+      "id": "openai_blog-30e632b2",
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "body": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
       "score": null,
@@ -14,7 +14,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-eb61bd88",
+      "id": "openai_blog-b23252cd",
       "title": "Our response to the TanStack npm supply chain attack",
       "body": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
       "score": null,
@@ -24,7 +24,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-bcaf0427",
+      "id": "openai_blog-5bfb2966",
       "title": "How finance teams use Codex",
       "body": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "score": null,
@@ -34,7 +34,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-66b7321a",
+      "id": "openai_blog-cc017d53",
       "title": "AutoScout24 scales engineering with AI-powered workflows",
       "body": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
       "score": null,
@@ -44,7 +44,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-f0a6202c",
+      "id": "openai_blog-47545e82",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "body": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "score": null,
@@ -54,7 +54,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-45f15773",
+      "id": "openai_blog-cc4d5d0e",
       "title": "How NVIDIA engineers and researchers build with Codex",
       "body": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
       "score": null,
@@ -64,7 +64,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-88feb6b0",
+      "id": "openai_blog-112d4240",
       "title": "How ChatGPT adoption broadened in early 2026",
       "body": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "score": null,
@@ -74,7 +74,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-88251fff",
+      "id": "openai_blog-d5b523b",
       "title": "How enterprises are scaling AI",
       "body": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "score": null,
@@ -84,7 +84,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-88d3ec3a",
+      "id": "openai_blog-2319fb13",
       "title": "OpenAI Campus Network: Student club interest form",
       "body": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
       "score": null,
@@ -94,7 +94,7 @@
     },
     {
       "source": "rss/openai_blog",
-      "id": "openai_blog-45123fa1",
+      "id": "openai_blog-d958233f",
       "title": "OpenAI launches DeployCo to help businesses build around intelligence",
       "body": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
       "score": null,
@@ -104,7 +104,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-c904c38a",
+      "id": "google_ai_blog-2555604e",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp\">This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
       "score": null,
@@ -114,7 +114,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-decda97",
+      "id": "google_ai_blog-e8320c25",
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp\">Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
       "score": null,
@@ -124,7 +124,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-9725dbb6",
+      "id": "google_ai_blog-bc0fd771",
       "title": "5 gardening tips you can try right in Search",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp\">We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
       "score": null,
@@ -134,7 +134,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-46545b79",
+      "id": "google_ai_blog-68fb28af",
       "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\">Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "score": null,
@@ -144,7 +144,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-827aaeed",
+      "id": "google_ai_blog-41874ec6",
       "title": "The latest AI news we announced in April 2026",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from April 2026",
       "score": null,
@@ -154,7 +154,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-20982b9f",
+      "id": "google_ai_blog-2711a960",
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp\">Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
       "score": null,
@@ -164,7 +164,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-2847e760",
+      "id": "google_ai_blog-87029a10",
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp\">Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
       "score": null,
@@ -174,7 +174,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-2560a69e",
+      "id": "google_ai_blog-f1747803",
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp\">Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
       "score": null,
@@ -184,7 +184,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-e65b4b7a",
+      "id": "google_ai_blog-bc4f7e7f",
       "title": "8 Gemini tips for organizing your space (and life)",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp\">Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
       "score": null,
@@ -194,7 +194,7 @@
     },
     {
       "source": "rss/google_ai_blog",
-      "id": "google_ai_blog-64fb91dd",
+      "id": "google_ai_blog-789e2a2d",
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "body": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\">Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
       "score": null,
@@ -204,7 +204,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-2ec16485",
+      "id": "huggingface_blog-5de12724",
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
       "body": "",
       "score": null,
@@ -214,7 +214,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-50ab0f28",
+      "id": "huggingface_blog-55c2b13c",
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
       "body": "",
       "score": null,
@@ -224,7 +224,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-119f45d0",
+      "id": "huggingface_blog-e870347d",
       "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "body": "",
       "score": null,
@@ -234,7 +234,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-406d6aea",
+      "id": "huggingface_blog-79293282",
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
       "body": "",
       "score": null,
@@ -244,7 +244,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-fd94ab16",
+      "id": "huggingface_blog-ff9d7acf",
       "title": "Granite 4.1 LLMs: How They’re Built",
       "body": "",
       "score": null,
@@ -254,7 +254,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-df77eaf4",
+      "id": "huggingface_blog-57f68bb4",
       "title": "DeepInfra on Hugging Face Inference Providers 🔥",
       "body": "",
       "score": null,
@@ -264,7 +264,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-62cf729f",
+      "id": "huggingface_blog-59a38f52",
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "body": "",
       "score": null,
@@ -274,7 +274,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-e72b3db",
+      "id": "huggingface_blog-3b362c9c",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "body": "",
       "score": null,
@@ -284,7 +284,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-88d4fc00",
+      "id": "huggingface_blog-45f6d218",
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "body": "",
       "score": null,
@@ -294,7 +294,7 @@
     },
     {
       "source": "rss/huggingface_blog",
-      "id": "huggingface_blog-3aa89ba1",
+      "id": "huggingface_blog-35c72413",
       "title": "How to Use Transformers.js in a Chrome Extension",
       "body": "",
       "score": null,

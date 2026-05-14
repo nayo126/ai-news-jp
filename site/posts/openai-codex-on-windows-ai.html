@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築</title>
+<meta name="description" content="OpenAIがWindows版Codexで安全に動くサンドボックスを公開。ファイルアクセス制限とネットワーク制御で、開発者がAIエージェントを安心して動かせる仕組みを解説する。" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html" />
+<meta property="og:title" content="OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築" />
+<meta property="og:description" content="OpenAIがWindows版Codexで安全に動くサンドボックスを公開。ファイルアクセス制限とネットワーク制御で、開発者がAIエージェントを安心して動かせる仕組みを解説する。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築", "description": "OpenAIがWindows版Codexで安全に動くサンドボックスを公開。ファイルアクセス制限とネットワーク制御で、開発者がAIエージェントを安心して動かせる仕組みを解説する。", "datePublished": "2026-05-14T08:15:52.465525+00:00", "dateModified": "2026-05-14T08:15:52.465525+00:00", "author": {"@type": "Person", "name": "高校生・AI×副業ラボ"}, "publisher": {"@type": "Organization", "name": "AI News JP"}, "mainEntityOfPage": "https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html", "keywords": "Codex Windows サンドボックス, OpenAI Codex 使い方, AIエージェント セキュリティ, Windows コーディングエージェント, Codex 安全性"}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Hiragino Kaku Gothic ProN","Yu Gothic","Meiryo",sans-serif;color:var(--fg);background:var(--bg);line-height:1.75;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI News JP</a></h1>
+<nav>
+<a href="/">トップ</a>
+<a href="/categories.html">カテゴリ</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">ChatGPT</span></div>
+<h1>OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築</h1>
+<div class="meta">公開: 2026-05-14 | カテゴリ: ChatGPT</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>広告枠 (忍者AdMax設定後に自動表示)</span></div>
+<h2>3行まとめ</h2>
+<ul>
+<li>OpenAIがCodex on Windows向けの安全なサンドボックスを公開</li>
+<li>ファイル操作とネットワーク通信を制限しAI暴走を抑制</li>
+<li>Windows開発者がコーディングエージェントを安心して導入可能</li>
+</ul>
+<h2>ニュースの中身</h2>
+<p>OpenAIは2026年5月、AIコーディングエージェント「Codex」をWindows環境で安全に動かすためのサンドボックス技術を公開した。Codexは指示に応じてコードを書いたり、ファイルを編集したり、コマンドを実行したりするエージェントだが、これまではmacOSやLinuxが中心で、Windowsでの安全な実行環境は手薄だった。</p>
+<p>今回発表された仕組みでは、Codexが触れるディレクトリを限定し、書き込み可能領域を明示的に指定する。さらにネットワークアクセスもデフォルトで制限し、必要なドメインのみ許可するホワイトリスト方式を採用。これによりエージェントが意図せず外部に通信したり、ユーザーのシステムファイルを書き換えるリスクを下げる設計になっている。OpenAIはWindowsカーネルが提供するセキュリティ機能を組み合わせ、コンテナに頼らず軽量に動作する点も強調している。</p>
+<h2>なぜ重要か</h2>
+<p>AIエージェント市場ではGitHub CopilotやAnthropicのClaude Code、GoogleのGemini CLIなどが競合しており、コード生成だけでなく「自律実行」の安全性が次の競争軸になっている。Windowsは世界で最もユーザー数が多いOSで、ここでCodexが安全に動けば導入企業の裾野は一気に広がる。</p>
+<p>また、ローカルでファイルとコマンドを扱うエージェントは、誤動作するとプロジェクトを壊したり、認証情報を流出させる恐れがある。サンドボックス標準化はそうしたリスクを下げ、企業のセキュリティ部門が承認しやすくなる点でも意味が大きい。Cursor、Devin、Replit Agentなど他のエージェント系プロダクトの設計にも波及する可能性が高い。</p>
+<h2>高校生でも今すぐ試せること</h2>
+<ul>
+<li>OpenAIの公式ドキュメントでCodexの利用条件と無料枠を確認する</li>
+<li>WindowsのPowerShellで簡単なPythonスクリプトをCodexに書かせて挙動を見る</li>
+<li>作業用フォルダを限定し、書き込み権限を最小限にする習慣をつける</li>
+<li>gitリポジトリ単位で動かして、変更はcommit前にdiffで必ず確認する</li>
+<li>学校の課題や副業用コードは、サンドボックス外の本番ディレクトリでいきなり動かさない</li>
+</ul>
+<h2>関連リンク</h2>
+<h3><a href="https://openai.com/index/building-codex-windows-sandbox" rel="noopener" target="_blank">Building a safe, effective sandbox to enable Codex on Windows（OpenAI公式）</a></h3>
+<h3><a href="https://openai.com/codex" rel="noopener" target="_blank">OpenAI Codex 製品ページ</a></h3>
+<h3><a href="https://learn.microsoft.com/windows/security/" rel="noopener" target="_blank">Microsoft Windows セキュリティドキュメント</a></h3>
+<aside class="cta-box"><h4>📚 関連書籍・グッズを楽天市場で探す</h4><p>「Codex Windows サンドボックス」で検索 （楽天アフィリエイトID未登録 — 登録後タグ自動付与）</p><a class="cta-btn" href="https://search.rakuten.co.jp/search/mall/Codex%20Windows%20%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/" rel="sponsored noopener" target="_blank">楽天市場で見る</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>広告枠 (忍者AdMax設定後に自動表示)</span></div>
+<p style="font-size:13px;color:var(--mut)">元情報: <a href="https://openai.com/index/building-codex-windows-sandbox" rel="noopener" target="_blank">rss/openai_blog</a></p>
+<div class="tags"><span>OpenAI</span><span>Codex</span><span>Windows</span><span>AIエージェント</span><span>サンドボックス</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI News JP — Claude / ChatGPT / 最新AIツール 日本語解説<br>
+本サイトはAmazon.co.jpアソシエイト・A8.netの広告が掲載される場合があります。
+</footer>
+</body>
+</html>
