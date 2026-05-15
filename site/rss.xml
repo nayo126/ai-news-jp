@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html</guid>
+<pubDate>2026-05-15T10:18:03.120315+00:00</pubDate>
+<description>東南アジア最大手Sea LimitedがOpenAI Codexをエンジニアリング部門に展開。CPOが語るAIネイティブ開発と、Codexで変わる業務フローの全体像を解説する。</description>
+</item>
+<item>
+<title>Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html</guid>
+<pubDate>2026-05-15T10:17:31.072412+00:00</pubDate>
+<description>Reddit r/ClaudeAIで話題のAIの過剰な同調問題。Claudeに本気で批評させ、質の高い指摘を引き出すための具体的なプロンプト設計と運用のコツを解説する。</description>
+</item>
+<item>
+<title>Figure 03が30時間連続稼働を達成 ヒューマノイドロボットの実用化が加速</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/figure-03-30.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/figure-03-30.html</guid>
+<pubDate>2026-05-15T10:16:59.808544+00:00</pubDate>
+<description>Figure AIの最新ヒューマノイドロボット「Figure 03」が30時間以上の連続稼働を実現。労働代替の現実味と影響を解説する。</description>
+</item>
+<item>
 <title>OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html</guid>
