@@ -50,3 +50,16 @@ AIエージェント市場ではGitHub CopilotやAnthropicのClaude Code、Googl
 ### [Building a safe, effective sandbox to enable Codex on Windows（OpenAI公式）](https://openai.com/index/building-codex-windows-sandbox)
 ### [OpenAI Codex 製品ページ](https://openai.com/codex)
 ### [Microsoft Windows セキュリティドキュメント](https://learn.microsoft.com/windows/security/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-windows-codex.html)
+- [OpenAI Codex on Windows対応、安全なサンドボックス設計を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-on-windows.html)
+- [OpenAI、Codex Windows対応へ。安全なサンドボックスでAIコーディングを実現](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-openai-codex-windows-ai.html)
+
+### 姉妹サイトの関連記事
+- [AIエージェント フレームワーク比較2026｜主要5つの違い](https://nayo126.github.io/auto-blog/blog/aiエージェント-フレームワーク比較2026主要5つの違い/) — auto-blog
+
+<!-- SEO_MESH_END -->

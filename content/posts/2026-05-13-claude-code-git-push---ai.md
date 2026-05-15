@@ -58,3 +58,16 @@ AIコーディングが普及するなか、人間が書くコードよりもAI�
 ### [Claude Code公式ドキュメント](https://docs.anthropic.com/claude/docs/claude-code)
 
 ### [GitHub Student Developer Pack](https://education.github.com/pack)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-sea-limited-openai-codex.html)
+
+### 姉妹サイトの関連記事
+- [Claude Artifacts個人開発の活用5選](https://nayo126.github.io/auto-blog/blog/claude-artifacts個人開発の活用5選/) — auto-blog
+- [AIコード生成ツールおすすめ7選｜2026年最新ランキング](https://nayo126.github.io/auto-blog/blog/aiコード生成ツールおすすめ7選2026年最新ランキング/) — auto-blog
+- [Claude副業の始め方｜2026年5月最新7ステップ](https://nayo126.github.io/auto-blog/blog/claude副業の始め方2026年5月最新7ステップ/) — auto-blog
+
+<!-- SEO_MESH_END -->

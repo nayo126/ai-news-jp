@@ -58,3 +58,13 @@ OpenAIは公式の学習プラットフォーム「OpenAI Academy」で、AIコ�
 ### How finance teams use Codex (OpenAI Academy)
 ### OpenAI Codex公式ドキュメント
 ### Claude CodeとCodexの比較解説
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-mbr.html)
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-windows-codex.html)
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-sea-limited-openai-codex.html)
+
+<!-- SEO_MESH_END -->

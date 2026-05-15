@@ -57,3 +57,18 @@ OpenAIのGPT-4系モデルは、文脈理解力と推論能力の向上により
 ### 関連記事
 - [OpenAI公式ブログ](https://openai.com/blog)
 - [ChatGPT利用ガイド](https://help.openai.com/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html)
+- [ChatGPTに「引退後の自分」を想像させる質問が話題｜AIの自己認識を引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-chatgpt-ai.html)
+- [Figure 03ライブストリームで奇妙な瞬間 — 遠隔操作疑惑が再燃](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-figure-03.html)
+
+### 姉妹サイトの関連記事
+- [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+- [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/) — auto-blog
+- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
+
+<!-- SEO_MESH_END -->

@@ -63,3 +63,16 @@ https://www.anthropic.com/pricing
 
 ### 映画『In Time』作品情報 (IMDb)
 https://www.imdb.com/title/tt1637688/
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Figure 03ライブストリームで奇妙な瞬間 — 遠隔操作疑惑が再燃](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-figure-03.html)
+- [ChatGPTに「引退後の自分」を想像させる質問が話題｜AIの自己認識を引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-chatgpt-ai.html)
+- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-chatgpt-reddit-r-chatgpt.html)
+
+### 姉妹サイトの関連記事
+- [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+
+<!-- SEO_MESH_END -->

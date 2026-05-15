@@ -54,3 +54,18 @@ RedditのChatGPT関連サブレディットは登録者数が数百万人規模�
 ### [元スレッド: I asked ChatGPT to imagine itself in retirement (Reddit)](https://reddit.com/r/ChatGPT/comments/1tb7bds/i_asked_chatgpt_to_imagine_itself_in_retirement/)
 ### [ChatGPT公式: プロンプトエンジニアリングガイド](https://platform.openai.com/docs/guides/prompt-engineering)
 ### [r/ChatGPT サブレディット](https://reddit.com/r/ChatGPT)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-chatgpt-reddit-r-chatgpt.html)
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html)
+- [Figure 03ライブストリームで奇妙な瞬間 — 遠隔操作疑惑が再燃](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-figure-03.html)
+
+### 姉妹サイトの関連記事
+- [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
+- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/) — auto-blog
+
+<!-- SEO_MESH_END -->

@@ -52,3 +52,13 @@ AIコーディングエージェント領域では、AnthropicのClaude Code、C
 ### [Building a safe, effective sandbox to enable Codex on Windows - OpenAI](https://openai.com/index/building-codex-windows-sandbox)
 ### [OpenAI Codex 公式ページ](https://openai.com/codex)
 ### [OpenAI Platform ドキュメント](https://platform.openai.com/docs)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-windows-codex.html)
+- [OpenAI Codex on Windows対応、安全なサンドボックス設計を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-on-windows.html)
+- [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-on-windows-ai.html)
+
+<!-- SEO_MESH_END -->

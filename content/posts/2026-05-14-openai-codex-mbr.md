@@ -60,3 +60,16 @@ Codexはこの分析・要約・検証の領域に踏み込むツールとして
 ### [OpenAI公式ブログ](https://openai.com/blog)
 
 ### [ChatGPTのデータ分析機能解説](https://openai.com/chatgpt)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-openai-codex-mbr.html)
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-windows-codex.html)
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-sea-limited-openai-codex.html)
+
+### 姉妹サイトの関連記事
+- [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/) — auto-blog
+
+<!-- SEO_MESH_END -->

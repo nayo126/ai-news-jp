@@ -50,3 +50,16 @@ OpenAIは2026年5月、コーディングエージェント「Codex」をWindows
 ### [OpenAI公式: Building a safe, effective sandbox to enable Codex on Windows](https://openai.com/index/building-codex-windows-sandbox)
 ### [Codex CLI ドキュメント](https://platform.openai.com/docs/codex)
 ### [AIコーディングエージェント比較記事](https://openai.com/index/codex)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [OpenAI Codex on Windows対応、安全なサンドボックス設計を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-on-windows.html)
+- [OpenAI、Codex Windows対応へ。安全なサンドボックスでAIコーディングを実現](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-openai-codex-windows-ai.html)
+- [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-on-windows-ai.html)
+
+### 姉妹サイトの関連記事
+- [AIエージェント フレームワーク比較2026｜主要5つの違い](https://nayo126.github.io/auto-blog/blog/aiエージェント-フレームワーク比較2026主要5つの違い/) — auto-blog
+
+<!-- SEO_MESH_END -->

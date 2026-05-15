@@ -50,3 +50,16 @@ OpenAIは公式ブログで、東南アジア最大級のテック企業Sea Limi
 ### [Sea's View on the Future of Agentic Software Development with Codex (OpenAI公式)](https://openai.com/index/sea-david-chen)
 ### [OpenAI Codex 公式ドキュメント](https://openai.com/index/introducing-codex)
 ### [ChatGPT Enterprise の導入事例](https://openai.com/chatgpt/enterprise)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-windows-codex.html)
+- [OpenAI Codex on Windows対応、安全なサンドボックス設計を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-on-windows.html)
+- [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-on-windows-ai.html)
+
+### 姉妹サイトの関連記事
+- [Claude Artifacts個人開発の活用5選](https://nayo126.github.io/auto-blog/blog/claude-artifacts個人開発の活用5選/) — auto-blog
+
+<!-- SEO_MESH_END -->

@@ -52,3 +52,13 @@ OpenAIのように利用者が多いサービスが透明性をもって対応�
 ### [OpenAI公式: Our response to the TanStack npm supply chain attack](https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack)
 ### [npm公式ドキュメント: Auditing package dependencies for security vulnerabilities](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities)
 ### [GitHub Advisory Database](https://github.com/advisories)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-windows-codex.html)
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-sea-limited-openai-codex.html)
+- [OpenAI Codex on Windows対応、安全なサンドボックス設計を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-on-windows.html)
+
+<!-- SEO_MESH_END -->
