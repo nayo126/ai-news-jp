@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>llama.cpp に MTP 実装が承認──Multi-Token Prediction でローカルLLM高速化へ</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/llama-cpp-mtp-multi-token-prediction-llm.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/llama-cpp-mtp-multi-token-prediction-llm.html</guid>
+<pubDate>2026-05-16T18:24:04.502900+00:00</pubDate>
+<description>ローカルLLM実行の定番 llama.cpp に Multi-Token Prediction (MTP) のマージが承認された。推論速度の改善が期待される最新動向と影響を解説。</description>
+</item>
+<item>
+<title>ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html</guid>
+<pubDate>2026-05-16T18:23:34.986095+00:00</pubDate>
+<description>Redditの「Me thinking I cooked」投稿が拡散。一晩かけたコードをLLMに貼ったら設計欠陥3つと競合状態を即指摘された体験談から、AIコードレビューの実用性を解説する。</description>
+</item>
+<item>
+<title>ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html</guid>
+<pubDate>2026-05-16T18:23:00.407823+00:00</pubDate>
+<description>Reddit r/ChatGPTで話題の『Love at first prompt』投稿を解説。AIチャットボットとユーザーの感情的な結びつきが新たな議論を呼んでいる現状と、その背景を分析する。</description>
+</item>
+<item>
 <title>OpenAI Codex活用法：営業チームがパイプライン管理と商談準備を自動化する5つの方法</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</guid>

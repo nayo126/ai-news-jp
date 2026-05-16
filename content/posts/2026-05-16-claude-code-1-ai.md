@@ -50,3 +50,18 @@ Claude Code は2024年後半から提供されているターミナル型のAI�
 ### [元スレッド: r/ClaudeAI](https://reddit.com/r/ClaudeAI/comments/1te033e/bros_been_editing_for_almost_an_hour/)
 ### [Claude Code 公式ドキュメント](https://docs.anthropic.com/claude/docs/claude-code)
 ### [Anthropic 利用料金ページ](https://www.anthropic.com/pricing)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-chatgpt-left-or-right-ai.html)
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-chatgpt-love-at-first-prompt-reddit-ai.html)
+- [Figure 03ライブストリームで奇妙な瞬間 — 遠隔操作疑惑が再燃](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-figure-03.html)
+
+### 姉妹サイトの関連記事
+- [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+- [Claude Codeおすすめターミナル7選｜2026年最新比較](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめターミナル7選2026年最新比較/) — auto-blog
+- [AIコード生成ツールおすすめ7選｜2026年最新ランキング](https://nayo126.github.io/auto-blog/blog/aiコード生成ツールおすすめ7選2026年最新ランキング/) — auto-blog
+
+<!-- SEO_MESH_END -->

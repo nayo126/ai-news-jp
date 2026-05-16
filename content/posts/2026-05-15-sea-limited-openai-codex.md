@@ -60,6 +60,8 @@ OpenAIは公式ブログで、東南アジア最大級のテック企業Sea Limi
 - [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-on-windows-ai.html)
 
 ### 姉妹サイトの関連記事
+- [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/) — auto-blog
+- [bolt.new 評判は本当？AI開発の実力を徹底検証2026](https://nayo126.github.io/auto-blog/blog/boltnew-評判は本当ai開発の実力を徹底検証2026/) — auto-blog
 - [Claude Artifacts個人開発の活用5選](https://nayo126.github.io/auto-blog/blog/claude-artifacts個人開発の活用5選/) — auto-blog
 
 <!-- SEO_MESH_END -->

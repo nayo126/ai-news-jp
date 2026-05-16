@@ -52,3 +52,18 @@ ChatGPT Image 2.0 は OpenAI が ChatGPT に統合した画像生成機能で、
 ### [元投稿: Reddit r/ChatGPT](https://reddit.com/r/ChatGPT/comments/1tec3bq/replaced_made_with_chatgpt_image_20_seedance_20/)
 ### [ChatGPTの画像生成機能の使い方](#)
 ### [AI動画生成ツール比較ガイド](#)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-chatgpt-left-or-right-ai.html)
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-chatgpt-love-at-first-prompt-reddit-ai.html)
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html)
+
+### 姉妹サイトの関連記事
+- [AI英会話を無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai英会話を無料で始める7つの方法2026年最新/) — auto-blog
+- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
+- [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+
+<!-- SEO_MESH_END -->

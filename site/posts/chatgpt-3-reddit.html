@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題</title>
+<meta name="description" content="Redditの「Me thinking I cooked」投稿が拡散。一晩かけたコードをLLMに貼ったら設計欠陥3つと競合状態を即指摘された体験談から、AIコードレビューの実用性を解説する。" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html" />
+<meta property="og:title" content="ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題" />
+<meta property="og:description" content="Redditの「Me thinking I cooked」投稿が拡散。一晩かけたコードをLLMに貼ったら設計欠陥3つと競合状態を即指摘された体験談から、AIコードレビューの実用性を解説する。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題", "description": "Redditの「Me thinking I cooked」投稿が拡散。一晩かけたコードをLLMに貼ったら設計欠陥3つと競合状態を即指摘された体験談から、AIコードレビューの実用性を解説する。", "datePublished": "2026-05-16T18:23:34.986095+00:00", "dateModified": "2026-05-16T18:23:34.986095+00:00", "author": {"@type": "Person", "name": "高校生・AI×副業ラボ"}, "publisher": {"@type": "Organization", "name": "AI News JP"}, "mainEntityOfPage": "https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html", "keywords": "ChatGPT コードレビュー, LLM 設計欠陥 指摘, Cursor バックエンド, AI ペアプログラミング, race condition AI 検出"}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Hiragino Kaku Gothic ProN","Yu Gothic","Meiryo",sans-serif;color:var(--fg);background:var(--bg);line-height:1.75;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI News JP</a></h1>
+<nav>
+<a href="/">トップ</a>
+<a href="/categories.html">カテゴリ</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">ChatGPT</span></div>
+<h1>ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題</h1>
+<div class="meta">公開: 2026-05-16 | カテゴリ: ChatGPT</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>広告枠 (忍者AdMax設定後に自動表示)</span></div>
+<h2>3行まとめ</h2>
+<ul>
+<li>ChatGPTにコードを貼ったら設計欠陥3つを即指摘されたRedditの投稿が話題</li>
+<li>投稿者はCursorでバックエンドを修正しrunableでLPを担保する運用</li>
+<li>AIコードレビューが個人開発のデバッグ習慣を変えつつある状況</li>
+</ul>
+<h2>ニュースの中身</h2>
+<p>Reddit の r/ChatGPT に投稿された「Me thinking I cooked」というスレッドが共感を集めている。投稿者は一晩かけて整えたコードベースを LLM のウィンドウに貼り付けた直後、3つの重大な設計上の欠陥と、未処理の race condition（競合状態）を指摘されたという体験を綴った。</p>
+<p>投稿者の運用フローは次の通り。まず ChatGPT などの LLM にコードを貼って全体の問題点を洗い出させる。次に Cursor を使ってバックエンドのロジック修正を任せる。ランディングページについては runable に通すことで、スタックの少なくとも一部はレビューに耐える状態に保つ、という分業体制を取っている。</p>
+<p>本文は短いものの、コメント欄には「AIに見せた瞬間に自尊心が崩れる」「徹夜の成果を3秒で粉砕される」といった同調の声が多数寄せられ、AIによるコードレビューが個人開発者の日常になりつつある現状を映している。</p>
+<h2>なぜ重要か</h2>
+<p>この投稿が共感を呼ぶのは、AI コードレビューが「コンパイルが通るか」のレベルを超え、アーキテクチャ判断や並行処理の落とし穴まで踏み込めるようになったことを示しているからだ。従来は経験豊富なシニアエンジニアに見てもらわなければ気づけなかった race condition のような問題を、LLM が秒速で発見できる。</p>
+<p>競合の動きを見ると、Anthropic の Claude Code はリポジトリ全体を文脈として扱う設計、GitHub Copilot は IDE 内補完、Cursor は編集体験との統合と、各社が違うレイヤーで開発者を取り込もうとしている。投稿者のように複数ツールを役割で使い分けるスタイルは、今後の標準的な開発フローになる可能性が高い。</p>
+<p>また、runable のような LP プレビュー系サービスがレビューの一部を担う構図は、AI 時代の「品質保証の分散化」を象徴している。</p>
+<h2>高校生でも今すぐ試せること</h2>
+<ul>
+<li>自作コードを ChatGPT に貼り「設計上の欠陥を3つ挙げて」と依頼する</li>
+<li>race condition や例外処理など、観点を指定してレビューさせる</li>
+<li>Cursor の無料枠で修正提案をそのままエディタに反映する習慣をつける</li>
+<li>指摘内容を自分の言葉でメモし、次回から事前に潰せるパターンを蓄積する</li>
+<li>1ファイルではなく依存関係を含めた複数ファイルをまとめて貼り、全体最適を見てもらう</li>
+</ul>
+<h2>関連リンク</h2>
+<h3><a href="https://reddit.com/r/ChatGPT/comments/1teon1u/me_thinking_i_cooked/" rel="noopener" target="_blank">元投稿: Me thinking I cooked - r/ChatGPT</a></h3>
+<h3><a href="https://cursor.com" rel="noopener" target="_blank">Cursor 公式サイト</a></h3>
+<h3><a href="https://platform.openai.com/docs" rel="noopener" target="_blank">ChatGPT 開発者向け活用ガイド</a></h3>
+<aside class="cta-box"><h4>📚 関連書籍・グッズを楽天市場で探す</h4><p>「ChatGPT コードレビュー」で検索 （楽天アフィリエイトID未登録 — 登録後タグ自動付与）</p><a class="cta-btn" href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/" rel="sponsored noopener" target="_blank">楽天市場で見る</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>広告枠 (忍者AdMax設定後に自動表示)</span></div>
+<p style="font-size:13px;color:var(--mut)">元情報: <a href="https://reddit.com/r/ChatGPT/comments/1teon1u/me_thinking_i_cooked/" rel="noopener" target="_blank">reddit/r/ChatGPT</a></p>
+<div class="tags"><span>ChatGPT</span><span>Cursor</span><span>コードレビュー</span><span>Reddit</span><span>AI開発</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI News JP — Claude / ChatGPT / 最新AIツール 日本語解説<br>
+本サイトはAmazon.co.jpアソシエイト・A8.netの広告が掲載される場合があります。
+</footer>
+</body>
+</html>
