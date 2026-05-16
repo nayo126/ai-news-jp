@@ -5,6 +5,20 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
+<pubDate>2026-05-16T22:17:21.083436+00:00</pubDate>
+<description>OpenAIとマルタ共和国が提携し、全国民にChatGPT Plusを無償提供。AIスキル研修も実施する国家規模のAI普及プロジェクトの内容と意義を解説。</description>
+</item>
+<item>
+<title>ChatGPTの回答精度を上げる質問テンプレ｜Reddit話題の活用法を解説</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html</guid>
+<pubDate>2026-05-16T22:16:51.126593+00:00</pubDate>
+<description>Redditで話題になったChatGPTの便利な使い方を解説。質問の仕方を変えるだけで回答精度が上がる理由と、高校生でもすぐ試せる実践テクニックを紹介。</description>
+</item>
+<item>
 <title>llama.cpp に MTP 実装が承認──Multi-Token Prediction でローカルLLM高速化へ</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/llama-cpp-mtp-multi-token-prediction-llm.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/llama-cpp-mtp-multi-token-prediction-llm.html</guid>
