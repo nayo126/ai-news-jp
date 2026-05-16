@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAI Codex活用法：営業チームがパイプライン管理と商談準備を自動化する5つの方法</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</guid>
+<pubDate>2026-05-16T10:18:13.474157+00:00</pubDate>
+<description>OpenAIが営業チーム向けCodex活用ガイドを公開。パイプラインブリーフ、商談準備、フォーキャストレビュー、停滞案件診断など5つの実務シーンでの使い方を解説。</description>
+</item>
+<item>
+<title>Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html</guid>
+<pubDate>2026-05-16T10:17:39.338102+00:00</pubDate>
+<description>r/ClaudeAIで話題になったClaude Codeの長時間自律編集セッション。AIコーディングエージェントがどこまで自走できるか、現状の限界と高校生でも試せる安全な使い方を解説。</description>
+</item>
+<item>
+<title>ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html</guid>
+<pubDate>2026-05-16T10:17:08.290060+00:00</pubDate>
+<description>ChatGPT Image 2.0とSeedance 2.0を組み合わせて短編映像「Replaced」を制作した事例から、画像生成と動画生成AIの連携ワークフローを解説する。</description>
+</item>
+<item>
 <title>Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html</guid>

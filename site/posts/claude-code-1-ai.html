@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点</title>
+<meta name="description" content="r/ClaudeAIで話題になったClaude Codeの長時間自律編集セッション。AIコーディングエージェントがどこまで自走できるか、現状の限界と高校生でも試せる安全な使い方を解説。" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html" />
+<meta property="og:title" content="Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点" />
+<meta property="og:description" content="r/ClaudeAIで話題になったClaude Codeの長時間自律編集セッション。AIコーディングエージェントがどこまで自走できるか、現状の限界と高校生でも試せる安全な使い方を解説。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点", "description": "r/ClaudeAIで話題になったClaude Codeの長時間自律編集セッション。AIコーディングエージェントがどこまで自走できるか、現状の限界と高校生でも試せる安全な使い方を解説。", "datePublished": "2026-05-16T10:17:39.338102+00:00", "dateModified": "2026-05-16T10:17:39.338102+00:00", "author": {"@type": "Person", "name": "高校生・AI×副業ラボ"}, "publisher": {"@type": "Organization", "name": "AI News JP"}, "mainEntityOfPage": "https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html", "keywords": "Claude Code 長時間, AIコーディング 自律, Claude エージェント 限界, AI 自動編集, Claude Code 使い方"}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Hiragino Kaku Gothic ProN","Yu Gothic","Meiryo",sans-serif;color:var(--fg);background:var(--bg);line-height:1.75;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI News JP</a></h1>
+<nav>
+<a href="/">トップ</a>
+<a href="/categories.html">カテゴリ</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">Claude</span></div>
+<h1>Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点</h1>
+<div class="meta">公開: 2026-05-16 | カテゴリ: Claude</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>広告枠 (忍者AdMax設定後に自動表示)</span></div>
+<h2>3行まとめ</h2>
+<ul>
+<li>r/ClaudeAIでClaude Codeが約1時間連続編集する様子が話題に</li>
+<li>長時間自律作業はトークン消費とコンテキスト劣化のリスクあり</li>
+<li>高校生でも小さなタスク分割と定期確認で安全に活用できる</li>
+</ul>
+<h2>ニュースの中身</h2>
+<p>Reddit のサブレディット r/ClaudeAI に投稿された「Bro's been editing for almost an hour.」というスレッドが注目を集めている。投稿者は Anthropic の Claude Code を起動したまま放置し、約1時間にわたり AI がファイルを編集し続けている状況をスクリーンショット付きで共有した。</p>
+<p>Claude Code は2024年後半から提供されているターミナル型のAIコーディングエージェントで、ファイル読み書き・コマンド実行・テスト実行などを自律的に行える。今回のケースでは、ユーザーが最初に指示を出した後、Claude が自分でタスクを分割しながら延々と編集とリファクタリングを続けていたとされる。コメント欄では「token を1セッションで数十万消費した」「気づいたら使用量上限に達していた」といった報告が並び、Claude Max プラン（月額200ドル前後）ユーザーでも警戒が必要だという声が上がった。</p>
+<h2>なぜ重要か</h2>
+<p>この現象は、AI コーディングエージェントが「人間の監視なしでどこまで動けるか」という業界共通テーマを浮き彫りにしている。GitHub Copilot Workspace、Cursor の Composer、OpenAI の Codex CLI など競合も同様の自律機能を強化しており、長時間タスクの安定性が差別化ポイントになりつつある。</p>
+<p>一方で、長時間セッションには明確な弱点もある。コンテキストウィンドウが埋まると過去の指示を忘れ、意図しない変更を加えてしまうケースが報告されている。Anthropic 自身も「定期的に進捗を確認し、git でこまめにコミットする」運用を推奨している。コスト面でも、トークン従量課金 API を使っている場合は1時間で数十ドル単位の請求が発生し得る。</p>
+<h2>高校生でも今すぐ試せること</h2>
+<ul>
+<li>Claude Code を使う際は1タスク15〜30分を目安に区切る</li>
+<li>作業前に必ず <code>git commit</code> で現状を保存しておく</li>
+<li>長時間放置せず、5〜10分ごとに編集差分を確認する</li>
+<li>無料枠や定額プラン（Pro/Max）の使用量ダッシュボードを毎日チェックする</li>
+<li>プロンプトで「変更前に方針を提示してから実装」と指示し暴走を防ぐ</li>
+</ul>
+<h2>関連リンク</h2>
+<h3><a href="https://reddit.com/r/ClaudeAI/comments/1te033e/bros_been_editing_for_almost_an_hour/" rel="noopener" target="_blank">元スレッド: r/ClaudeAI</a></h3>
+<h3><a href="https://docs.anthropic.com/claude/docs/claude-code" rel="noopener" target="_blank">Claude Code 公式ドキュメント</a></h3>
+<h3><a href="https://www.anthropic.com/pricing" rel="noopener" target="_blank">Anthropic 利用料金ページ</a></h3>
+<aside class="cta-box"><h4>📚 関連書籍・グッズを楽天市場で探す</h4><p>「Claude Code 長時間」で検索 （楽天アフィリエイトID未登録 — 登録後タグ自動付与）</p><a class="cta-btn" href="https://search.rakuten.co.jp/search/mall/Claude%20Code%20%E9%95%B7%E6%99%82%E9%96%93/" rel="sponsored noopener" target="_blank">楽天市場で見る</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>広告枠 (忍者AdMax設定後に自動表示)</span></div>
+<p style="font-size:13px;color:var(--mut)">元情報: <a href="https://reddit.com/r/ClaudeAI/comments/1te033e/bros_been_editing_for_almost_an_hour/" rel="noopener" target="_blank">reddit/r/ClaudeAI</a></p>
+<div class="tags"><span>Claude Code</span><span>AIコーディング</span><span>自律エージェント</span><span>Reddit</span><span>開発効率化</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI News JP — Claude / ChatGPT / 最新AIツール 日本語解説<br>
+本サイトはAmazon.co.jpアソシエイト・A8.netの広告が掲載される場合があります。
+</footer>
+</body>
+</html>
