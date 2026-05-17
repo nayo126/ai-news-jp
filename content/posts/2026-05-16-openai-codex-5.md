@@ -63,9 +63,9 @@ OpenAIは公式アカデミーで、営業チームがCodexをどう業務に組
 
 ## 関連する記事
 
-- [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-mbr.html)
-- [OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-openai-codex-mbr.html)
-- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-windows-codex.html)
+- [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
+- [OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html)
 
 ### 姉妹サイトの関連記事
 - [Bedrock vs OpenAI 2026徹底比較｜料金・性能7項目で選ぶ](https://nayo126.github.io/auto-blog/blog/bedrock-vs-openai-2026徹底比較料金性能7項目で選ぶ/) — auto-blog

@@ -63,9 +63,9 @@ OpenAIは公式の学習プラットフォーム「OpenAI Academy」で、AIコ�
 
 ## 関連する記事
 
-- [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-mbr.html)
-- [OpenAI Codex活用法：営業チームがパイプライン管理と商談準備を自動化する5つの方法](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-openai-codex-5.html)
-- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-windows-codex.html)
+- [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
+- [OpenAI Codex活用法：営業チームがパイプライン管理と商談準備を自動化する5つの方法](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html)
 
 ### 姉妹サイトの関連記事
 - [AI議事録 無料ツール比較7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/ai議事録-無料ツール比較7選2026年最新版/) — auto-blog
