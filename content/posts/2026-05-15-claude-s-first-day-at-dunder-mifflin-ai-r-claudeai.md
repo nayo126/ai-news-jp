@@ -61,8 +61,8 @@ AI企業のブランドが、ユーザー側のクリエイティブによって
 
 ### 姉妹サイトの関連記事
 - [Claudeプロンプトの書き方7つのコツ｜返答3倍精度UP](https://nayo126.github.io/auto-blog/blog/claudeプロンプトの書き方7つのコツ返答3倍精度up/) — auto-blog
-- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
-- [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+- [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/) — auto-blog
+- [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
@@ -73,14 +73,14 @@ AI企業のブランドが、ユーザー側のクリエイティブによって
 <aside class="affiliate-card">
 <div class="label">Claude Dunder Mifflin に関連する書籍・ツール</div>
 <p>「Claude Dunder Mifflin」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Dunder%20Mifflin/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Dunder%2520Mifflin%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Dunder%20Mifflin" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
 <aside class="affiliate-card">
 <div class="label">Claude AI ミーム に関連する書籍・ツール</div>
 <p>「Claude AI ミーム」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20AI%20%E3%83%9F%E3%83%BC%E3%83%A0/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520AI%2520%25E3%2583%259F%25E3%2583%25BC%25E3%2583%25A0%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20AI%20%E3%83%9F%E3%83%BC%E3%83%A0" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 

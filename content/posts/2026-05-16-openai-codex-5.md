@@ -64,13 +64,13 @@ OpenAIは公式アカデミーで、営業チームがCodexをどう業務に組
 ## 関連する記事
 
 - [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
+- [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
 - [OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
-- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html)
 
 ### 姉妹サイトの関連記事
+- [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
+- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/) — auto-blog
 - [Bedrock vs OpenAI 2026徹底比較｜料金・性能7項目で選ぶ](https://nayo126.github.io/auto-blog/blog/bedrock-vs-openai-2026徹底比較料金性能7項目で選ぶ/) — auto-blog
-- [ChatGPT APIキー取得5ステップと安全管理術2026](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキー取得5ステップと安全管理術2026/) — auto-blog
-- [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
@@ -81,14 +81,14 @@ OpenAIは公式アカデミーで、営業チームがCodexをどう業務に組
 <aside class="affiliate-card">
 <div class="label">OpenAI Codex 営業 に関連する書籍・ツール</div>
 <p>「OpenAI Codex 営業」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/OpenAI%20Codex%20%E5%96%B6%E6%A5%AD/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOpenAI%2520Codex%2520%25E5%2596%25B6%25E6%25A5%25AD%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=OpenAI%20Codex%20%E5%96%B6%E6%A5%AD" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
 <aside class="affiliate-card">
 <div class="label">Codex 使い方 に関連する書籍・ツール</div>
 <p>「Codex 使い方」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Codex%20%E4%BD%BF%E3%81%84%E6%96%B9/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCodex%2520%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Codex%20%E4%BD%BF%E3%81%84%E6%96%B9" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 

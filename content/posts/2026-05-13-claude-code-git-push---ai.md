@@ -68,9 +68,9 @@ AIコーディングが普及するなか、人間が書くコードよりもAI�
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html)
 
 ### 姉妹サイトの関連記事
+- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/) — auto-blog
 - [Claude Codeおすすめスキル7選｜2026年版作業効率化](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめスキル7選2026年版作業効率化/) — auto-blog
-- [Claude Code MCP設定方法5分完全ガイド2026](https://nayo126.github.io/auto-blog/blog/claude-code-mcp設定方法5分完全ガイド2026/) — auto-blog
-- [Claude Code MCPおすすめ7選2026年最新版](https://nayo126.github.io/auto-blog/blog/claude-code-mcpおすすめ7選2026年最新版/) — auto-blog
+- [Claude Code×VSCode連携｜2026年最新7つの活用術](https://nayo126.github.io/auto-blog/blog/claude-codevscode連携2026年最新7つの活用術/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
@@ -81,14 +81,14 @@ AIコーディングが普及するなか、人間が書くコードよりもAI�
 <aside class="affiliate-card">
 <div class="label">Claude Code Git に関連する書籍・ツール</div>
 <p>「Claude Code Git」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Code%20Git/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Code%2520Git%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Code%20Git" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
 <aside class="affiliate-card">
 <div class="label">AIコーディング バージョン管理 に関連する書籍・ツール</div>
 <p>「AIコーディング バージョン管理」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%25E7%25AE%25A1%25E7%2590%2586%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 

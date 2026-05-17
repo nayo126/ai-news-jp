@@ -57,13 +57,14 @@ OpenAIのように利用者が多いサービスが透明性をもって対応�
 
 ## 関連する記事
 
+- [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html)
 - [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
-- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
 
 ### 姉妹サイトの関連記事
+- [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
+- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/) — auto-blog
 - [Bedrock vs OpenAI 2026徹底比較｜料金・性能7項目で選ぶ](https://nayo126.github.io/auto-blog/blog/bedrock-vs-openai-2026徹底比較料金性能7項目で選ぶ/) — auto-blog
-- [ChatGPT APIキー取得5ステップと安全管理術2026](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキー取得5ステップと安全管理術2026/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
@@ -74,14 +75,14 @@ OpenAIのように利用者が多いサービスが透明性をもって対応�
 <aside class="affiliate-card">
 <div class="label">OpenAI TanStack 攻撃 に関連する書籍・ツール</div>
 <p>「OpenAI TanStack 攻撃」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/OpenAI%20TanStack%20%E6%94%BB%E6%92%83/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOpenAI%2520TanStack%2520%25E6%2594%25BB%25E6%2592%2583%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=OpenAI%20TanStack%20%E6%94%BB%E6%92%83" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
 <aside class="affiliate-card">
 <div class="label">npm サプライチェーン攻撃 に関連する書籍・ツール</div>
 <p>「npm サプライチェーン攻撃」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/npm%20%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fnpm%2520%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E6%2594%25BB%25E6%2592%2583%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=npm%20%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 

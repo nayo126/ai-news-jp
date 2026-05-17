@@ -75,14 +75,14 @@ ChatGPT Image 2.0 は OpenAI が ChatGPT に統合した画像生成機能で、
 <aside class="affiliate-card">
 <div class="label">ChatGPT Image 2.0 に関連する書籍・ツール</div>
 <p>「ChatGPT Image 2.0」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20Image%202.0/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Image%25202.0%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Image%202.0" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
 <aside class="affiliate-card">
 <div class="label">Seedance 2.0 に関連する書籍・ツール</div>
 <p>「Seedance 2.0」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Seedance%202.0/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSeedance%25202.0%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Seedance%202.0" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 

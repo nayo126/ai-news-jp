@@ -58,14 +58,14 @@ https://www.anthropic.com/research
 
 ## 関連する記事
 
+- [ChatGPTの回答精度を上げる質問テンプレ｜Reddit話題の活用法を解説](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html)
 - [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt.html)
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
-- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 
 ### 姉妹サイトの関連記事
 - [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
+- [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/) — auto-blog
 - [ChatGPTプロンプト本おすすめ7選｜2026年最新](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト本おすすめ7選2026年最新/) — auto-blog
-- [AIライティングツール無料7選｜2026年最新](https://nayo126.github.io/auto-blog/blog/aiライティングツール無料7選2026年最新/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
@@ -76,14 +76,14 @@ https://www.anthropic.com/research
 <aside class="affiliate-card">
 <div class="label">Claude 批評 プロンプト に関連する書籍・ツール</div>
 <p>「Claude 批評 プロンプト」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20%E6%89%B9%E8%A9%95%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520%25E6%2589%25B9%25E8%25A9%2595%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20%E6%89%B9%E8%A9%95%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
 <aside class="affiliate-card">
 <div class="label">AI yes man 対策 に関連する書籍・ツール</div>
 <p>「AI yes man 対策」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%20yes%20man%20%E5%AF%BE%E7%AD%96/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%2520yes%2520man%2520%25E5%25AF%25BE%25E7%25AD%2596%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%20yes%20man%20%E5%AF%BE%E7%AD%96" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 

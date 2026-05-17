@@ -64,9 +64,9 @@ Anthropicが提供する大規模言語モデル「Claude」が、会話の途�
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 
 ### 姉妹サイトの関連記事
-- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
-- [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
-- [Claude副業の始め方｜2026年5月最新7ステップ](https://nayo126.github.io/auto-blog/blog/claude副業の始め方2026年5月最新7ステップ/) — auto-blog
+- [Anthropic Academyとは？無料で学べるClaude講座5選2026](https://nayo126.github.io/auto-blog/blog/anthropic-academyとは無料で学べるclaude講座5選2026/) — auto-blog
+- [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/) — auto-blog
+- [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
@@ -77,14 +77,14 @@ Anthropicが提供する大規模言語モデル「Claude」が、会話の途�
 <aside class="affiliate-card">
 <div class="label">Claude 寝なさい に関連する書籍・ツール</div>
 <p>「Claude 寝なさい」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20%E5%AF%9D%E3%81%AA%E3%81%95%E3%81%84/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520%25E5%25AF%259D%25E3%2581%25AA%25E3%2581%2595%25E3%2581%2584%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20%E5%AF%9D%E3%81%AA%E3%81%95%E3%81%84" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
 <aside class="affiliate-card">
 <div class="label">Claude 不具合 に関連する書籍・ツール</div>
 <p>「Claude 不具合」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20%E4%B8%8D%E5%85%B7%E5%90%88/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520%25E4%25B8%258D%25E5%2585%25B7%25E5%2590%2588%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20%E4%B8%8D%E5%85%B7%E5%90%88" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 

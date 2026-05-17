@@ -84,14 +84,14 @@ https://www.imdb.com/title/tt1637688/
 <aside class="affiliate-card">
 <div class="label">Claude Pro 使用制限 に関連する書籍・ツール</div>
 <p>「Claude Pro 使用制限」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro%20%E4%BD%BF%E7%94%A8%E5%88%B6%E9%99%90/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2520%25E4%25BD%25BF%25E7%2594%25A8%25E5%2588%25B6%25E9%2599%2590%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro%20%E4%BD%BF%E7%94%A8%E5%88%B6%E9%99%90" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
 <aside class="affiliate-card">
 <div class="label">Claude 月額 に関連する書籍・ツール</div>
 <p>「Claude 月額」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20%E6%9C%88%E9%A1%8D/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520%25E6%259C%2588%25E9%25A1%258D%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20%E6%9C%88%E9%A1%8D" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 

@@ -60,9 +60,9 @@ Claude Code は2024年後半から提供されているターミナル型のAI�
 - [Figure 03ライブストリームで奇妙な瞬間 — 遠隔操作疑惑が再燃](https://nayo126.github.io/ai-news-jp/posts/figure-03.html)
 
 ### 姉妹サイトの関連記事
+- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/) — auto-blog
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 - [Claude Codeおすすめターミナル7選｜2026年最新比較](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめターミナル7選2026年最新比較/) — auto-blog
-- [AIコード生成ツールおすすめ7選｜2026年最新ランキング](https://nayo126.github.io/auto-blog/blog/aiコード生成ツールおすすめ7選2026年最新ランキング/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
@@ -73,14 +73,14 @@ Claude Code は2024年後半から提供されているターミナル型のAI�
 <aside class="affiliate-card">
 <div class="label">Claude Code 長時間 に関連する書籍・ツール</div>
 <p>「Claude Code 長時間」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Code%20%E9%95%B7%E6%99%82%E9%96%93/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Code%2520%25E9%2595%25B7%25E6%2599%2582%25E9%2596%2593%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Code%20%E9%95%B7%E6%99%82%E9%96%93" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
 <aside class="affiliate-card">
 <div class="label">AIコーディング 自律 に関連する書籍・ツール</div>
 <p>「AIコーディング 自律」について実践的に学ぶための参考リソース</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E8%87%AA%E5%BE%8B/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2520%25E8%2587%25AA%25E5%25BE%258B%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E8%87%AA%E5%BE%8B" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
 </aside>
 
