@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>Databricks、GPT-5.5を企業向けエージェントワークフローに採用 OfficeQA Pro最高性能</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/databricks-gpt-5-5-officeqa-pro.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/databricks-gpt-5-5-officeqa-pro.html</guid>
+<pubDate>2026-05-17T10:18:04.801727+00:00</pubDate>
+<description>DatabricksがGPT-5.5を企業向けエージェントワークフローに統合。OfficeQA Pro benchmarkで最高性能を達成し、業務自動化の新基準となる。</description>
+</item>
+<item>
+<title>OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html</guid>
+<pubDate>2026-05-17T10:17:31.771998+00:00</pubDate>
+<description>OpenAIがCodex for Workの新事例を公開。業務オペレーション部門がイニシアチブ概要やリーダーシップ向け意思決定資料を自動生成する方法を紹介。</description>
+</item>
+<item>
+<title>OpenAI×マルタ国家提携、全市民にChatGPT Plus無償提供開始</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
+<pubDate>2026-05-17T10:16:58.507128+00:00</pubDate>
+<description>OpenAIがマルタ政府と提携し、全市民にChatGPT Plusを提供。AI教育とリテラシー強化を国家規模で推進する世界初の取り組みを解説。</description>
+</item>
+<item>
 <title>今週のAIニュース10選 (2026/05/17付)</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html</guid>
@@ -192,19 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html</guid>
 <pubDate>2026-05-13T15:18:23.932825+00:00</pubDate>
 <description>r/ClaudeAIで話題のGit push活用術を解説。Claude Codeでコードが壊れても安心して戻せる、AI時代のバージョン管理ベストプラクティスをまとめる。</description>
-</item>
-<item>
-<title>AI時代に残る仕事は？配管工・電気工・HVAC技術者が注目される理由</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/ai-hvac.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/ai-hvac.html</guid>
-<pubDate>2026-05-13T15:17:50.347804+00:00</pubDate>
-<description>ChatGPTやClaudeが知的労働を置き換える中、Redditで話題の「AIに代替されにくい職業」議論を解説。配管工・電気工・HVAC技術者が生き残ると言われる根拠を分析。</description>
-</item>
-<item>
-<title>ChatGPTに「引退後の自分」を想像させる質問が話題｜AIの自己認識を引き出すプロンプト術</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-ai.html</guid>
-<pubDate>2026-05-13T15:17:18.743274+00:00</pubDate>
-<description>Reddit発、ChatGPTに引退後の姿を想像させるプロンプトが話題に。AIの自己表現を引き出す質問テクニックと、創造的な対話を生むコツを解説。</description>
 </item>
 </channel></rss>
