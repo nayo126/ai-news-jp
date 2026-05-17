@@ -67,3 +67,23 @@ MITメディアラボやOpenAIの共同研究では、ChatGPTのヘビーユー�
 - [AI英会話を無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai英会話を無料で始める7つの方法2026年最新/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT Love at first prompt に関連する書籍・ツール</div>
+<p>「ChatGPT Love at first prompt」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20Love%20at%20first%20prompt/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Love%20at%20first%20prompt" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT 感情 に関連する書籍・ツール</div>
+<p>「ChatGPT 感情」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E6%84%9F%E6%83%85/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E6%84%9F%E6%83%85" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

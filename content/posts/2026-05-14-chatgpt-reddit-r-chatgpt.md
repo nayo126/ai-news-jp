@@ -72,3 +72,23 @@ OpenAIのGPT-4系モデルは、文脈理解力と推論能力の向上により
 - [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT 精度 に関連する書籍・ツール</div>
+<p>「ChatGPT 精度」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E7%B2%BE%E5%BA%A6/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E7%B2%BE%E5%BA%A6" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT Reddit に関連する書籍・ツール</div>
+<p>「ChatGPT Reddit」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20Reddit/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Reddit" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

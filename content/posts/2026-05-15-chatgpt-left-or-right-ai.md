@@ -75,3 +75,23 @@ MidjourneyやStable Diffusionでは1プロンプトで複数バリエーショ�
 - [AI英会話を無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai英会話を無料で始める7つの方法2026年最新/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT 画像比較 に関連する書籍・ツール</div>
+<p>「ChatGPT 画像比較」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E7%94%BB%E5%83%8F%E6%AF%94%E8%BC%83/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E7%94%BB%E5%83%8F%E6%AF%94%E8%BC%83" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">left or right ChatGPT に関連する書籍・ツール</div>
+<p>「left or right ChatGPT」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/left%20or%20right%20ChatGPT/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=left%20or%20right%20ChatGPT" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

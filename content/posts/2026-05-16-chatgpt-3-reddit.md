@@ -69,3 +69,23 @@ Reddit の r/ChatGPT に投稿された「Me thinking I cooked」というスレ
 - [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT コードレビュー に関連する書籍・ツール</div>
+<p>「ChatGPT コードレビュー」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">LLM 設計欠陥 指摘 に関連する書籍・ツール</div>
+<p>「LLM 設計欠陥 指摘」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/LLM%20%E8%A8%AD%E8%A8%88%E6%AC%A0%E9%99%A5%20%E6%8C%87%E6%91%98/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=LLM%20%E8%A8%AD%E8%A8%88%E6%AC%A0%E9%99%A5%20%E6%8C%87%E6%91%98" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

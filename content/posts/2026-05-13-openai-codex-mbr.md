@@ -73,3 +73,23 @@ OpenAIは公式の学習プラットフォーム「OpenAI Academy」で、AIコ�
 - [ChatGPT APIキー取得5ステップと安全管理術2026](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキー取得5ステップと安全管理術2026/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">OpenAI Codex 財務 に関連する書籍・ツール</div>
+<p>「OpenAI Codex 財務」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/OpenAI%20Codex%20%E8%B2%A1%E5%8B%99/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=OpenAI%20Codex%20%E8%B2%A1%E5%8B%99" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">Codex 使い方 に関連する書籍・ツール</div>
+<p>「Codex 使い方」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Codex%20%E4%BD%BF%E3%81%84%E6%96%B9/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Codex%20%E4%BD%BF%E3%81%84%E6%96%B9" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

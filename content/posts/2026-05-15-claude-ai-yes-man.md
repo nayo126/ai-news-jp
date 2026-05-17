@@ -68,3 +68,23 @@ https://www.anthropic.com/research
 - [AIライティングツール無料7選｜2026年最新](https://nayo126.github.io/auto-blog/blog/aiライティングツール無料7選2026年最新/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">Claude 批評 プロンプト に関連する書籍・ツール</div>
+<p>「Claude 批評 プロンプト」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20%E6%89%B9%E8%A9%95%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Claude%20%E6%89%B9%E8%A9%95%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">AI yes man 対策 に関連する書籍・ツール</div>
+<p>「AI yes man 対策」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/AI%20yes%20man%20%E5%AF%BE%E7%AD%96/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=AI%20yes%20man%20%E5%AF%BE%E7%AD%96" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

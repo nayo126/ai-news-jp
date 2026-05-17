@@ -69,3 +69,23 @@ Anthropicが提供する大規模言語モデル「Claude」が、会話の途�
 - [Claude副業の始め方｜2026年5月最新7ステップ](https://nayo126.github.io/auto-blog/blog/claude副業の始め方2026年5月最新7ステップ/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">Claude 寝なさい に関連する書籍・ツール</div>
+<p>「Claude 寝なさい」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20%E5%AF%9D%E3%81%AA%E3%81%95%E3%81%84/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Claude%20%E5%AF%9D%E3%81%AA%E3%81%95%E3%81%84" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">Claude 不具合 に関連する書籍・ツール</div>
+<p>「Claude 不具合」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20%E4%B8%8D%E5%85%B7%E5%90%88/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Claude%20%E4%B8%8D%E5%85%B7%E5%90%88" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

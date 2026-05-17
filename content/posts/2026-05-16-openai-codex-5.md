@@ -73,3 +73,23 @@ OpenAIは公式アカデミーで、営業チームがCodexをどう業務に組
 - [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">OpenAI Codex 営業 に関連する書籍・ツール</div>
+<p>「OpenAI Codex 営業」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/OpenAI%20Codex%20%E5%96%B6%E6%A5%AD/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=OpenAI%20Codex%20%E5%96%B6%E6%A5%AD" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">Codex 使い方 に関連する書籍・ツール</div>
+<p>「Codex 使い方」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Codex%20%E4%BD%BF%E3%81%84%E6%96%B9/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Codex%20%E4%BD%BF%E3%81%84%E6%96%B9" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

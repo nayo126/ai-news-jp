@@ -50,3 +50,23 @@ GoogleのGeminiやAnthropicのClaudeも政府・公共セクター向けの提�
 ### [OpenAI公式: Malta partnership announcement](https://openai.com/index/malta-chatgpt-plus-partnership)
 ### [ChatGPT Plusの機能一覧](https://openai.com/chatgpt/pricing)
 ### [ChatGPT Enterpriseの概要](https://openai.com/enterprise)
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">OpenAI マルタ 提携 に関連する書籍・ツール</div>
+<p>「OpenAI マルタ 提携」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/OpenAI%20%E3%83%9E%E3%83%AB%E3%82%BF%20%E6%8F%90%E6%90%BA/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=OpenAI%20%E3%83%9E%E3%83%AB%E3%82%BF%20%E6%8F%90%E6%90%BA" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT Plus 無料 に関連する書籍・ツール</div>
+<p>「ChatGPT Plus 無料」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20Plus%20%E7%84%A1%E6%96%99/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus%20%E7%84%A1%E6%96%99" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

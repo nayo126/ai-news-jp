@@ -75,3 +75,23 @@ Codexはこの分析・要約・検証の領域に踏み込むツールとして
 - [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">OpenAI Codex 財務 に関連する書籍・ツール</div>
+<p>「OpenAI Codex 財務」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/OpenAI%20Codex%20%E8%B2%A1%E5%8B%99/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=OpenAI%20Codex%20%E8%B2%A1%E5%8B%99" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">Codex 業務効率化 に関連する書籍・ツール</div>
+<p>「Codex 業務効率化」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Codex%20%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Codex%20%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

@@ -65,3 +65,23 @@ Claude Code は2024年後半から提供されているターミナル型のAI�
 - [AIコード生成ツールおすすめ7選｜2026年最新ランキング](https://nayo126.github.io/auto-blog/blog/aiコード生成ツールおすすめ7選2026年最新ランキング/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">Claude Code 長時間 に関連する書籍・ツール</div>
+<p>「Claude Code 長時間」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Code%20%E9%95%B7%E6%99%82%E9%96%93/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Claude%20Code%20%E9%95%B7%E6%99%82%E9%96%93" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">AIコーディング 自律 に関連する書籍・ツール</div>
+<p>「AIコーディング 自律」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E8%87%AA%E5%BE%8B/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E8%87%AA%E5%BE%8B" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

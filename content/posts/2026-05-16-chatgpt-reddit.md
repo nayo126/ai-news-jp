@@ -52,3 +52,23 @@ GoogleのGeminiやAnthropicのClaudeでも同様の傾向があり、プロン�
 ### [元ソース: Reddit r/OpenAI](https://reddit.com/r/OpenAI/comments/1tf0ovg/thank_you_chatgpt_this_is_very_helpful/)
 ### [ChatGPTプロンプト設計の基本](https://platform.openai.com/docs/guides/prompt-engineering)
 ### [OpenAI公式ヘルプセンター](https://help.openai.com/)
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT 使い方 に関連する書籍・ツール</div>
+<p>「ChatGPT 使い方」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E4%BD%BF%E3%81%84%E6%96%B9/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E4%BD%BF%E3%81%84%E6%96%B9" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT プロンプト に関連する書籍・ツール</div>
+<p>「ChatGPT プロンプト」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

@@ -76,3 +76,23 @@ https://www.imdb.com/title/tt1637688/
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">Claude Pro 使用制限 に関連する書籍・ツール</div>
+<p>「Claude Pro 使用制限」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro%20%E4%BD%BF%E7%94%A8%E5%88%B6%E9%99%90/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro%20%E4%BD%BF%E7%94%A8%E5%88%B6%E9%99%90" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">Claude 月額 に関連する書籍・ツール</div>
+<p>「Claude 月額」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20%E6%9C%88%E9%A1%8D/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Claude%20%E6%9C%88%E9%A1%8D" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

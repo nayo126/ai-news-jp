@@ -50,3 +50,23 @@ llama.cpp は CPU/GPU/Apple Silicon など幅広い環境で量子化済み GGUF
 ### [元スレッド (r/LocalLLaMA)](https://reddit.com/r/LocalLLaMA/comments/1teqnf2/thats_a_good_news/)
 ### [llama.cpp GitHub リポジトリ](https://github.com/ggerganov/llama.cpp)
 ### [DeepSeek-V3 Multi-Token Prediction 解説](https://github.com/deepseek-ai/DeepSeek-V3)
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">llama.cpp MTP に関連する書籍・ツール</div>
+<p>「llama.cpp MTP」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/llama.cpp%20MTP/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=llama.cpp%20MTP" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">Multi-Token Prediction に関連する書籍・ツール</div>
+<p>「Multi-Token Prediction」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Multi-Token%20Prediction/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Multi-Token%20Prediction" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

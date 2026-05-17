@@ -69,3 +69,23 @@ RedditのChatGPT関連サブレディットは登録者数が数百万人規模�
 - [AI英会話を無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai英会話を無料で始める7つの方法2026年最新/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT 引退 プロンプト に関連する書籍・ツール</div>
+<p>「ChatGPT 引退 プロンプト」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E5%BC%95%E9%80%80%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E5%BC%95%E9%80%80%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT 自己認識 に関連する書籍・ツール</div>
+<p>「ChatGPT 自己認識」について実践的に学ぶための参考リソース</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E8%87%AA%E5%B7%B1%E8%AA%8D%E8%AD%98/" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E8%87%AA%E5%B7%B1%E8%AA%8D%E8%AD%98" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->
