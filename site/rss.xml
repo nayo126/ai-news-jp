@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAI、マルタ全国民にChatGPT Plus提供を発表 国家規模のAI普及策</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus-ai.html</guid>
+<pubDate>2026-05-18T22:19:25.259065+00:00</pubDate>
+<description>OpenAIがマルタ政府と提携し、全市民にChatGPT Plusを無料提供。AIリテラシー教育やトレーニングも実施する国家規模の取り組みを解説。</description>
+</item>
+<item>
+<title>OpenAIとDellが提携、Codexをハイブリッド・オンプレ環境に展開へ</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</guid>
+<pubDate>2026-05-18T22:18:50.057720+00:00</pubDate>
+<description>OpenAIがDellと提携し、AIコーディングエージェントCodexをエンタープライズのハイブリッド・オンプレミス環境へ展開。セキュアなAI開発基盤の選択肢が広がる。</description>
+</item>
+<item>
+<title>Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html</guid>
+<pubDate>2026-05-18T22:18:14.853306+00:00</pubDate>
+<description>Elon Musk氏がSam Altman氏とOpenAIに対して起こした訴訟で敗訴。AI業界の主導権争いと今後の展望を解説します。</description>
+</item>
+<item>
 <title>OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html</guid>
 <pubDate>2026-05-14T08:22:34.046829+00:00</pubDate>
 <description>OpenAIがCodexの財務チーム向け活用ガイドを公開。MBR作成、差異ブリッジ、モデルチェック、計画シナリオなど実務での使い方を解説。</description>
-</item>
-<item>
-<title>OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html</guid>
-<pubDate>2026-05-14T08:22:00.246356+00:00</pubDate>
-<description>OpenAIがTanStack npmサプライチェーン攻撃「Mini Shai-Hulud」への対応を公表。macOS版アプリ利用者は2026年6月12日までの更新が必要。被害範囲と再発防止策を解説。</description>
-</item>
-<item>
-<title>OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html</guid>
-<pubDate>2026-05-14T08:21:28.283101+00:00</pubDate>
-<description>OpenAIがWindows版Codexに専用サンドボックスを導入。ファイルアクセス制限とネットワーク制御で、安全かつ効率的なコーディングエージェント実行環境を構築した経緯と仕組みを解説。</description>
-</item>
-<item>
-<title>OpenAI Codex on Windows対応、安全なサンドボックス設計を公開</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows.html</guid>
-<pubDate>2026-05-14T08:18:57.340972+00:00</pubDate>
-<description>OpenAIがコーディングエージェントCodexをWindowsで動作させるサンドボックス技術を解説。ファイルアクセスとネットワーク制限の仕組みと開発者への影響を整理する。</description>
 </item>
 </channel></rss>
