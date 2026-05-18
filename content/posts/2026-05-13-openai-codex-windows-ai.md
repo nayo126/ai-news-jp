@@ -62,9 +62,9 @@ AIコーディングエージェント領域では、AnthropicのClaude Code、C
 - [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html)
 
 ### 姉妹サイトの関連記事
+- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
 - [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
 - [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/) — auto-blog
-- [Bedrock vs OpenAI 2026徹底比較｜料金・性能7項目で選ぶ](https://nayo126.github.io/auto-blog/blog/bedrock-vs-openai-2026徹底比較料金性能7項目で選ぶ/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

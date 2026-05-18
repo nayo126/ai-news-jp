@@ -61,12 +61,12 @@ RedditのChatGPT関連サブレディットは登録者数が数百万人規模�
 
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
-- [ChatGPTの回答精度を上げる質問テンプレ｜Reddit話題の活用法を解説](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html)
+- [ChatGPTで明らかになるデザイナーとプログラマーの思考差・r/ChatGPT話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-r-chatgpt.html)
 
 ### 姉妹サイトの関連記事
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
-- [ChatGPTプロンプト本おすすめ7選｜2026年最新](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト本おすすめ7選2026年最新/) — auto-blog
-- [AI英会話を無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai英会話を無料で始める7つの方法2026年最新/) — auto-blog
+- [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/) — auto-blog
+- [ChatGPTプロンプトで改行する方法5選｜Shift+Enterの使い方](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトで改行する方法5選shiftenterの使い方/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

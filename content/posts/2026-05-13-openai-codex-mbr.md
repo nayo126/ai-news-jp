@@ -68,9 +68,9 @@ OpenAIは公式の学習プラットフォーム「OpenAI Academy」で、AIコ�
 - [OpenAI Codex活用法：営業チームがパイプライン管理と商談準備を自動化する5つの方法](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
 
 ### 姉妹サイトの関連記事
+- [AI議事録ツール比較2026|無料6選の精度と料金](https://nayo126.github.io/auto-blog/blog/ai議事録ツール比較2026無料6選の精度と料金/) — auto-blog
+- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
 - [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
-- [AI議事録 無料ツール比較7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/ai議事録-無料ツール比較7選2026年最新版/) — auto-blog
-- [議事録AI文字起こしおすすめ7選｜2026年最新比較](https://nayo126.github.io/auto-blog/blog/議事録ai文字起こしおすすめ7選2026年最新比較/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

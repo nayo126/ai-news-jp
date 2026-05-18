@@ -60,9 +60,9 @@ OpenAI が Windows 向けのセキュリティモデルを公式に示したこ�
 - [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html)
 
 ### 姉妹サイトの関連記事
+- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
 - [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
 - [AIエージェント フレームワーク比較2026｜主要5つの違い](https://nayo126.github.io/auto-blog/blog/aiエージェント-フレームワーク比較2026主要5つの違い/) — auto-blog
-- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

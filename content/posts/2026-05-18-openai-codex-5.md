@@ -64,3 +64,18 @@ OpenAIは2026年5月、データサイエンスチーム向けの「Codex for Wo
 ### [OpenAI Codex公式ドキュメント](https://openai.com/codex)
 
 ### [Codex for Work 全体ガイド](https://openai.com/academy/codex-for-work)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
+- [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html)
+- [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
+
+### 姉妹サイトの関連記事
+- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
+- [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
+- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/) — auto-blog
+
+<!-- SEO_MESH_END -->

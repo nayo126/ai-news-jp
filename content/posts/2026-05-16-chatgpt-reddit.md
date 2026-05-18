@@ -83,7 +83,7 @@ GoogleのGeminiやAnthropicのClaudeでも同様の傾向があり、プロン�
 
 ### 姉妹サイトの関連記事
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
-- [ChatGPTプロンプト本おすすめ7選｜2026年最新](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト本おすすめ7選2026年最新/) — auto-blog
-- [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/) — auto-blog
+- [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/) — auto-blog
+- [ChatGPTプロンプトで改行する方法5選｜Shift+Enterの使い方](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトで改行する方法5選shiftenterの使い方/) — auto-blog
 
 <!-- SEO_MESH_END -->
