@@ -5,6 +5,41 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</guid>
+<pubDate>2026-05-18T10:18:06.274294+00:00</pubDate>
+<description>OpenAIが公開したCodex for Work事例。データサイエンスチームが根本原因分析やKPIメモ、ダッシュボード仕様書をCodexで自動生成する具体的な使い方を解説する。</description>
+</item>
+<item>
+<title>ChatGPTに個人資産管理機能が登場 Pro向け米国先行で口座連携可能に</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</guid>
+<pubDate>2026-05-18T10:17:30.901061+00:00</pubDate>
+<description>OpenAIがChatGPTに新しい個人資産管理機能をプレビュー公開。米国Pro会員向けに金融口座を安全に連携し、AIによる資産分析やアドバイスが受けられる。</description>
+</item>
+<item>
+<title>OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供へ</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
+<pubDate>2026-05-18T10:16:55.536195+00:00</pubDate>
+<description>OpenAIがマルタ政府と提携し、全国民にChatGPT Plusを無償提供。AIスキル研修も実施し、国家規模でのAI普及モデルとなる。</description>
+</item>
+<item>
+<title>Claude AIで激変するLinkedInプロフィール作成術2026年最新版</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html</guid>
+<pubDate>2026-05-18T09:29:07.752586+00:00</pubDate>
+<description>Reddit r/ClaudeAIで話題のLinkedInプロフィール傾向を解説。Claude AIを活用した職務経歴の書き方と、AI時代に差別化するためのポイントを紹介。</description>
+</item>
+<item>
+<title>ChatGPTに「F評価でいい」と頼むRedditミーム話題、AI採点拒否の理由</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-reddit-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-reddit-ai.html</guid>
+<pubDate>2026-05-18T09:28:31.876847+00:00</pubDate>
+<description>Reddit r/ChatGPTで「Just give me the F bro」というミーム投稿が話題。ChatGPTが採点や成績付けを拒否する挙動の背景と、学習補助としての正しい使い方を解説する。</description>
+</item>
+<item>
 <title>ChatGPTの画像生成制限を回避する手法がRedditで拡散 第三者コンテンツの生成リスクと対策</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html</guid>
@@ -178,40 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows.html</guid>
 <pubDate>2026-05-14T08:18:57.340972+00:00</pubDate>
 <description>OpenAIがコーディングエージェントCodexをWindowsで動作させるサンドボックス技術を解説。ファイルアクセスとネットワーク制限の仕組みと開発者への影響を整理する。</description>
-</item>
-<item>
-<title>OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html</guid>
-<pubDate>2026-05-14T08:15:52.465525+00:00</pubDate>
-<description>OpenAIがWindows版Codexで安全に動くサンドボックスを公開。ファイルアクセス制限とネットワーク制御で、開発者がAIエージェントを安心して動かせる仕組みを解説する。</description>
-</item>
-<item>
-<title>Claude Proの使用制限が話題、映画『In Time』に例えるRedditユーザーの嘆き</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/claude-pro-in-time-reddit.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-pro-in-time-reddit.html</guid>
-<pubDate>2026-05-14T08:11:33.983705+00:00</pubDate>
-<description>Redditのr/ClaudeAIで、Claude Proの月額課金と利用制限を2011年の映画『In Time』に例える投稿が話題に。ユーザーが感じる時間制限のプレッシャーを解説。</description>
-</item>
-<item>
-<title>Figure 03ライブストリームで奇妙な瞬間 — 遠隔操作疑惑が再燃</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/figure-03.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/figure-03.html</guid>
-<pubDate>2026-05-14T08:11:02.625985+00:00</pubDate>
-<description>ヒューマノイドロボットFigure 03のライブストリームで不自然な動作が観測され、テレオペレーション疑惑が再燃。AI自律性とデモ演出の境界を解説する。</description>
-</item>
-<item>
-<title>ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt.html</guid>
-<pubDate>2026-05-14T08:10:28.733672+00:00</pubDate>
-<description>ChatGPTの回答精度の高さがReddit r/ChatGPTで再び話題に。ユーザー体験から見える生成AIの実力と、活用時に押さえるべきポイントを解説する。</description>
-</item>
-<item>
-<title>AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html</guid>
-<pubDate>2026-05-13T22:19:27.411722+00:00</pubDate>
-<description>欧州最大級の自動車マーケットプレイスAutoScout24がOpenAI CodexとChatGPTを活用し、開発サイクル短縮とコード品質向上を実現した事例を解説。</description>
 </item>
 </channel></rss>
