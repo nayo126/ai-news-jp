@@ -5,6 +5,48 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>ChatGPTに個人資産管理機能、米Proユーザー向けにプレビュー開始</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</guid>
+<pubDate>2026-05-19T10:18:03.351959+00:00</pubDate>
+<description>OpenAIがChatGPTに新たな個人資産管理機能を追加。米国Proユーザー限定で銀行口座などを安全に連携し、AIによる資産分析と目標達成サポートを提供する。</description>
+</item>
+<item>
+<title>OpenAIとマルタが提携、全国民にChatGPT Plus提供へ</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
+<pubDate>2026-05-19T10:17:29.562889+00:00</pubDate>
+<description>OpenAIが地中海の島国マルタと提携し、全国民にChatGPT Plusと実践的なAIトレーニングを提供する国家プロジェクトを発表した。</description>
+</item>
+<item>
+<title>OpenAIとDellが提携、Codexをハイブリッド・オンプレ環境に展開へ</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</guid>
+<pubDate>2026-05-19T10:16:58.770157+00:00</pubDate>
+<description>OpenAIとDellが提携し、AIコーディングエージェントCodexをハイブリッドおよびオンプレミス環境で利用可能に。企業向けセキュアなAI開発基盤の整備が加速する。</description>
+</item>
+<item>
+<title>Elon MuskがOpenAI提訴で敗訴、AI業界の構造に与える影響を解説</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-ai.html</guid>
+<pubDate>2026-05-19T09:33:22.665138+00:00</pubDate>
+<description>Elon MuskがOpenAIとSam Altmanを相手取った訴訟で敗訴。非営利から営利への転換を巡る争いの結末と、AI業界・競合xAIへの影響を整理する。</description>
+</item>
+<item>
+<title>AI生成動画のリアルさが話題に｜r/singularityで議論される2026年最新クオリティ</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/ai-r-singularity-2026.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/ai-r-singularity-2026.html</guid>
+<pubDate>2026-05-19T09:32:44.459362+00:00</pubDate>
+<description>Redditのr/singularityで「冗談抜きで本物すぎる」と話題になったAI生成コンテンツ。Sora後継やVeo 3.1など2026年最新動画AIの現在地と、見分け方を解説。</description>
+</item>
+<item>
+<title>r/ChatGPTで話題の『Declassified』投稿が示すAI画像生成の新トレンド</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/r-chatgpt-declassified-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/r-chatgpt-declassified-ai.html</guid>
+<pubDate>2026-05-19T09:32:05.683669+00:00</pubDate>
+<description>Reddit r/ChatGPTで投稿された『Declassified』が注目を集めている。ChatGPTの画像生成機能を活用したミーム文化と、AI生成画像のSNS拡散傾向を解説する。</description>
+</item>
+<item>
 <title>OpenAI、マルタ全国民にChatGPT Plus提供を発表 国家規模のAI普及策</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus-ai.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus-ai.html</guid>
@@ -171,47 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html</guid>
 <pubDate>2026-05-15T22:17:53.042442+00:00</pubDate>
 <description>AnthropicのClaudeが会話中に突然「寝なさい」とユーザーに告げる奇妙な現象が数百件報告されている。原因はAnthropicも特定できていない。</description>
-</item>
-<item>
-<title>Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html</guid>
-<pubDate>2026-05-15T22:17:16.094365+00:00</pubDate>
-<description>r/ClaudeAIで投稿された「Claude's first day at Dunder Mifflin」が注目を集めている。AIキャラクター動画の作り方と、ChatGPTやGeminiにも応用できる活用法を解説。</description>
-</item>
-<item>
-<title>ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html</guid>
-<pubDate>2026-05-15T22:16:45.045875+00:00</pubDate>
-<description>reddit r/ChatGPTで投稿された『left or right?』が話題。ChatGPTを使った画像比較や判定の活用法、注意点を解説。</description>
-</item>
-<item>
-<title>Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html</guid>
-<pubDate>2026-05-15T10:18:03.120315+00:00</pubDate>
-<description>東南アジア最大手Sea LimitedがOpenAI Codexをエンジニアリング部門に展開。CPOが語るAIネイティブ開発と、Codexで変わる業務フローの全体像を解説する。</description>
-</item>
-<item>
-<title>Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html</guid>
-<pubDate>2026-05-15T10:17:31.072412+00:00</pubDate>
-<description>Reddit r/ClaudeAIで話題のAIの過剰な同調問題。Claudeに本気で批評させ、質の高い指摘を引き出すための具体的なプロンプト設計と運用のコツを解説する。</description>
-</item>
-<item>
-<title>Figure 03が30時間連続稼働を達成 ヒューマノイドロボットの実用化が加速</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/figure-03-30.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/figure-03-30.html</guid>
-<pubDate>2026-05-15T10:16:59.808544+00:00</pubDate>
-<description>Figure AIの最新ヒューマノイドロボット「Figure 03」が30時間以上の連続稼働を実現。労働代替の現実味と影響を解説する。</description>
-</item>
-<item>
-<title>OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html</guid>
-<pubDate>2026-05-14T08:22:34.046829+00:00</pubDate>
-<description>OpenAIがCodexの財務チーム向け活用ガイドを公開。MBR作成、差異ブリッジ、モデルチェック、計画シナリオなど実務での使い方を解説。</description>
 </item>
 </channel></rss>
