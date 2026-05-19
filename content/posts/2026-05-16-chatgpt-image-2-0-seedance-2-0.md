@@ -62,9 +62,9 @@ ChatGPT Image 2.0 は OpenAI が ChatGPT に統合した画像生成機能で、
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 
 ### 姉妹サイトの関連記事
+- [Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/leonardo-ai使い方完全ガイド2026年版月5万稼ぐ7ステップ/) — auto-blog
 - [AI英会話を無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai英会話を無料で始める7つの方法2026年最新/) — auto-blog
 - [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
-- [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

@@ -66,12 +66,12 @@ OpenAI側の狙いは、国家単位でAIがどのように社会に浸透する
 ## 関連する記事
 
 - [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html)
-- [OpenAI×マルタ国家提携、全市民にChatGPT Plus無償提供開始](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html)
-- [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
+- [OpenAI、マルタ全国民にChatGPT Plus提供を発表 国家規模のAI普及策](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus-ai.html)
+- [OpenAIとマルタが提携、全国民にChatGPT Plus提供へ](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html)
 
 ### 姉妹サイトの関連記事
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
 - [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
-- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/) — auto-blog
+- [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/) — auto-blog
 
 <!-- SEO_MESH_END -->

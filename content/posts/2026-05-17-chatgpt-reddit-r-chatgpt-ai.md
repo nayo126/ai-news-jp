@@ -71,7 +71,7 @@ r/ChatGPTでは過去にも、OpenAIのスタッフや関係者と思われる�
 
 ### 姉妹サイトの関連記事
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+- [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/) — auto-blog
 - [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/) — auto-blog
-- [Discord AI コミュニティ 海外活用2026最新](https://nayo126.github.io/auto-blog/blog/discord-ai-コミュニティ-海外活用2026最新/) — auto-blog
 
 <!-- SEO_MESH_END -->

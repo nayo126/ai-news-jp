@@ -54,3 +54,18 @@ OpenAIがDellという世界最大級のサーバーベンダーと組んだこ�
 ### [OpenAI公式: Dellとの提携発表](https://openai.com/index/dell-codex-enterprise-partnership)
 ### [Dell AI Factory概要](https://www.dell.com/en-us/dt/solutions/artificial-intelligence/index.htm)
 ### [Codex公式ドキュメント](https://platform.openai.com/docs/guides/code)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [OpenAIとDellが提携、Codexをハイブリッド・オンプレ環境に展開へ](https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html)
+- [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html)
+- [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
+
+### 姉妹サイトの関連記事
+- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
+- [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
+- [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/) — auto-blog
+
+<!-- SEO_MESH_END -->

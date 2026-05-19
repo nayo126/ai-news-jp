@@ -71,8 +71,8 @@ MidjourneyやStable Diffusionでは1プロンプトで複数バリエーショ�
 
 ### 姉妹サイトの関連記事
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+- [Azure OpenAI 比較2026｜本家ChatGPTとの7つの違い](https://nayo126.github.io/auto-blog/blog/azure-openai-比較2026本家chatgptとの7つの違い/) — auto-blog
 - [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/) — auto-blog
-- [ChatGPTプロンプトで改行する方法5選｜Shift+Enterの使い方](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトで改行する方法5選shiftenterの使い方/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

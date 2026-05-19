@@ -63,9 +63,9 @@ https://www.anthropic.com/research
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
 
 ### 姉妹サイトの関連記事
+- [プロンプト入力で副業を始める7つの型｜月5万への最短ルート](https://nayo126.github.io/auto-blog/blog/プロンプト入力で副業を始める7つの型月5万への最短ルート/) — auto-blog
+- [AIブログ プロンプト完全攻略7選｜2026最新](https://nayo126.github.io/auto-blog/blog/aiブログ-プロンプト完全攻略7選2026最新/) — auto-blog
 - [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
-- [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/) — auto-blog
-- [AIフリーランスとは?2026年最新の始め方と月収50万への道](https://nayo126.github.io/auto-blog/blog/aiフリーランスとは2026年最新の始め方と月収50万への道/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

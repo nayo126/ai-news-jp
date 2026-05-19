@@ -60,9 +60,9 @@ AI企業のブランドが、ユーザー側のクリエイティブによって
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 
 ### 姉妹サイトの関連記事
+- [プロンプト入力で副業を始める7つの型｜月5万への最短ルート](https://nayo126.github.io/auto-blog/blog/プロンプト入力で副業を始める7つの型月5万への最短ルート/) — auto-blog
 - [Claudeプロンプトの書き方7つのコツ｜返答3倍精度UP](https://nayo126.github.io/auto-blog/blog/claudeプロンプトの書き方7つのコツ返答3倍精度up/) — auto-blog
-- [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/) — auto-blog
-- [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/) — auto-blog
+- [AIブログ プロンプト完全攻略7選｜2026最新](https://nayo126.github.io/auto-blog/blog/aiブログ-プロンプト完全攻略7選2026最新/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

@@ -60,13 +60,13 @@ https://openai.com/chatgpt
 
 ## 関連する記事
 
+- [ChatGPTに個人資産管理機能、米Proユーザー向けにプレビュー開始](https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
-- [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
 
 ### 姉妹サイトの関連記事
+- [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/) — auto-blog
 - [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/) — auto-blog
-- [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/) — auto-blog
-- [AI英会話を無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai英会話を無料で始める7つの方法2026年最新/) — auto-blog
+- [Claude vs OpenAI徹底比較2026｜副業で稼ぐなら7つの違い](https://nayo126.github.io/auto-blog/blog/claude-vs-openai徹底比較2026副業で稼ぐなら7つの違い/) — auto-blog
 
 <!-- SEO_MESH_END -->

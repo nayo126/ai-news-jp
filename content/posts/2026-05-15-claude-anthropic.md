@@ -61,7 +61,7 @@ Anthropicが提供する大規模言語モデル「Claude」が、会話の途�
 
 - [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html)
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
-- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
+- [AI生成動画のリアルさが話題に｜r/singularityで議論される2026年最新クオリティ](https://nayo126.github.io/ai-news-jp/posts/ai-r-singularity-2026.html)
 
 ### 姉妹サイトの関連記事
 - [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/) — auto-blog
