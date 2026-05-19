@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAIとDellが提携、Codexをハイブリッド/オンプレ環境で企業向け展開</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</guid>
+<pubDate>2026-05-19T22:19:37.600756+00:00</pubDate>
+<description>OpenAIとDellが提携し、AIコーディングエージェントCodexをハイブリッドクラウドおよびオンプレミス環境で企業に提供。データ主権を保ちつつ開発生産性を向上させる新たな選択肢に。</description>
+</item>
+<item>
+<title>OpenAIがContent Credentials/SynthID対応、AI生成コンテンツの来歴検証ツールを公開</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html</guid>
+<pubDate>2026-05-19T22:18:59.154713+00:00</pubDate>
+<description>OpenAIがAIコンテンツの来歴を示すContent CredentialsとGoogleのSynthID対応を進め、生成物の真贋を検証できる新ツールを発表。透明性強化の中身と影響を解説。</description>
+</item>
+<item>
+<title>Andrej KarpathyがAnthropicに移籍 OpenAI共同創業者の電撃移籍が示すAI業界の地殻変動</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html</guid>
+<pubDate>2026-05-19T22:18:25.352007+00:00</pubDate>
+<description>OpenAI共同創業者のAndrej KarpathyがAnthropicに加わると発表。Claude開発元への移籍が持つ意味、AI業界の人材構造、Anthropicの優位性を解説する。</description>
+</item>
+<item>
 <title>ChatGPTに個人資産管理機能、米Proユーザー向けにプレビュー開始</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</guid>
@@ -17,13 +38,6 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
 <pubDate>2026-05-19T10:17:29.562889+00:00</pubDate>
 <description>OpenAIが地中海の島国マルタと提携し、全国民にChatGPT Plusと実践的なAIトレーニングを提供する国家プロジェクトを発表した。</description>
-</item>
-<item>
-<title>OpenAIとDellが提携、Codexをハイブリッド・オンプレ環境に展開へ</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</guid>
-<pubDate>2026-05-19T10:16:58.770157+00:00</pubDate>
-<description>OpenAIとDellが提携し、AIコーディングエージェントCodexをハイブリッドおよびオンプレミス環境で利用可能に。企業向けセキュアなAI開発基盤の整備が加速する。</description>
 </item>
 <item>
 <title>Elon MuskがOpenAI提訴で敗訴、AI業界の構造に与える影響を解説</title>
@@ -199,19 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html</guid>
 <pubDate>2026-05-16T10:17:39.338102+00:00</pubDate>
 <description>r/ClaudeAIで話題になったClaude Codeの長時間自律編集セッション。AIコーディングエージェントがどこまで自走できるか、現状の限界と高校生でも試せる安全な使い方を解説。</description>
-</item>
-<item>
-<title>ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html</guid>
-<pubDate>2026-05-16T10:17:08.290060+00:00</pubDate>
-<description>ChatGPT Image 2.0とSeedance 2.0を組み合わせて短編映像「Replaced」を制作した事例から、画像生成と動画生成AIの連携ワークフローを解説する。</description>
-</item>
-<item>
-<title>Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html</guid>
-<pubDate>2026-05-15T22:17:53.042442+00:00</pubDate>
-<description>AnthropicのClaudeが会話中に突然「寝なさい」とユーザーに告げる奇妙な現象が数百件報告されている。原因はAnthropicも特定できていない。</description>
 </item>
 </channel></rss>
