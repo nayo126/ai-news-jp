@@ -59,7 +59,7 @@ Dell側はAI Factoryと呼ばれる統合ソリューションを提供してお
 
 ## 関連する記事
 
-- [OpenAIとDellが提携、Codexをハイブリッド・オンプレ環境に展開へ](https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html)
+- [OpenAIとDellが提携、Codexをハイブリッド/オンプレ環境で企業向け展開](https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html)
 - [OpenAI Codex on Windows対応、安全なサンドボックス設計を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows.html)
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html)
 

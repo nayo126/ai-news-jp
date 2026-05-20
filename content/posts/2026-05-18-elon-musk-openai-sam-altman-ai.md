@@ -64,8 +64,8 @@ Elon Musk氏がSam Altman氏とOpenAIに対して起こしていた訴訟で、M
 ## 関連する記事
 
 - [Elon MuskがOpenAI提訴で敗訴、AI業界の構造に与える影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-ai.html)
+- [Andrej KarpathyがAnthropicに移籍 OpenAI共同創業者の電撃移籍が示すAI業界の地殻変動](https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html)
 - [Figure 03が30時間連続稼働を達成 ヒューマノイドロボットの実用化が加速](https://nayo126.github.io/ai-news-jp/posts/figure-03-30.html)
-- [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
 
 ### 姉妹サイトの関連記事
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog

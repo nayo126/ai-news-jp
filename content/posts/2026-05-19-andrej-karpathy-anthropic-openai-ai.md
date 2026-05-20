@@ -57,3 +57,18 @@ https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude
 https://www.anthropic.com
 ### Karpathy本人の発表（xcancelミラー）
 https://xcancel.com/karpathy/status/2056753169888334312
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html)
+- [Elon MuskがOpenAI提訴で敗訴、AI業界の構造に与える影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-ai.html)
+- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html)
+
+### 姉妹サイトの関連記事
+- [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/) — auto-blog
+- [Anthropic Academyとは？無料で学べるClaude講座5選2026](https://nayo126.github.io/auto-blog/blog/anthropic-academyとは無料で学べるclaude講座5選2026/) — auto-blog
+- [Anthropic Mythosとは何か？2026年最新AI動向7選](https://nayo126.github.io/auto-blog/blog/anthropic-mythosとは何か2026年最新ai動向7選/) — auto-blog
+
+<!-- SEO_MESH_END -->

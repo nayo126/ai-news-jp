@@ -70,8 +70,8 @@ Reddit r/ClaudeAIに投稿された「Average LinkedIn profile today」という
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
 
 ### 姉妹サイトの関連記事
+- [Claudeの使い方完全ガイド2026年版｜5分で始める実践手順](https://nayo126.github.io/auto-blog/blog/claudeの使い方完全ガイド2026年版5分で始める実践手順/) — auto-blog
 - [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/) — auto-blog
 - [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/) — auto-blog
-- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/) — auto-blog
 
 <!-- SEO_MESH_END -->

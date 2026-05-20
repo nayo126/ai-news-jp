@@ -58,8 +58,8 @@ OpenAIのように利用者が多いサービスが透明性をもって対応�
 ## 関連する記事
 
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html)
+- [OpenAIがContent Credentials/SynthID対応、AI生成コンテンツの来歴検証ツールを公開](https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html)
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
-- [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html)
 
 ### 姉妹サイトの関連記事
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
