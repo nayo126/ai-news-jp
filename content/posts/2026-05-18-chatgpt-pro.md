@@ -70,3 +70,23 @@ https://openai.com/chatgpt
 - [OpenAI課金方法5選｜2026年最新の料金と支払い手順](https://nayo126.github.io/auto-blog/blog/openai課金方法5選2026年最新の料金と支払い手順/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT 資産管理 に関連する書籍・ツール</div>
+<p>「ChatGPT 資産管理」について実践的に学ぶための参考リソース</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E8%25B3%2587%25E7%2594%25A3%25E7%25AE%25A1%25E7%2590%2586%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E8%B3%87%E7%94%A3%E7%AE%A1%E7%90%86" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT Pro 新機能 に関連する書籍・ツール</div>
+<p>「ChatGPT Pro 新機能」について実践的に学ぶための参考リソース</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Pro%2520%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Pro%20%E6%96%B0%E6%A9%9F%E8%83%BD" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

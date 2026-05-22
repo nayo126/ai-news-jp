@@ -65,3 +65,23 @@ OpenAIは地中海の島国マルタと提携し、同国の全citizens（国民
 - [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">OpenAI マルタ 提携 に関連する書籍・ツール</div>
+<p>「OpenAI マルタ 提携」について実践的に学ぶための参考リソース</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOpenAI%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2582%25BF%2520%25E6%258F%2590%25E6%2590%25BA%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=OpenAI%20%E3%83%9E%E3%83%AB%E3%82%BF%20%E6%8F%90%E6%90%BA" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT Plus 国民 に関連する書籍・ツール</div>
+<p>「ChatGPT Plus 国民」について実践的に学ぶための参考リソース</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Plus%2520%25E5%259B%25BD%25E6%25B0%2591%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus%20%E5%9B%BD%E6%B0%91" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

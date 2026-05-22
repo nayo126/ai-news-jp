@@ -67,3 +67,23 @@ Google GeminiやAnthropic Claudeなど競合モデルも同様の傾向を示し
 - [ChatGPTプロンプトで改行する方法5選｜Shift+Enterの使い方](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトで改行する方法5選shiftenterの使い方/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT デザイナー プログラマー に関連する書籍・ツール</div>
+<p>「ChatGPT デザイナー プログラマー」について実践的に学ぶための参考リソース</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25BC%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%20%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT 使い方 違い に関連する書籍・ツール</div>
+<p>「ChatGPT 使い方 違い」について実践的に学ぶための参考リソース</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%2520%25E9%2581%2595%25E3%2581%2584%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E4%BD%BF%E3%81%84%E6%96%B9%20%E9%81%95%E3%81%84" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->

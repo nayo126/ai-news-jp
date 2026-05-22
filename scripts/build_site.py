@@ -134,7 +134,21 @@ def ad_block() -> str:
 def rakuten_cta(keywords: list[str]) -> str:
     """楽天アフィリエイト (未成年OK・楽天ポイントで受取) — キーワード検索リンク"""
     kw = keywords[0] if keywords else "ChatGPT 副業"
-    rid = (MIDS.get("rakuten_affiliate") or {}).get("affiliate_id")
+    # multi-account router: routingに従って解決
+    r = (MIDS.get("rakuten_affiliate") or {})
+    ids_map = r.get("ids") or {}
+    routing = r.get("routing") or {}
+    rid = ""
+    if "ai-news-jp" in routing and routing["ai-news-jp"] in ids_map:
+        v = ids_map[routing["ai-news-jp"]]
+        if v and v != "TODO":
+            rid = v
+    if not rid:
+        v = ids_map.get("main")
+        if v and v != "TODO":
+            rid = v
+    if not rid:
+        rid = r.get("affiliate_id")
     search_url = f"https://search.rakuten.co.jp/search/mall/{urllib.parse.quote(kw)}/"
     if rid and rid != "TODO":
         affiliated = (
@@ -220,6 +234,7 @@ footer.site{{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);f
 <nav>
 <a href="/">トップ</a>
 <a href="/categories.html">カテゴリ</a>
+<a href="/products/promptforge.html" style="color:#0066ff;font-weight:600">商品</a>
 <a href="/rss.xml">RSS</a>
 </nav>
 </header>
@@ -410,8 +425,68 @@ def main() -> int:
     (OUT / "CNAME").write_text("")  # placeholder for custom domain later
     (OUT / ".nojekyll").write_text("")  # GH Pages: serve all dirs
 
-    log(f"built {len(posts)} post pages + index + categories + sitemap + rss")
+    # Product page: PromptForge AI Prompt Library
+    try:
+        build_product_page(OUT)
+    except Exception as e:
+        log(f"product page build skipped: {e}")
+
+    log(f"built {len(posts)} post pages + index + categories + sitemap + rss + product")
     return 0
+
+
+def build_product_page(out_root: Path) -> None:
+    """Build /products/promptforge.html with live buy URL from MIDS."""
+    user = (MIDS.get("kofi") or {}).get("username")
+    if user and user != "TODO":
+        buy_url = f"https://ko-fi.com/{user}"
+    else:
+        gum = (MIDS.get("gumroad") or {}).get("product_url")
+        buy_url = gum if (gum and gum != "TODO") else "https://ko-fi.com/promptforge"
+
+    # copy cover image
+    src_cover = Path.home() / "promptforge-library" / "output" / "cover_magazine.png"
+    dest_dir = out_root / "products"
+    dest_dir.mkdir(exist_ok=True)
+    if src_cover.exists():
+        shutil.copy2(src_cover, dest_dir / "promptforge_cover.png")
+
+    head = render_head(
+        title="AI Prompt Library 2026 — 254 Battle-Tested Prompts",
+        description="254 production-grade AI prompts for ChatGPT, Claude, and Cursor. 105-page magazine PDF + bonus cheat sheet. $27.",
+        canonical=f"{BASE_URL}/products/promptforge.html",
+    )
+    body = f"""
+<article style="max-width:780px;margin:0 auto;padding:20px;">
+  <header style="text-align:center;padding:30px 0;">
+    <span style="display:inline-block;padding:4px 12px;background:#ffd700;color:#0f1a2e;border-radius:20px;font-size:12px;font-weight:700;letter-spacing:1px;">DIGITAL PRODUCT</span>
+    <h1 style="font-size:38px;margin:20px 0 8px;line-height:1.15;">AI Prompt Library 2026</h1>
+    <p style="font-size:17px;color:#666;margin:0;">254 Battle-Tested Prompts for ChatGPT, Claude &amp; Cursor</p>
+  </header>
+  <div style="display:flex;gap:32px;flex-wrap:wrap;align-items:center;margin:24px 0;">
+    <div style="flex:1;min-width:240px;">
+      <img src="/products/promptforge_cover.png" alt="cover" style="width:100%;max-width:340px;border-radius:8px;box-shadow:0 8px 32px rgba(0,0,0,0.18);display:block;margin:0 auto;" />
+    </div>
+    <div style="flex:1;min-width:240px;">
+      <div style="font-size:42px;font-weight:800;color:#0f1a2e;">$27 <span style="font-size:16px;color:#888;font-weight:400;">USD</span></div>
+      <p style="color:#555;margin:12px 0 22px;line-height:1.6;">マガジン品質の105ページPDF + ボーナス cheat sheet。9カテゴリの実証済プロンプトを254本収録。</p>
+      <a href="{html.escape(buy_url)}" target="_blank" rel="sponsored noopener" style="display:inline-block;background:#0f1a2e;color:#ffd700;padding:14px 32px;border-radius:8px;font-size:17px;font-weight:700;text-decoration:none;">Get the Library →</a>
+      <p style="font-size:12px;color:#888;margin-top:12px;">Instant download · Lifetime updates · Personal &amp; commercial use OK</p>
+    </div>
+  </div>
+  <h2 style="font-size:24px;margin:30px 0 10px;">What's inside</h2>
+  <ul>
+    <li>254 prompts across 9 categories (Coding / Marketing / Image / Video / Side Hustle / Productivity / Claude / ChatGPT / General)</li>
+    <li>27 Pro Tips boxes (3 per category)</li>
+    <li>Real data visualizations and workflow diagrams</li>
+    <li>BONUS: 1-page AI Prompt Cheat Sheet (10 universal patterns)</li>
+  </ul>
+  <p style="text-align:center;padding:30px 0;">
+    <a href="{html.escape(buy_url)}" target="_blank" rel="sponsored noopener" style="display:inline-block;background:#0f1a2e;color:#ffd700;padding:16px 40px;border-radius:8px;font-size:18px;font-weight:700;text-decoration:none;">Get the Library — $27</a>
+  </p>
+</article>
+"""
+    (dest_dir / "promptforge.html").write_text(head + body + FOOT.format(year=datetime.now().year, site_name=SITE["name"], tagline=SITE["tagline"]))
 
 
 if __name__ == "__main__":

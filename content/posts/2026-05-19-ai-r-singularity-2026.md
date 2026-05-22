@@ -65,3 +65,23 @@
 - [Pika Labs 1.5で始める動画副業｜月5万円ロードマップ](https://nayo126.github.io/auto-blog/blog/pika-labs-15で始める動画副業月5万円ロードマップ/) — auto-blog
 
 <!-- SEO_MESH_END -->
+
+<!-- AFF_CARD_START -->
+
+## 関連書籍・ツール
+
+<aside class="affiliate-card">
+<div class="label">AI動画 リアル 2026 に関連する書籍・ツール</div>
+<p>「AI動画 リアル 2026」について実践的に学ぶための参考リソース</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E5%258B%2595%25E7%2594%25BB%2520%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25202026%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=AI%E5%8B%95%E7%94%BB%20%E3%83%AA%E3%82%A2%E3%83%AB%202026" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<aside class="affiliate-card">
+<div class="label">AI生成 見分け方 に関連する書籍・ツール</div>
+<p>「AI生成 見分け方」について実践的に学ぶための参考リソース</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%259F%25E6%2588%2590%2520%25E8%25A6%258B%25E5%2588%2586%25E3%2581%2591%25E6%2596%25B9%2F&link_type=text" target="_blank" rel="sponsored noopener">▶ 楽天市場で見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%9F%E6%88%90%20%E8%A6%8B%E5%88%86%E3%81%91%E6%96%B9" target="_blank" rel="sponsored noopener">▶ Amazonで見る</a></p>
+</aside>
+
+<!-- AFF_CARD_END -->
