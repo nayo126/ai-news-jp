@@ -65,7 +65,7 @@ AIコーディングが普及するなか、人間が書くコードよりもAI�
 
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html)
-- [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html)
+- [「プログラマーは消える」予言が外れた理由｜AIに育てられる開発者の現実](https://nayo126.github.io/ai-news-jp/posts/post-3bee2508.html)
 
 ### 姉妹サイトの関連記事
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/) — auto-blog
