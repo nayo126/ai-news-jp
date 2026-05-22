@@ -1,0 +1,62 @@
+---
+{
+  "title": "Coders in 2030 が話題｜Cursor・Codex・RunableでAIエージェント開発が標準化",
+  "description": "RedditでバズったAIエージェント開発の現状。Cursor・Codex・Runableで認証やUIをAIに任せる動きと、コードを書く力が衰える懸念を整理。",
+  "category": "AIツール",
+  "tags": [
+    "AIエージェント",
+    "Cursor",
+    "Codex",
+    "AI開発",
+    "Reddit"
+  ],
+  "keywords": [
+    "AIエージェント 開発",
+    "Cursor 使い方",
+    "Codex コーディング",
+    "2030年 プログラマー",
+    "AI 開発ワークフロー"
+  ],
+  "source_url": "https://reddit.com/r/ChatGPT/comments/1tjihlc/coders_in_2030/",
+  "source_name": "reddit/r/ChatGPT",
+  "published_at": "2026-05-22T10:17:53.975328+00:00",
+  "slug": "coders-in-2030-cursor-codex-runable-ai"
+}
+---
+
+## 3行まとめ
+- Reddit r/ChatGPTで「Coders in 2030」が話題、AIエージェント中心の開発フローが拡大
+- Cursor・Codex・RunableでバックエンドとUIをAIに任せ、認証実装が週単位から数時間に短縮
+- 「ゼロからコードを書く力が衰える」懸念も浮上、上流設計力の重要度が増している
+
+## ニュースの中身
+2026年5月、Redditのr/ChatGPTに「Coders in 2030」というスレッドが投稿され、AIエージェント開発の現状を巡って議論が広がっている。投稿者は技術的バックグラウンドを持ちながら、ワークフローのほとんどをAIに任せていると告白した。
+
+具体的な使い分けは次の通り。
+- バックエンドのロジック生成：CursorとCodex
+- UIコンポーネント：Runableをテスト中
+- 画面モックアップ：FigmaとStitch（ただし手動CSS調整が残る）
+
+以前は認証実装とクリーンなレイアウト構築だけで1週間かかっていたが、AIエージェントが視覚的なポリッシュを担当することで、開発者は純粋なロジック設計に集中できるようになったという。
+
+## なぜ重要か
+Cursorは2025年以降、月額20ドル前後で個人開発者にエンタープライズ級の生産性をもたらすツールに進化した。GitHub Copilot、Replit Agent、v0.devなど競合も激化し、AIエージェントが「コーディングを書く側」から「設計を判断する側」に開発者の役割を押し上げている。
+
+一方でスレッドでは「ゼロからコードを書く方法を忘れてしまうのでは」という不安も共有された。データベース設計やシステム設計といった上流判断ができる人ほどAIを高速に乗りこなせる構造が見え、AIネイティブ世代に求められるスキルは「書く力」より「読む力・設計する力」にシフトしている。
+
+## 高校生でも今すぐ試せること
+1. Cursorの無料プランでTodoアプリを1時間で作り、生成コードを読む練習をする
+2. v0.devでUIを生成し、出力されたReactコードの構造をノートにメモする
+3. AIに任せた部分は「なぜこの設計か」を自分の言葉でコメントとして残す
+4. データベース設計やアルゴリズムは紙とペンで週1回手書き練習を続ける
+5. GitHubに小さなプロジェクトを公開し、AI出力を自分でレビューする習慣を持つ
+
+## 関連リンク
+### Coders in 2030 元スレッド（Reddit）
+https://reddit.com/r/ChatGPT/comments/1tjihlc/coders_in_2030/
+
+### Cursor公式サイト
+https://cursor.com
+
+### OpenAI Codex 概要
+https://openai.com/index/openai-codex/
