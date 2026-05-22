@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>Anna's Archive、LLM向け新ファイル「llms.txt」公開で生成AI学習データ提供を加速</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llm-llms-txt-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llm-llms-txt-ai.html</guid>
+<pubDate>2026-05-22T22:18:00.065677+00:00</pubDate>
+<description>Anna's ArchiveがLLM開発者向けにllms.txtを公開。AI学習データへのアクセス方法を整備し、書籍デジタル化と生成AIの関係を再定義する動きが進行中。</description>
+</item>
+<item>
+<title>ChatGPTのF評価で炎上、ユーザーの不満が示すAI評価機能の課題</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-ai.html</guid>
+<pubDate>2026-05-22T22:17:25.697987+00:00</pubDate>
+<description>Reddit r/OpenAIで話題のChatGPT評価機能への不満投稿を解説。AIツールのフィードバック設計とユーザー体験の最新動向を整理する。</description>
+</item>
+<item>
+<title>Claude CodeとAntigravity、Cursorはどこまで進化したか｜2026年AI開発ツール最新評価</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html</guid>
+<pubDate>2026-05-22T22:16:52.788205+00:00</pubDate>
+<description>Claude Code、Antigravity、Cursorが2026年のAI開発ツール市場をどう変えたかをReddit発の最新議論から解説。UI生成のStitchとRunableの実力も紹介。</description>
+</item>
+<item>
 <title>Meta、Heretic プロジェクトに法的通知 - Llama 派生モデルが削除へ</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/meta-heretic-llama.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/meta-heretic-llama.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
 <pubDate>2026-05-16T22:17:21.083436+00:00</pubDate>
 <description>OpenAIとマルタ共和国が提携し、全国民にChatGPT Plusを無償提供。AIスキル研修も実施する国家規模のAI普及プロジェクトの内容と意義を解説。</description>
-</item>
-<item>
-<title>ChatGPTの回答精度を上げる質問テンプレ｜Reddit話題の活用法を解説</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html</guid>
-<pubDate>2026-05-16T22:16:51.126593+00:00</pubDate>
-<description>Redditで話題になったChatGPTの便利な使い方を解説。質問の仕方を変えるだけで回答精度が上がる理由と、高校生でもすぐ試せる実践テクニックを紹介。</description>
-</item>
-<item>
-<title>llama.cpp に MTP 実装が承認──Multi-Token Prediction でローカルLLM高速化へ</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/llama-cpp-mtp-multi-token-prediction-llm.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/llama-cpp-mtp-multi-token-prediction-llm.html</guid>
-<pubDate>2026-05-16T18:24:04.502900+00:00</pubDate>
-<description>ローカルLLM実行の定番 llama.cpp に Multi-Token Prediction (MTP) のマージが承認された。推論速度の改善が期待される最新動向と影響を解説。</description>
-</item>
-<item>
-<title>ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html</guid>
-<pubDate>2026-05-16T18:23:34.986095+00:00</pubDate>
-<description>Redditの「Me thinking I cooked」投稿が拡散。一晩かけたコードをLLMに貼ったら設計欠陥3つと競合状態を即指摘された体験談から、AIコードレビューの実用性を解説する。</description>
 </item>
 </channel></rss>
