@@ -60,9 +60,9 @@
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 
 ### 姉妹サイトの関連記事
+- [画像から動画AI比較7選｜2026年最新おすすめ](https://nayo126.github.io/auto-blog/blog/画像から動画ai比較7選2026年最新おすすめ/) — auto-blog
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 - [AI動画を見抜く方法7選｜2026年最新の見分け方](https://nayo126.github.io/auto-blog/blog/ai動画を見抜く方法7選2026年最新の見分け方/) — auto-blog
-- [Pika Labs 1.5で始める動画副業｜月5万円ロードマップ](https://nayo126.github.io/auto-blog/blog/pika-labs-15で始める動画副業月5万円ロードマップ/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
