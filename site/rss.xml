@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>Virgin AtlanticがOpenAI Codexでアプリ刷新、P1欠陥ゼロを達成</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</guid>
+<pubDate>2026-05-23T10:19:55.441016+00:00</pubDate>
+<description>Virgin Atlanticが繁忙期の固定締切に向けOpenAIのCodexを活用し、モバイルアプリを刷新。単体テストカバレッジほぼ100%、P1欠陥ゼロを実現した事例を解説。</description>
+</item>
+<item>
+<title>OpenAI Codexが2026 Gartner Magic Quadrantでリーダー認定｜エンタープライズAIコーディングエージェント</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant-ai.html</guid>
+<pubDate>2026-05-23T10:19:12.449370+00:00</pubDate>
+<description>OpenAIが2026 Gartner Magic Quadrant for Enterprise AI Coding Agentsでリーダーに選出。Codexの革新性と大規模展開が評価された件を解説。</description>
+</item>
+<item>
+<title>Anna's Archiveがllms.txtでAIに直接呼びかけ｜AI学習データ提供の新動き</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llms-txt-ai-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llms-txt-ai-ai.html</guid>
+<pubDate>2026-05-23T10:18:41.427756+00:00</pubDate>
+<description>シャドウライブラリのAnna's Archiveがllms.txtを公開し、CAPTCHA回避ではなく一括ダウンロードと寄付を求めた。AI学習データを巡る新しい交渉の形を解説する。</description>
+</item>
+<item>
 <title>Anna's Archive、LLM向け新ファイル「llms.txt」公開で生成AI学習データ提供を加速</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llm-llms-txt-ai.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llm-llms-txt-ai.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html</guid>
 <pubDate>2026-05-17T10:17:31.771998+00:00</pubDate>
 <description>OpenAIがCodex for Workの新事例を公開。業務オペレーション部門がイニシアチブ概要やリーダーシップ向け意思決定資料を自動生成する方法を紹介。</description>
-</item>
-<item>
-<title>OpenAI×マルタ国家提携、全市民にChatGPT Plus無償提供開始</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
-<pubDate>2026-05-17T10:16:58.507128+00:00</pubDate>
-<description>OpenAIがマルタ政府と提携し、全市民にChatGPT Plusを提供。AI教育とリテラシー強化を国家規模で推進する世界初の取り組みを解説。</description>
-</item>
-<item>
-<title>今週のAIニュース10選 (2026/05/17付)</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html</guid>
-<pubDate>2026-05-17T01:00:01.777496+00:00</pubDate>
-<description>2026年05月17日までの1週間で報じられたClaude・ChatGPT・AIツール最新ニュースをまとめて紹介します。</description>
-</item>
-<item>
-<title>OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
-<pubDate>2026-05-16T22:17:21.083436+00:00</pubDate>
-<description>OpenAIとマルタ共和国が提携し、全国民にChatGPT Plusを無償提供。AIスキル研修も実施する国家規模のAI普及プロジェクトの内容と意義を解説。</description>
 </item>
 </channel></rss>
