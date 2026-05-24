@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>ChatGPTの画像生成で『全時代版GTA』が話題｜歴史×AIアート連作の作り方</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-gta-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-gta-ai.html</guid>
+<pubDate>2026-05-24T10:18:21.017102+00:00</pubDate>
+<description>r/ChatGPTで「Grand Theft Auto: Every Era in Human History」が拡散。石器時代から現代までをGTA風カバーで描くAI画像生成の手法と、すぐ試せるプロンプト術を解説。</description>
+</item>
+<item>
+<title>Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html</guid>
+<pubDate>2026-05-24T10:17:42.345266+00:00</pubDate>
+<description>AIアシスタントClaudeの不調がr/ClaudeAIで話題に。朝の時間帯にエラーや応答遅延、回答品質低下が報告された経緯と、利用者ができる対処法を解説。</description>
+</item>
+<item>
+<title>Redditで「Google has officially gone insane」が拡散、Gemini性能への驚きが話題に</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/reddit-google-has-officially-gone-insane-gemini.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/reddit-google-has-officially-gone-insane-gemini.html</guid>
+<pubDate>2026-05-24T10:17:00.321657+00:00</pubDate>
+<description>r/ChatGPTで拡散した投稿「Google has officially gone insane」を解説。Geminiの画像生成・対話品質への驚きと、OpenAIとの競争構図、無料で試す方法をまとめる。</description>
+</item>
+<item>
 <title>Virgin AtlanticがOpenAI Codexでアプリ刷新、P1欠陥ゼロを達成</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-r-chatgpt.html</guid>
 <pubDate>2026-05-17T22:17:29.257394+00:00</pubDate>
 <description>Redditのr/ChatGPTで話題の『Designers V/s Programmers in gpt』投稿を解説。ChatGPTを使う2職種のプロンプト傾向や成果物の違い、そこから見える生成AI活用のヒントを整理。</description>
-</item>
-<item>
-<title>ChatGPTのReddit投稿「👀」がr/ChatGPTで話題に｜AIコミュニティの反応分析</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt-ai.html</guid>
-<pubDate>2026-05-17T22:16:58.082633+00:00</pubDate>
-<description>r/ChatGPTに投稿された絵文字だけのスレッド「👀」がコミュニティで注目を集めた。ChatGPTユーザーの最新動向と、こうしたミニマル投稿がバズる背景を解説する。</description>
-</item>
-<item>
-<title>Databricks、GPT-5.5を企業向けエージェントワークフローに採用 OfficeQA Pro最高性能</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/databricks-gpt-5-5-officeqa-pro.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/databricks-gpt-5-5-officeqa-pro.html</guid>
-<pubDate>2026-05-17T10:18:04.801727+00:00</pubDate>
-<description>DatabricksがGPT-5.5を企業向けエージェントワークフローに統合。OfficeQA Pro benchmarkで最高性能を達成し、業務自動化の新基準となる。</description>
-</item>
-<item>
-<title>OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html</guid>
-<pubDate>2026-05-17T10:17:31.771998+00:00</pubDate>
-<description>OpenAIがCodex for Workの新事例を公開。業務オペレーション部門がイニシアチブ概要やリーダーシップ向け意思決定資料を自動生成する方法を紹介。</description>
 </item>
 </channel></rss>
