@@ -67,12 +67,12 @@ r/ChatGPTでは過去にも、OpenAIのスタッフや関係者と思われる�
 
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
-- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt.html)
+- [ChatGPTのF評価で炎上、ユーザーの不満が示すAI評価機能の課題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-ai.html)
 
 ### 姉妹サイトの関連記事
+- [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 - [OpenAI API支払い方法5選｜2026年最新の登録手順](https://nayo126.github.io/auto-blog/blog/openai-api支払い方法5選2026年最新の登録手順/) — auto-blog
-- [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

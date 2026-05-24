@@ -69,3 +69,16 @@ https://llmstxt.org/
 
 ### robots.txtの仕組み（Google検索セントラル）
 https://developers.google.com/search/docs/crawling-indexing/robots/intro
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Anna's Archive、LLM向け新ファイル「llms.txt」公開で生成AI学習データ提供を加速](https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llm-llms-txt-ai.html)
+- [ChatGPTの画像生成制限を回避する手法がRedditで拡散 第三者コンテンツの生成リスクと対策](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html)
+
+### 姉妹サイトの関連記事
+- [AI画像の著作権2026年版｜日本の最新ルール7選](https://nayo126.github.io/auto-blog/blog/ai画像の著作権2026年版日本の最新ルール7選/) — auto-blog
+- [Midjourney商用利用の範囲2026年版｜5つの注意点](https://nayo126.github.io/auto-blog/blog/midjourney商用利用の範囲2026年版5つの注意点/) — auto-blog
+
+<!-- SEO_MESH_END -->

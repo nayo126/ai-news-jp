@@ -61,12 +61,12 @@ ChatGPTの強みは、データを見せるだけでなく、自然言語で対�
 
 - [ChatGPTに個人資産管理機能が登場 Pro向け米国先行で口座連携可能に](https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
-- [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html)
+- [ChatGPTのF評価で炎上、ユーザーの不満が示すAI評価機能の課題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-ai.html)
 
 ### 姉妹サイトの関連記事
+- [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
 - [OpenAI API支払い方法5選｜2026年最新の登録手順](https://nayo126.github.io/auto-blog/blog/openai-api支払い方法5選2026年最新の登録手順/) — auto-blog
 - [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/) — auto-blog
-- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

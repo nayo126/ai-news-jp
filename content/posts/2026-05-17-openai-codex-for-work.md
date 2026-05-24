@@ -86,11 +86,11 @@ https://openai.com/codex
 
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
-- [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
+- [OpenAI Codexが2026 Gartner Magic Quadrantでリーダー認定｜エンタープライズAIコーディングエージェント](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant-ai.html)
 
 ### 姉妹サイトの関連記事
+- [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
 - [AI議事録ツール比較2026|無料6選の精度と料金](https://nayo126.github.io/auto-blog/blog/ai議事録ツール比較2026無料6選の精度と料金/) — auto-blog
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
-- [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
 
 <!-- SEO_MESH_END -->

@@ -61,8 +61,8 @@ Claude Code は2024年後半から提供されているターミナル型のAI�
 
 ### 姉妹サイトの関連記事
 - [Claude Code無料の制限まとめ｜2026年最新の上限と回避3手](https://nayo126.github.io/auto-blog/blog/claude-code無料の制限まとめ2026年最新の上限と回避3手/) — auto-blog
+- [KiroとClaude Code比較｜7つの違い2026](https://nayo126.github.io/auto-blog/blog/kiroとclaude-code比較7つの違い2026/) — auto-blog
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/) — auto-blog
-- [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

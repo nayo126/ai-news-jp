@@ -56,13 +56,13 @@ OpenAIは公式ブログで、東南アジア最大級のテック企業Sea Limi
 ## 関連する記事
 
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
+- [OpenAI Codexが2026 Gartner Magic Quadrantでリーダー認定｜エンタープライズAIコーディングエージェント](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant-ai.html)
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
-- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html)
 
 ### 姉妹サイトの関連記事
+- [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/) — auto-blog
 - [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/) — auto-blog
-- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

@@ -59,12 +59,12 @@ MITメディアラボやOpenAIの共同研究では、ChatGPTのヘビーユー�
 
 - [ChatGPTで明らかになるデザイナーとプログラマーの思考差・r/ChatGPT話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-r-chatgpt.html)
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
-- [ChatGPTの回答精度を上げる質問テンプレ｜Reddit話題の活用法を解説](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html)
+- [ChatGPTのF評価で炎上、ユーザーの不満が示すAI評価機能の課題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-ai.html)
 
 ### 姉妹サイトの関連記事
+- [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 - [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
-- [OpenAI API支払い方法5選｜2026年最新の登録手順](https://nayo126.github.io/auto-blog/blog/openai-api支払い方法5選2026年最新の登録手順/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
