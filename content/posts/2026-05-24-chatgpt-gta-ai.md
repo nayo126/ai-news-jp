@@ -54,3 +54,18 @@ https://reddit.com/r/ChatGPT/comments/1tlkpy1/grand_theft_auto_every_era_in_huma
 
 ### ChatGPTの画像生成機能 公式ヘルプ
 https://help.openai.com/
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+- [ChatGPTの回答精度を上げる質問テンプレ｜Reddit話題の活用法を解説](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html)
+- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt.html)
+
+### 姉妹サイトの関連記事
+- [ChatGPT英会話プロンプト無料7選｜独学で話せる使い方](https://nayo126.github.io/auto-blog/blog/chatgpt英会話プロンプト無料7選独学で話せる使い方/) — auto-blog
+- [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
+- [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/) — auto-blog
+
+<!-- SEO_MESH_END -->

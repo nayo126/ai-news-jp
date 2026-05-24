@@ -57,7 +57,7 @@ OpenAI側の狙いは、国家単位でAIがどのように社会に浸透する
 
 ### [OpenAI公式発表: Malta partnership](https://openai.com/index/malta-chatgpt-plus-partnership)
 
-### [ChatGPT Plusの機能と料金](https://openai.com/chatgpt/pricing)
+### [ChatGPT Plusの機能と料金](#) <!-- broken-link removed by broken-link-fixer: was https://openai.com/chatgpt/pricing -->
 
 ### [各国のAI政策動向まとめ](https://openai.com/global-affairs)
 

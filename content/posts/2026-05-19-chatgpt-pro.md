@@ -52,8 +52,8 @@ ChatGPTの強みは、データを見せるだけでなく、自然言語で対�
 
 ## 関連リンク
 ### [OpenAI公式: A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt)
-### [ChatGPT Pro プラン詳細](https://openai.com/chatgpt/pricing)
-### [OpenAI ChatGPTの最新機能一覧](https://openai.com/chatgpt)
+### [ChatGPT Pro プラン詳細](#) <!-- broken-link removed by broken-link-fixer: was https://openai.com/chatgpt/pricing -->
+### [OpenAI ChatGPTの最新機能一覧](#) <!-- broken-link removed by broken-link-fixer: was https://openai.com/chatgpt -->
 
 <!-- SEO_MESH_START -->
 

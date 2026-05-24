@@ -50,7 +50,7 @@ Reddit r/ChatGPTに2026年5月、「Just give me the F bro 😭」というタ�
 
 ## 関連リンク
 ### [元ソース: r/ChatGPT - Just give me the F bro](https://reddit.com/r/ChatGPT/comments/1tgaa8b/just_give_me_the_f_bro/)
-### [ChatGPT Eduの教育活用ガイド](https://openai.com/chatgpt/education/)
+### [ChatGPT Eduの教育活用ガイド](#) <!-- broken-link removed by broken-link-fixer: was https://openai.com/chatgpt/education/ -->
 ### [Claudeを使った学習レビューの実例](https://www.anthropic.com/claude)
 
 <!-- SEO_MESH_START -->
@@ -63,8 +63,8 @@ Reddit r/ChatGPTに2026年5月、「Just give me the F bro 😭」というタ�
 
 ### 姉妹サイトの関連記事
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+- [ChatGPT英会話プロンプト無料7選｜独学で話せる使い方](https://nayo126.github.io/auto-blog/blog/chatgpt英会話プロンプト無料7選独学で話せる使い方/) — auto-blog
 - [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/) — auto-blog
-- [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

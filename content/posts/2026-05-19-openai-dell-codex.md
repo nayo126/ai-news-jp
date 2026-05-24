@@ -53,7 +53,7 @@ Dellは「AI Factory」と呼ばれるエンタープライズ向けAIインフ�
 ## 関連リンク
 ### [OpenAI公式: OpenAI and Dell partnership](https://openai.com/index/dell-codex-enterprise-partnership)
 ### [Codex公式ページ](https://openai.com/codex)
-### [Dell AI Factory概要](https://www.dell.com/en-us/dt/ai-solutions/ai-factory.htm)
+### [Dell AI Factory概要](#) <!-- broken-link removed by broken-link-fixer: was https://www.dell.com/en-us/dt/ai-solutions/ai-factory.htm -->
 
 <!-- SEO_MESH_START -->
 

@@ -66,8 +66,8 @@ Reddit r/ClaudeAIに投稿された「Average LinkedIn profile today」という
 ## 関連する記事
 
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html)
 - [AI時代に残る仕事は？配管工・電気工・HVAC技術者が注目される理由](https://nayo126.github.io/ai-news-jp/posts/ai-hvac.html)
-- [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
 
 ### 姉妹サイトの関連記事
 - [Claudeの使い方完全ガイド2026年版｜5分で始める実践手順](https://nayo126.github.io/auto-blog/blog/claudeの使い方完全ガイド2026年版5分で始める実践手順/) — auto-blog

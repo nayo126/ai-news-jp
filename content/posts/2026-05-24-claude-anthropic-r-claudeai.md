@@ -50,3 +50,18 @@ ChatGPTやGeminiと並び、ClaudeはコーディングやライティングのA
 ### [Claude is not having a good morning（r/ClaudeAI）](https://reddit.com/r/ClaudeAI/comments/1tlntio/claude_is_not_having_a_good_morning/)
 ### [Anthropic公式ステータスページ](https://status.anthropic.com)
 ### [Claude Codeの使い方ガイド](https://docs.anthropic.com)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html)
+- [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html)
+- [Andrej KarpathyがAnthropicに移籍 OpenAI共同創業者の電撃移籍が示すAI業界の地殻変動](https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html)
+
+### 姉妹サイトの関連記事
+- [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/) — auto-blog
+- [Anthropic Academyとは？無料で学べるClaude講座5選2026](https://nayo126.github.io/auto-blog/blog/anthropic-academyとは無料で学べるclaude講座5選2026/) — auto-blog
+- [Anthropic Mythosとは何か？2026年最新AI動向7選](https://nayo126.github.io/auto-blog/blog/anthropic-mythosとは何か2026年最新ai動向7選/) — auto-blog
+
+<!-- SEO_MESH_END -->

@@ -62,8 +62,8 @@ OpenAIは2026年5月、地中海のEU加盟国マルタ共和国と公式パー�
 
 ## 関連リンク
 ### [OpenAI公式発表 - Malta partnership](https://openai.com/index/malta-chatgpt-plus-partnership)
-### [ChatGPT Plus公式ページ](https://openai.com/chatgpt/pricing)
-### [マルタ政府 デジタル戦略](https://digital.gov.mt)
+### [ChatGPT Plus公式ページ](#) <!-- broken-link removed by broken-link-fixer: was https://openai.com/chatgpt/pricing -->
+### [マルタ政府 デジタル戦略](#) <!-- broken-link removed by broken-link-fixer: was https://digital.gov.mt -->
 
 <!-- SEO_MESH_START -->
 

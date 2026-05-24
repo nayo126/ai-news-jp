@@ -68,9 +68,9 @@ https://www.imdb.com/title/tt1637688/
 
 ## 関連する記事
 
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html)
 - [AI生成動画のリアルさが話題に｜r/singularityで議論される2026年最新クオリティ](https://nayo126.github.io/ai-news-jp/posts/ai-r-singularity-2026.html)
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
-- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 
 ### 姉妹サイトの関連記事
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog

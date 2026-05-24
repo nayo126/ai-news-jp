@@ -48,7 +48,7 @@ OpenAIは地中海の島国マルタと提携し、同国の全citizens（国民
 
 ## 関連リンク
 ### [OpenAI公式発表: Malta partnership](https://openai.com/index/malta-chatgpt-plus-partnership)
-### [ChatGPT Plus 料金プラン詳細](https://openai.com/chatgpt/pricing)
+### [ChatGPT Plus 料金プラン詳細](#) <!-- broken-link removed by broken-link-fixer: was https://openai.com/chatgpt/pricing -->
 ### [EU AI Act 概要](https://artificialintelligenceact.eu/)
 
 <!-- SEO_MESH_START -->

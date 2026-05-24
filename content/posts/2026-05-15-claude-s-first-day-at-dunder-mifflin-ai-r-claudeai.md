@@ -55,9 +55,9 @@ AI企業のブランドが、ユーザー側のクリエイティブによって
 
 ## 関連する記事
 
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html)
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
-- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 
 ### 姉妹サイトの関連記事
 - [AI動画おすすめプロンプト10選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/ai動画おすすめプロンプト10選2026年最新版/) — auto-blog
