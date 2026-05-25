@@ -63,8 +63,8 @@ Reddit r/ChatGPTに2026年5月、「Just give me the F bro 😭」というタ�
 
 ### 姉妹サイトの関連記事
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/) — auto-blog
 - [ChatGPT英会話プロンプト無料7選｜独学で話せる使い方](https://nayo126.github.io/auto-blog/blog/chatgpt英会話プロンプト無料7選独学で話せる使い方/) — auto-blog
-- [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

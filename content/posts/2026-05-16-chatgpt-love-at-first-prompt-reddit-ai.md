@@ -64,7 +64,7 @@ MITメディアラボやOpenAIの共同研究では、ChatGPTのヘビーユー�
 ### 姉妹サイトの関連記事
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
-- [ChatGPT英会話プロンプト無料7選｜独学で話せる使い方](https://nayo126.github.io/auto-blog/blog/chatgpt英会話プロンプト無料7選独学で話せる使い方/) — auto-blog
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

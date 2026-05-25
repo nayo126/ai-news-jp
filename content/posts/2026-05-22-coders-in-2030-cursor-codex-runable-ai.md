@@ -90,8 +90,8 @@ https://openai.com/index/openai-codex/
 - [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html)
 
 ### 姉妹サイトの関連記事
+- [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/) — auto-blog
 - [Cursor使い方YouTube厳選7選｜2026年最新の学習動線](https://nayo126.github.io/auto-blog/blog/cursor使い方youtube厳選7選2026年最新の学習動線/) — auto-blog
 - [Cursor使い方完全ガイド｜VSCodeから乗り換えで開発効率3倍](https://nayo126.github.io/auto-blog/blog/cursor使い方完全ガイドvscodeから乗り換えで開発効率3倍/) — auto-blog
-- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/) — auto-blog
 
 <!-- SEO_MESH_END -->

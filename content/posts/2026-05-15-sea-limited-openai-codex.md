@@ -60,9 +60,9 @@ OpenAIは公式ブログで、東南アジア最大級のテック企業Sea Limi
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
 
 ### 姉妹サイトの関連記事
+- [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/) — auto-blog
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/) — auto-blog
-- [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

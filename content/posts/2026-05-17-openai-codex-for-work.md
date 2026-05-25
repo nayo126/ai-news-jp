@@ -90,7 +90,7 @@ https://openai.com/codex
 
 ### 姉妹サイトの関連記事
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/) — auto-blog
 - [AI議事録ツール比較2026|無料6選の精度と料金](https://nayo126.github.io/auto-blog/blog/ai議事録ツール比較2026無料6選の精度と料金/) — auto-blog
-- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
 
 <!-- SEO_MESH_END -->

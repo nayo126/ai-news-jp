@@ -64,9 +64,9 @@ Reddit の r/ChatGPT に投稿された「Me thinking I cooked」というスレ
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 
 ### 姉妹サイトの関連記事
+- [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/) — auto-blog
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 - [Cursor使い方YouTube厳選7選｜2026年最新の学習動線](https://nayo126.github.io/auto-blog/blog/cursor使い方youtube厳選7選2026年最新の学習動線/) — auto-blog
-- [Cursor使い方完全ガイド｜VSCodeから乗り換えで開発効率3倍](https://nayo126.github.io/auto-blog/blog/cursor使い方完全ガイドvscodeから乗り換えで開発効率3倍/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
