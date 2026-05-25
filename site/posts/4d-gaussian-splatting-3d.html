@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>4D Gaussian Splattingとは？通常動画から自由視点3Dを再構成する技術を解説</title>
+<meta name="description" content="4D Gaussian Splattingは平面の動画を立体データ化し、撮影していない角度の映像も再構成できる3D技術。NeRFとの違いや活用例、無料で試す方法を初心者向けに解説する。" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://nayo126.github.io/ai-news-jp/posts/4d-gaussian-splatting-3d.html" />
+<meta property="og:title" content="4D Gaussian Splattingとは？通常動画から自由視点3Dを再構成する技術を解説" />
+<meta property="og:description" content="4D Gaussian Splattingは平面の動画を立体データ化し、撮影していない角度の映像も再構成できる3D技術。NeRFとの違いや活用例、無料で試す方法を初心者向けに解説する。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nayo126.github.io/ai-news-jp/posts/4d-gaussian-splatting-3d.html" />
+<meta name="twitter:card" content="summary" />
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "4D Gaussian Splattingとは？通常動画から自由視点3Dを再構成する技術を解説", "description": "4D Gaussian Splattingは平面の動画を立体データ化し、撮影していない角度の映像も再構成できる3D技術。NeRFとの違いや活用例、無料で試す方法を初心者向けに解説する。", "datePublished": "2026-05-25T10:17:19.224747+00:00", "dateModified": "2026-05-25T10:17:19.224747+00:00", "author": {"@type": "Person", "name": "高校生・AI×副業ラボ"}, "publisher": {"@type": "Organization", "name": "AI News JP"}, "mainEntityOfPage": "https://nayo126.github.io/ai-news-jp/posts/4d-gaussian-splatting-3d.html", "keywords": "4D Gaussian Splatting とは, ガウシアンスプラッティング, 動画から3D 再構成, NeRF 違い, 自由視点 映像 AI"}</script>
+<style>
+:root{--fg:#1a1a1a;--mut:#666;--bg:#fff;--accent:#0066cc;--card:#fafafa;--bd:#e5e5e5;}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,"Hiragino Kaku Gothic ProN","Yu Gothic","Meiryo",sans-serif;color:var(--fg);background:var(--bg);line-height:1.75;font-size:16px}
+a{color:var(--accent)}a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--bd);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;background:#fff;position:sticky;top:0;z-index:10}
+header.site h1{font-size:18px;margin:0}header.site h1 a{color:var(--fg);text-decoration:none}
+header.site nav a{margin-left:14px;font-size:14px;color:var(--mut);text-decoration:none}
+main{max-width:780px;margin:0 auto;padding:24px 20px 80px}
+article header h1{font-size:28px;line-height:1.4;margin:0 0 8px}article header .meta{color:var(--mut);font-size:13px}
+article h2{font-size:22px;margin:32px 0 12px;border-left:4px solid var(--accent);padding-left:10px}
+article h3{font-size:18px;margin:24px 0 8px}
+article ul{padding-left:1.4em}article li{margin-bottom:4px}
+article p{margin:14px 0}
+.tags{margin:24px 0;display:flex;flex-wrap:wrap;gap:6px}.tags span{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:4px 10px;font-size:12px;color:var(--mut)}
+.cta-box{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:14px 18px;margin:24px 0}.cta-box h4{margin:0 0 6px;font-size:15px}.cta-box p{margin:6px 0;font-size:14px;color:var(--mut)}
+.cta-btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:14px;margin-top:6px}
+.ad-slot{margin:24px auto;text-align:center;min-height:90px}.ad-placeholder{background:#f4f4f4;color:#999;padding:30px 10px;font-size:13px;border:1px dashed #ccc}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{border-bottom:1px solid var(--bd);padding:18px 0}
+.post-list li time{color:var(--mut);font-size:12px;display:block;margin-bottom:4px}
+.post-list li h3{margin:0 0 6px;font-size:18px}.post-list li h3 a{color:var(--fg);text-decoration:none}.post-list li h3 a:hover{color:var(--accent)}
+.post-list li p{margin:0;color:var(--mut);font-size:14px}
+footer.site{border-top:1px solid var(--bd);padding:24px 20px;color:var(--mut);font-size:13px;text-align:center}
+.cat-pill{display:inline-block;background:var(--accent);color:#fff;padding:2px 8px;border-radius:10px;font-size:11px;margin-right:6px}
+.toc{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:12px 18px;margin:18px 0;font-size:14px}
+.toc strong{display:block;margin-bottom:6px}
+</style>
+</head>
+<body>
+<header class="site">
+<h1><a href="/">AI News JP</a></h1>
+<nav>
+<a href="/">トップ</a>
+<a href="/categories.html">カテゴリ</a>
+<a href="/products/promptforge.html" style="color:#0066ff;font-weight:600">商品</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+</header>
+<main>
+
+<article>
+<header>
+<div><span class="cat-pill">AIツール</span></div>
+<h1>4D Gaussian Splattingとは？通常動画から自由視点3Dを再構成する技術を解説</h1>
+<div class="meta">公開: 2026-05-25 | カテゴリ: AIツール</div>
+</header>
+<div class="ad-slot ad-placeholder"><span>広告枠 (忍者AdMax設定後に自動表示)</span></div>
+<h2>3行まとめ</h2>
+<ul>
+<li>4D Gaussian Splattingが通常動画から3D空間を再構成</li>
+<li>平面の映像を立体化し、撮影していない角度も再生できる</li>
+<li>スマホ撮影にも応用が進む注目の3D表現技術</li>
+</ul>
+<h2>ニュースの中身</h2>
+<p>Redditのr/singularityで、4D Gaussian Splattingという技術が話題になった。投稿者は「ライブ映像から異なるカメラアングルを再構成できる」点を取り上げ、平面の画像を三次元の空間データに変換する仕組みに驚いたと述べている。</p>
+<p>Gaussian Splattingは、2023年にInria（フランス国立情報学自動制御研究所）のチームがSIGGRAPH 2023で発表した3D表現手法だ。シーンを無数の「ガウシアン」と呼ばれる半透明の点の集まりとして表現する。従来注目されていたNeRF（Neural Radiance Fields）よりレンダリングが高速で、リアルタイム表示に向くのが大きな特徴とされる。</p>
+<p>「4D」は、この3D表現に時間軸を加えたもの。静止した風景だけでなく、動く人物や変化する場面も立体的に記録できる。結果として、1台のカメラで撮った平面の動画から、撮影していない角度の映像を生成したり、視点を自由に動かして再生したりすることが可能になる。</p>
+<h2>なぜ重要か</h2>
+<p>これまで自由視点の映像を作るには、多数のカメラを並べた専用スタジオが必要だった。Gaussian Splatting系の手法は、少ない枚数の画像や1本の動画からでも空間を再構成できるため、制作コストを大きく下げる可能性がある。</p>
+<p>NeRFと比べた利点は処理速度だ。NeRFは高品質だが学習と描画に時間がかかる場面が多い。Gaussian Splattingは描画が軽く、Webブラウザ上での表示も実用域に入りつつある。</p>
+<p>活用が見込まれる分野は幅広い。映画やMVの特殊効果、スポーツのリプレイ、VR/ARコンテンツ、不動産や商品の3D展示などだ。動画という身近な素材から立体データを作れる点は、個人クリエイターにとっても参入しやすい流れといえる。</p>
+<h2>高校生でも今すぐ試せること</h2>
+<ul>
+<li>「Gaussian Splatting」「Luma AI」などのキーワードで、ブラウザで動く公開デモを検索して動かしてみる</li>
+<li>Luma AIなどの無料アプリで、自分の机の上の小物をスマホで一周撮影し、3Dデータ化を体験する</li>
+<li>NeRFとGaussian Splattingの違いを、速度・画質の観点で1枚のメモにまとめてみる</li>
+<li>撮影時は被写体の周りをゆっくり一定速度で回り、明るさを保つと再構成の精度が上がる</li>
+<li>作った3Dモデルや比較メモを学んだ記録としてSNSやブログに残す</li>
+</ul>
+<h2>関連リンク</h2>
+<h3><a href="https://reddit.com/r/singularity/comments/1tmxpbj/reconstructing_different_angles_from_live_footage/" rel="noopener" target="_blank">reconstructing different angles from live footage (r/singularity)</a></h3>
+<h3><a href="https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/" rel="noopener" target="_blank">3D Gaussian Splatting for Real-Time Radiance Field Rendering（Inria公式プロジェクト）</a></h3>
+<h3><a href="https://lumalabs.ai/" rel="noopener" target="_blank">Luma AI（スマホで3D再構成を試せるツール）</a></h3>
+<aside class="cta-box"><h4>📚 関連書籍・グッズを楽天市場で探す</h4><p>「4D Gaussian Splatting とは」で検索 </p><a class="cta-btn" href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F4D%2520Gaussian%2520Splatting%2520%25E3%2581%25A8%25E3%2581%25AF%2F&amp;link_type=text&amp;ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" rel="sponsored noopener" target="_blank">楽天市場で見る</a></aside>
+
+<div class="ad-slot ad-placeholder"><span>広告枠 (忍者AdMax設定後に自動表示)</span></div>
+<p style="font-size:13px;color:var(--mut)">元情報: <a href="https://reddit.com/r/singularity/comments/1tmxpbj/reconstructing_different_angles_from_live_footage/" rel="noopener" target="_blank">reddit/r/singularity</a></p>
+<div class="tags"><span>Gaussian Splatting</span><span>3D再構成</span><span>NeRF</span><span>AI技術</span><span>動画編集</span></div>
+</article>
+</main>
+<footer class="site">
+© 2026 AI News JP — Claude / ChatGPT / 最新AIツール 日本語解説<br>
+本サイトはAmazon.co.jpアソシエイト・A8.netの広告が掲載される場合があります。
+</footer>
+</body>
+</html>

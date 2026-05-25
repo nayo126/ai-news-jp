@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAI Codexが2026 Gartner Magic Quadrantでリーダーに選出</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html</guid>
+<pubDate>2026-05-25T10:19:38.519529+00:00</pubDate>
+<description>OpenAIの「Codex」が2026 Gartner Magic QuadrantのエンタープライズAIコーディングエージェント部門でLeaderに選出。革新性と大規模展開が評価された理由と競合状況を解説。</description>
+</item>
+<item>
+<title>r/ClaudeAIで話題「定額の従業員 vs 変動課金」AIコーディング料金論</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/r-claudeai-vs-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/r-claudeai-vs-ai.html</guid>
+<pubDate>2026-05-25T10:18:15.520819+00:00</pubDate>
+<description>r/ClaudeAIで広まったミーム投稿が、AIコーディングツールの定額サブスクと従量課金(surge pricing)の選び方という本質的なテーマを浮き彫りにした。その論点を解説する。</description>
+</item>
+<item>
+<title>4D Gaussian Splattingとは？通常動画から自由視点3Dを再構成する技術を解説</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/4d-gaussian-splatting-3d.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/4d-gaussian-splatting-3d.html</guid>
+<pubDate>2026-05-25T10:17:19.224747+00:00</pubDate>
+<description>4D Gaussian Splattingは平面の動画を立体データ化し、撮影していない角度の映像も再構成できる3D技術。NeRFとの違いや活用例、無料で試す方法を初心者向けに解説する。</description>
+</item>
+<item>
 <title>ChatGPTの画像生成で『全時代版GTA』が話題｜歴史×AIアート連作の作り方</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-gta-ai.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-gta-ai.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html</guid>
 <pubDate>2026-05-18T09:29:07.752586+00:00</pubDate>
 <description>Reddit r/ClaudeAIで話題のLinkedInプロフィール傾向を解説。Claude AIを活用した職務経歴の書き方と、AI時代に差別化するためのポイントを紹介。</description>
-</item>
-<item>
-<title>ChatGPTに「F評価でいい」と頼むRedditミーム話題、AI採点拒否の理由</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-reddit-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-reddit-ai.html</guid>
-<pubDate>2026-05-18T09:28:31.876847+00:00</pubDate>
-<description>Reddit r/ChatGPTで「Just give me the F bro」というミーム投稿が話題。ChatGPTが採点や成績付けを拒否する挙動の背景と、学習補助としての正しい使い方を解説する。</description>
-</item>
-<item>
-<title>ChatGPTの画像生成制限を回避する手法がRedditで拡散 第三者コンテンツの生成リスクと対策</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html</guid>
-<pubDate>2026-05-17T22:18:04.498326+00:00</pubDate>
-<description>Redditのr/ChatGPTで第三者コンテンツの画像生成制限を回避する手順が共有され話題に。OpenAIのポリシーや著作権リスク、AIユーザーが知っておくべき正しい使い方を解説する。</description>
-</item>
-<item>
-<title>ChatGPTで明らかになるデザイナーとプログラマーの思考差・r/ChatGPT話題</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-r-chatgpt.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-r-chatgpt.html</guid>
-<pubDate>2026-05-17T22:17:29.257394+00:00</pubDate>
-<description>Redditのr/ChatGPTで話題の『Designers V/s Programmers in gpt』投稿を解説。ChatGPTを使う2職種のプロンプト傾向や成果物の違い、そこから見える生成AI活用のヒントを整理。</description>
 </item>
 </channel></rss>
