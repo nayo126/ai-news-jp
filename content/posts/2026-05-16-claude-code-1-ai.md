@@ -55,9 +55,9 @@ Claude Code は2024年後半から提供されているターミナル型のAI�
 
 ## 関連する記事
 
+- [r/ClaudeAIで話題「定額の従業員 vs 変動課金」AIコーディング料金論](https://nayo126.github.io/ai-news-jp/posts/r-claudeai-vs-ai.html)
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html)
 - [AI生成動画のリアルさが話題に｜r/singularityで議論される2026年最新クオリティ](https://nayo126.github.io/ai-news-jp/posts/ai-r-singularity-2026.html)
-- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 
 ### 姉妹サイトの関連記事
 - [Claude Code無料の制限まとめ｜2026年最新の上限と回避3手](https://nayo126.github.io/auto-blog/blog/claude-code無料の制限まとめ2026年最新の上限と回避3手/) — auto-blog

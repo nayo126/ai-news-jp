@@ -80,6 +80,6 @@ https://developers.google.com/search/docs/crawling-indexing/robots/intro
 ### 姉妹サイトの関連記事
 - [AI画像の著作権2026年版｜日本の最新ルール7選](https://nayo126.github.io/auto-blog/blog/ai画像の著作権2026年版日本の最新ルール7選/) — auto-blog
 - [Midjourney商用利用の範囲2026年版｜5つの注意点](https://nayo126.github.io/auto-blog/blog/midjourney商用利用の範囲2026年版5つの注意点/) — auto-blog
-- [Leonardo AI 商用利用の注意点5選｜2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai商用利用は可能2026最新の注意点5選/) — auto-blog
+- [Leonardo AIは安全?著作権と商用利用の5つの注意点](https://nayo126.github.io/auto-blog/blog/leonardo-aiは安全著作権と商用利用の5つの注意点/) — auto-blog
 
 <!-- SEO_MESH_END -->

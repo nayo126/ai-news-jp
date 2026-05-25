@@ -67,8 +67,8 @@ https://x.ai/
 ## 関連する記事
 
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html)
+- [OpenAI Codexが2026 Gartner Magic Quadrantでリーダーに選出](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html)
 - [Andrej KarpathyがAnthropicに移籍 OpenAI共同創業者の電撃移籍が示すAI業界の地殻変動](https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html)
-- [Figure 03が30時間連続稼働を達成 ヒューマノイドロボットの実用化が加速](https://nayo126.github.io/ai-news-jp/posts/figure-03-30.html)
 
 ### 姉妹サイトの関連記事
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
