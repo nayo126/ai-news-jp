@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>ChatGPTの画像生成で『存在しない物体のeBay出品画像』を作るプロンプトが話題</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-ebay.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-ebay.html</guid>
+<pubDate>2026-05-25T22:18:30.416893+00:00</pubDate>
+<description>ChatGPTの画像生成プロンプトが話題。我々の次元に存在しない物体をeBay風UIごと1枚絵で再現する指示の中身と、文脈ごと描かせるコツを解説。</description>
+</item>
+<item>
+<title>AI開発の一時停止は可能か?人類が実際に止めた技術とOpenAI界隈の議論</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/ai-openai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/ai-openai.html</guid>
+<pubDate>2026-05-25T22:17:48.204342+00:00</pubDate>
+<description>r/OpenAIで話題の「人類が実際に止めてきた技術」スレッドを解説。AI開発の一時停止(AI pause)論争の文脈で、遺伝子組換えや核実験など過去の事例から何が学べるかを整理する。</description>
+</item>
+<item>
+<title>AGIはもう近い?Dario Amodeiら強気予測とAIバブル懸念を整理(2027年)</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/agi-dario-amodei-ai-2027.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/agi-dario-amodei-ai-2027.html</guid>
+<pubDate>2026-05-25T22:17:06.367259+00:00</pubDate>
+<description>Redditで再燃した「AGIはもうすぐか」論争を解説。Anthropic CEO Dario Amodeiら強気の予測と、2027年までのAI投資回収を疑う現実派の対立を客観的に整理する。</description>
+</item>
+<item>
 <title>OpenAI Codexが2026 Gartner Magic Quadrantでリーダーに選出</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</guid>
 <pubDate>2026-05-18T10:18:06.274294+00:00</pubDate>
 <description>OpenAIが公開したCodex for Work事例。データサイエンスチームが根本原因分析やKPIメモ、ダッシュボード仕様書をCodexで自動生成する具体的な使い方を解説する。</description>
-</item>
-<item>
-<title>ChatGPTに個人資産管理機能が登場 Pro向け米国先行で口座連携可能に</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</guid>
-<pubDate>2026-05-18T10:17:30.901061+00:00</pubDate>
-<description>OpenAIがChatGPTに新しい個人資産管理機能をプレビュー公開。米国Pro会員向けに金融口座を安全に連携し、AIによる資産分析やアドバイスが受けられる。</description>
-</item>
-<item>
-<title>OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供へ</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
-<pubDate>2026-05-18T10:16:55.536195+00:00</pubDate>
-<description>OpenAIがマルタ政府と提携し、全国民にChatGPT Plusを無償提供。AIスキル研修も実施し、国家規模でのAI普及モデルとなる。</description>
-</item>
-<item>
-<title>Claude AIで激変するLinkedInプロフィール作成術2026年最新版</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html</guid>
-<pubDate>2026-05-18T09:29:07.752586+00:00</pubDate>
-<description>Reddit r/ClaudeAIで話題のLinkedInプロフィール傾向を解説。Claude AIを活用した職務経歴の書き方と、AI時代に差別化するためのポイントを紹介。</description>
 </item>
 </channel></rss>
