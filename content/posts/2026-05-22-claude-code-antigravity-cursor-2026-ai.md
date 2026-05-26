@@ -64,8 +64,8 @@ UI領域ではStitchがデザインから実装コードを一気通貫で生成
 - [「プログラマーは消える」予言が外れた理由｜AIに育てられる開発者の現実](https://nayo126.github.io/ai-news-jp/posts/post-3bee2508.html)
 
 ### 姉妹サイトの関連記事
+- [開発AIツール比較座談会|2026年注目の5選を本音議論](https://nayo126.github.io/auto-blog/blog/開発aiツール比較座談会2026年注目の5選を本音議論/) — auto-blog
 - [Antigravity vs Claude Code徹底比較2026|副業AIに最適なのは?](https://nayo126.github.io/auto-blog/blog/antigravity-vs-claude-code徹底比較2026副業aiに最適なのは/) — auto-blog
 - [AIコード生成ツールおすすめ7選｜2026年最新ランキング](https://nayo126.github.io/auto-blog/blog/aiコード生成ツールおすすめ7選2026年最新ランキング/) — auto-blog
-- [Claude Code比較2026｜主要AI開発5ツールの実力差](https://nayo126.github.io/auto-blog/blog/claude-code比較2026主要ai開発5ツールの実力差/) — auto-blog
 
 <!-- SEO_MESH_END -->

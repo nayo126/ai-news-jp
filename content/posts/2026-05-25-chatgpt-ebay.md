@@ -52,3 +52,18 @@ ChatGPTの画像生成機能（GPT-4oベースの画像生成）は、見たこ�
 ### [r/ChatGPT の元投稿](https://reddit.com/r/ChatGPT/comments/1tn595v/take_product_shots_of_an_object_that_doesnt_exist/)
 ### [OpenAI 公式：画像生成の使い方](https://openai.com/index/introducing-4o-image-generation/)
 ### [ChatGPT 画像生成プロンプトの基本](https://help.openai.com/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+### 姉妹サイトの関連記事
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/) — auto-blog
+- [ChatGPT英会話プロンプト無料7選｜独学で話せる使い方](https://nayo126.github.io/auto-blog/blog/chatgpt英会話プロンプト無料7選独学で話せる使い方/) — auto-blog
+- [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/) — auto-blog
+
+<!-- SEO_MESH_END -->

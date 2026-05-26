@@ -67,6 +67,6 @@ https://www.gartner.com/en/research/methodologies/magic-quadrants-research
 ### 姉妹サイトの関連記事
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/) — auto-blog
-- [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/) — auto-blog
+- [Cursorの料金と使い方｜月20ドルの元を取る方法](https://nayo126.github.io/auto-blog/blog/cursorの料金と使い方月20ドルの元を取る方法/) — auto-blog
 
 <!-- SEO_MESH_END -->
