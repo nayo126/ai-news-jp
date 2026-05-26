@@ -5,25 +5,32 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAIがGartner 2026 Magic QuadrantでコーディングエージェントのLeaderに認定、Codexを評価</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-gartner-2026-magic-quadrant-leader-codex.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-gartner-2026-magic-quadrant-leader-codex.html</guid>
+<pubDate>2026-05-26T22:19:21.556358+00:00</pubDate>
+<description>OpenAIが2026年版Gartner Magic Quadrant（Enterprise AI Coding Agents）でLeaderに選出。Codexの革新性とエンタープライズ規模の導入が評価された背景と影響を解説する。</description>
+</item>
+<item>
+<title>Virgin AtlanticがOpenAI Codexでアプリを高速開発、P1不具合ゼロを達成</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</guid>
+<pubDate>2026-05-26T22:18:51.574498+00:00</pubDate>
+<description>航空会社Virgin AtlanticがOpenAI Codexを活用し、繁忙期の固定締切でモバイルアプリを刷新。ほぼ全域のユニットテストカバレッジとP1不具合ゼロを実現した事例を解説。</description>
+</item>
+<item>
+<title>OpenAIがブラジル大手Grupo FolhaとGrupo UOLと提携、ChatGPTに報道コンテンツ提供</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-grupo-folha-grupo-uol-chatgpt.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-grupo-folha-grupo-uol-chatgpt.html</guid>
+<pubDate>2026-05-26T22:18:15.107548+00:00</pubDate>
+<description>OpenAIがブラジルの大手メディアGrupo FolhaとGrupo UOLと戦略的提携。ChatGPT上で信頼できる報道を出典付きで提供する。提携の中身と業界への影響を解説。</description>
+</item>
+<item>
 <title>OpenAI Codex、2026 Gartner Magic Quadrantでコーディングエージェントのリーダーに</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html</guid>
 <pubDate>2026-05-26T10:17:53.543999+00:00</pubDate>
 <description>OpenAIが2026 Gartner Magic Quadrant for Enterprise AI Coding AgentsでLeaderに選出。Codexの革新性と企業導入規模が評価された内容と影響を解説。</description>
-</item>
-<item>
-<title>Virgin AtlanticがOpenAI Codexでアプリを高速開発、P1欠陥ゼロを達成</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</guid>
-<pubDate>2026-05-26T10:17:20.904786+00:00</pubDate>
-<description>Virgin AtlanticがOpenAI Codexを使い、繁忙期の納期に間に合わせてモバイルアプリを刷新。ユニットテストのほぼ全網羅とP1欠陥ゼロを実現した事例を解説する。</description>
-</item>
-<item>
-<title>OpenAIがブラジルメディアGrupo Folha・Grupo UOLと提携、ChatGPTに信頼性の高いニュース統合</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-grupo-folha-grupo-uol-chatgpt.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-grupo-folha-grupo-uol-chatgpt.html</guid>
-<pubDate>2026-05-26T10:16:50.195789+00:00</pubDate>
-<description>OpenAIがブラジル大手メディアGrupo FolhaとGrupo UOLと戦略的コンテンツ提携を発表。ChatGPTに出典明示と透明性を備えた報道を統合する動きと、その意味を解説。</description>
 </item>
 <item>
 <title>ChatGPTの画像生成で『存在しない物体のeBay出品画像』を作るプロンプトが話題</title>
@@ -206,12 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/r-chatgpt-declassified-ai.html</guid>
 <pubDate>2026-05-19T09:32:05.683669+00:00</pubDate>
 <description>Reddit r/ChatGPTで投稿された『Declassified』が注目を集めている。ChatGPTの画像生成機能を活用したミーム文化と、AI生成画像のSNS拡散傾向を解説する。</description>
-</item>
-<item>
-<title>OpenAI、マルタ全国民にChatGPT Plus提供を発表 国家規模のAI普及策</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus-ai.html</guid>
-<pubDate>2026-05-18T22:19:25.259065+00:00</pubDate>
-<description>OpenAIがマルタ政府と提携し、全市民にChatGPT Plusを無料提供。AIリテラシー教育やトレーニングも実施する国家規模の取り組みを解説。</description>
 </item>
 </channel></rss>
