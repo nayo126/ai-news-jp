@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAI Codex、2026 Gartner Magic Quadrantでコーディングエージェントのリーダーに</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html</guid>
+<pubDate>2026-05-26T10:17:53.543999+00:00</pubDate>
+<description>OpenAIが2026 Gartner Magic Quadrant for Enterprise AI Coding AgentsでLeaderに選出。Codexの革新性と企業導入規模が評価された内容と影響を解説。</description>
+</item>
+<item>
+<title>Virgin AtlanticがOpenAI Codexでアプリを高速開発、P1欠陥ゼロを達成</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html</guid>
+<pubDate>2026-05-26T10:17:20.904786+00:00</pubDate>
+<description>Virgin AtlanticがOpenAI Codexを使い、繁忙期の納期に間に合わせてモバイルアプリを刷新。ユニットテストのほぼ全網羅とP1欠陥ゼロを実現した事例を解説する。</description>
+</item>
+<item>
+<title>OpenAIがブラジルメディアGrupo Folha・Grupo UOLと提携、ChatGPTに信頼性の高いニュース統合</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-grupo-folha-grupo-uol-chatgpt.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-grupo-folha-grupo-uol-chatgpt.html</guid>
+<pubDate>2026-05-26T10:16:50.195789+00:00</pubDate>
+<description>OpenAIがブラジル大手メディアGrupo FolhaとGrupo UOLと戦略的コンテンツ提携を発表。ChatGPTに出典明示と透明性を備えた報道を統合する動きと、その意味を解説。</description>
+</item>
+<item>
 <title>ChatGPTの画像生成で『存在しない物体のeBay出品画像』を作るプロンプトが話題</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-ebay.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-ebay.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus-ai.html</guid>
 <pubDate>2026-05-18T22:19:25.259065+00:00</pubDate>
 <description>OpenAIがマルタ政府と提携し、全市民にChatGPT Plusを無料提供。AIリテラシー教育やトレーニングも実施する国家規模の取り組みを解説。</description>
-</item>
-<item>
-<title>OpenAIとDellが提携、Codexをハイブリッド・オンプレ環境に展開へ</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</guid>
-<pubDate>2026-05-18T22:18:50.057720+00:00</pubDate>
-<description>OpenAIがDellと提携し、AIコーディングエージェントCodexをエンタープライズのハイブリッド・オンプレミス環境へ展開。セキュアなAI開発基盤の選択肢が広がる。</description>
-</item>
-<item>
-<title>Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html</guid>
-<pubDate>2026-05-18T22:18:14.853306+00:00</pubDate>
-<description>Elon Musk氏がSam Altman氏とOpenAIに対して起こした訴訟で敗訴。AI業界の主導権争いと今後の展望を解説します。</description>
-</item>
-<item>
-<title>OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html</guid>
-<pubDate>2026-05-18T10:18:06.274294+00:00</pubDate>
-<description>OpenAIが公開したCodex for Work事例。データサイエンスチームが根本原因分析やKPIメモ、ダッシュボード仕様書をCodexで自動生成する具体的な使い方を解説する。</description>
 </item>
 </channel></rss>
