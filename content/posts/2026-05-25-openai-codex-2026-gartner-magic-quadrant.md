@@ -55,9 +55,9 @@ Gartnerの象限は、大企業のIT調達担当者が製品選定の参考に�
 
 ## 関連する記事
 
+- [OpenAI Codex、2026 Gartner Magic Quadrantでコーディングエージェントのリーダーに](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html)
 - [OpenAI Codexが2026 Gartner Magic Quadrantでリーダー認定｜エンタープライズAIコーディングエージェント](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant-ai.html)
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html)
-- [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
 
 ### 姉妹サイトの関連記事
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog

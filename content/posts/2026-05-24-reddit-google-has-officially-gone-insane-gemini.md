@@ -65,8 +65,8 @@ GoogleとOpenAIの最新モデルを用途別に整理した解説記事
 - [r/ChatGPTで話題の『Declassified』投稿が示すAI画像生成の新トレンド](https://nayo126.github.io/ai-news-jp/posts/r-chatgpt-declassified-ai.html)
 
 ### 姉妹サイトの関連記事
+- [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/) — auto-blog
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 - [AIスタートアップ燈とは｜評価額1000億円の3つの強み](https://nayo126.github.io/auto-blog/blog/aiスタートアップ燈とは評価額1000億円の3つの強み/) — auto-blog
-- [Gemini vs OpenAI比較2026｜稼げるAIはどっち](https://nayo126.github.io/auto-blog/blog/gemini-vs-openai比較2026稼げるaiはどっち/) — auto-blog
 
 <!-- SEO_MESH_END -->

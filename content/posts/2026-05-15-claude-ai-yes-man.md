@@ -65,7 +65,7 @@ https://www.anthropic.com/research
 ### 姉妹サイトの関連記事
 - [プロンプトの作り方｜5要素と型で誰でも上達する基本](https://nayo126.github.io/auto-blog/blog/プロンプトの作り方5要素と型で誰でも上達する基本/) — auto-blog
 - [プロンプト入力で副業を始める7つの型｜月5万への最短ルート](https://nayo126.github.io/auto-blog/blog/プロンプト入力で副業を始める7つの型月5万への最短ルート/) — auto-blog
-- [AIブログ プロンプト完全攻略7選｜2026最新](https://nayo126.github.io/auto-blog/blog/aiブログ-プロンプト完全攻略7選2026最新/) — auto-blog
+- [ChatGPTプロンプト作成方法7つの基本型と例文](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト作成方法7つの基本型と例文2026/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

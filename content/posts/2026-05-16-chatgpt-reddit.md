@@ -82,8 +82,8 @@ GoogleのGeminiやAnthropicのClaudeでも同様の傾向があり、プロン�
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 
 ### 姉妹サイトの関連記事
+- [ChatGPTプロンプト作成方法7つの基本型と例文](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト作成方法7つの基本型と例文2026/) — auto-blog
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 - [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/) — auto-blog
-- [ChatGPT英会話プロンプト無料7選｜独学で話せる使い方](https://nayo126.github.io/auto-blog/blog/chatgpt英会話プロンプト無料7選独学で話せる使い方/) — auto-blog
 
 <!-- SEO_MESH_END -->

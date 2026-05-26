@@ -56,3 +56,18 @@ https://openai.com/index/virgin-atlantic
 
 ### OpenAI Codex 製品ページ
 https://openai.com/codex
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Virgin AtlanticがOpenAI Codexでアプリ刷新、P1欠陥ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html)
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
+- [OpenAI Codex、2026 Gartner Magic Quadrantでコーディングエージェントのリーダーに](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html)
+
+### 姉妹サイトの関連記事
+- [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/) — auto-blog
+- [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
+- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/) — auto-blog
+
+<!-- SEO_MESH_END -->
