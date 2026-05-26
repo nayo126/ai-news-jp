@@ -66,7 +66,7 @@ RedditのChatGPT関連サブレディットは登録者数が数百万人規模�
 ### 姉妹サイトの関連記事
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
 - [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/) — auto-blog
-- [ChatGPT英会話プロンプト無料7選｜独学で話せる使い方](https://nayo126.github.io/auto-blog/blog/chatgpt英会話プロンプト無料7選独学で話せる使い方/) — auto-blog
+- [ChatGPTプロンプト集｜コピペで使える15例と作り方](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト集コピペで使える15例と作り方/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
