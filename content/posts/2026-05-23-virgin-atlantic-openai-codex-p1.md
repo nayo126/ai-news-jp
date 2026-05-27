@@ -66,9 +66,9 @@ AIコーディングツールは「個人の趣味プログラミングを速く
 
 ## 関連する記事
 
-- [Virgin AtlanticがOpenAI Codexでアプリを高速開発、P1欠陥ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html)
 - [OpenAI Codexが2026 Gartner Magic Quadrantでリーダー認定｜エンタープライズAIコーディングエージェント](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant-ai.html)
 - [OpenAI、Codex Windows対応へ。安全なサンドボックスでAIコーディングを実現](https://nayo126.github.io/ai-news-jp/posts/openai-codex-windows-ai.html)
+- [Virgin AtlanticがOpenAI Codexでアプリを高速開発、P1不具合ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html)
 
 ### 姉妹サイトの関連記事
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog

@@ -60,9 +60,9 @@ https://www.gartner.com/en/research/methodologies/magic-quadrants-research
 
 ## 関連する記事
 
+- [OpenAIがGartner 2026 Magic QuadrantでコーディングエージェントのLeaderに認定、Codexを評価](https://nayo126.github.io/ai-news-jp/posts/openai-gartner-2026-magic-quadrant-leader-codex.html)
 - [OpenAIとDellが提携、Codexをハイブリッド・オンプレ環境に展開へ](https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html)
 - [OpenAI、Codex Windows対応へ。安全なサンドボックスでAIコーディングを実現](https://nayo126.github.io/ai-news-jp/posts/openai-codex-windows-ai.html)
-- [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
 
 ### 姉妹サイトの関連記事
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog

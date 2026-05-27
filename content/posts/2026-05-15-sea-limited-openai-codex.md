@@ -57,7 +57,7 @@ OpenAIは公式ブログで、東南アジア最大級のテック企業Sea Limi
 
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
 - [OpenAI Codexが2026 Gartner Magic Quadrantでリーダー認定｜エンタープライズAIコーディングエージェント](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant-ai.html)
-- [Virgin AtlanticがOpenAI Codexでアプリを高速開発、P1欠陥ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html)
+- [OpenAI Codex、2026 Gartner Magic Quadrantでコーディングエージェントのリーダーに](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html)
 
 ### 姉妹サイトの関連記事
 - [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/) — auto-blog

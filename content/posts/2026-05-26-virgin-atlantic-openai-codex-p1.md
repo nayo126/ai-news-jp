@@ -63,3 +63,18 @@ Codexは、AIがコードの生成・修正・テスト作成を支援する開�
 https://openai.com/index/virgin-atlantic
 ### OpenAI Codex 製品ページ
 https://openai.com/codex
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Virgin AtlanticがOpenAI Codexでアプリ刷新、P1欠陥ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html)
+- [OpenAI Codexが2026 Gartner Magic Quadrantでリーダー認定｜エンタープライズAIコーディングエージェント](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant-ai.html)
+- [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html)
+
+### 姉妹サイトの関連記事
+- [claude mcp add serenaの設定方法5ステップ完全版](https://nayo126.github.io/auto-blog/blog/claude-mcp-add-serenaの設定方法5ステップ完全版/) — auto-blog
+- [Cursorの料金と使い方｜月20ドルの元を取る方法](https://nayo126.github.io/auto-blog/blog/cursorの料金と使い方月20ドルの元を取る方法/) — auto-blog
+- [Claude Code おすすめ本の選び方5つの基準【2026年版】](https://nayo126.github.io/auto-blog/blog/claude-code-おすすめ本の選び方5つの基準2026年版/) — auto-blog
+
+<!-- SEO_MESH_END -->

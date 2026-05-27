@@ -55,9 +55,9 @@ Claude Code は2024年後半から提供されているターミナル型のAI�
 
 ## 関連する記事
 
+- [Virgin AtlanticがOpenAI Codexでアプリを高速開発、P1不具合ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html)
 - [r/ClaudeAIで話題「定額の従業員 vs 変動課金」AIコーディング料金論](https://nayo126.github.io/ai-news-jp/posts/r-claudeai-vs-ai.html)
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html)
-- [AI生成動画のリアルさが話題に｜r/singularityで議論される2026年最新クオリティ](https://nayo126.github.io/ai-news-jp/posts/ai-r-singularity-2026.html)
 
 ### 姉妹サイトの関連記事
 - [Claude Code おすすめ本の選び方5つの基準【2026年版】](https://nayo126.github.io/auto-blog/blog/claude-code-おすすめ本の選び方5つの基準2026年版/) — auto-blog

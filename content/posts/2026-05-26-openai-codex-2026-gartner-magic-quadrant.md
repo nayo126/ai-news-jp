@@ -64,9 +64,9 @@ https://www.gartner.com/en/research/methodologies/magic-quadrants-research
 
 ## 関連する記事
 
+- [OpenAIがGartner 2026 Magic QuadrantでコーディングエージェントのLeaderに認定、Codexを評価](https://nayo126.github.io/ai-news-jp/posts/openai-gartner-2026-magic-quadrant-leader-codex.html)
 - [OpenAI Codexが2026 Gartner Magic Quadrantでリーダーに選出](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant.html)
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
-- [OpenAI Codexが2026 Gartner Magic Quadrantでリーダー認定｜エンタープライズAIコーディングエージェント](https://nayo126.github.io/ai-news-jp/posts/openai-codex-2026-gartner-magic-quadrant-ai.html)
 
 ### 姉妹サイトの関連記事
 - [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/) — auto-blog
