@@ -70,9 +70,9 @@ MidjourneyやStable Diffusionでは1プロンプトで複数バリエーショ�
 - [ChatGPTで明らかになるデザイナーとプログラマーの思考差・r/ChatGPT話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-r-chatgpt.html)
 
 ### 姉妹サイトの関連記事
+- [ChatGPT画像生成の使い方｜2026年最新7ステップ完全ガイド](https://nayo126.github.io/auto-blog/blog/chatgpt画像生成の使い方2026年最新7ステップ完全ガイド/) — auto-blog
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/) — auto-blog
-- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
