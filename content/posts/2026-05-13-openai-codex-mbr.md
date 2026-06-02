@@ -65,7 +65,7 @@ OpenAIは公式の学習プラットフォーム「OpenAI Academy」で、AIコ�
 
 - [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
-- [OpenAI Codex活用法：営業チームがパイプライン管理と商談準備を自動化する5つの方法](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
+- [OpenAIがCodexを「知的労働の生産性ツール」に拡張、調査・分析・自動化まで対応](https://nayo126.github.io/ai-news-jp/posts/openai-codex.html)
 
 ### 姉妹サイトの関連記事
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
