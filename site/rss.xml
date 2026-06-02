@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAIが若者のAI安全保護で国際機関を提唱｜youth safety強化の狙いとは</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-ai-youth-safety.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-ai-youth-safety.html</guid>
+<pubDate>2026-06-02T22:19:23.423761+00:00</pubDate>
+<description>OpenAIが若者のAI安全と機会拡大に向け、国際的な研究機関の設立を提唱。世界共通の安全基準づくりを呼びかけた背景と影響を解説する。</description>
+</item>
+<item>
+<title>OpenAI Codex新プラグイン・サイト機能で全職種のAI活用が加速</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex-ai.html</guid>
+<pubDate>2026-06-02T22:18:53.387341+00:00</pubDate>
+<description>OpenAIがCodexにプラグイン、サイト、アノテーション機能を追加。アナリストやマーケター、デザイナーなど全職種の業務を支援する新機能の中身と影響を解説。</description>
+</item>
+<item>
+<title>OpenAIとTravelersがAI保険請求アシスタントを全米展開｜24時間対応の中身</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-travelers-ai-24.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-travelers-ai-24.html</guid>
+<pubDate>2026-06-02T22:18:24.241928+00:00</pubDate>
+<description>保険大手TravelersがOpenAIと開発したAI Claim Assistantを全米展開。24時間対応や繁忙期のスケール対応など、保険×生成AIの実装事例を解説する。</description>
+</item>
+<item>
 <title>OpenAIがミシガンに1GWのStargateデータセンター着工、AI基盤を大幅拡張</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-1gw-stargate-ai.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-1gw-stargate-ai.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/coders-in-2030-cursor-codex-runable-ai.html</guid>
 <pubDate>2026-05-22T10:17:53.975328+00:00</pubDate>
 <description>RedditでバズったAIエージェント開発の現状。Cursor・Codex・Runableで認証やUIをAIに任せる動きと、コードを書く力が衰える懸念を整理。</description>
-</item>
-<item>
-<title>「プログラマーは消える」予言が外れた理由｜AIに育てられる開発者の現実</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/post-3bee2508.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/post-3bee2508.html</guid>
-<pubDate>2026-05-22T10:16:59.407828+00:00</pubDate>
-<description>Codex・Cursor・AIツールが浸透した2026年、プログラマーは消えるどころか「AIベビーシッター」へ進化。Redditで話題の投稿から読み解く開発現場の実態。</description>
-</item>
-<item>
-<title>OpenAIとDellが提携、Codexをハイブリッド/オンプレ環境で企業向け展開</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-dell-codex.html</guid>
-<pubDate>2026-05-19T22:19:37.600756+00:00</pubDate>
-<description>OpenAIとDellが提携し、AIコーディングエージェントCodexをハイブリッドクラウドおよびオンプレミス環境で企業に提供。データ主権を保ちつつ開発生産性を向上させる新たな選択肢に。</description>
-</item>
-<item>
-<title>OpenAIがContent Credentials/SynthID対応、AI生成コンテンツの来歴検証ツールを公開</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html</guid>
-<pubDate>2026-05-19T22:18:59.154713+00:00</pubDate>
-<description>OpenAIがAIコンテンツの来歴を示すContent CredentialsとGoogleのSynthID対応を進め、生成物の真贋を検証できる新ツールを発表。透明性強化の中身と影響を解説。</description>
 </item>
 </channel></rss>
