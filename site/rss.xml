@@ -5,6 +5,27 @@
 <description>Anthropic Claude・OpenAI ChatGPT・Midjourney・Cursor などAIツール最新情報を、高校生視点で毎日3記事日本語解説。</description>
 <language>ja</language>
 <item>
+<title>OpenAIがミシガンに1GWのStargateデータセンター着工、AI基盤を大幅拡張</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-1gw-stargate-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-1gw-stargate-ai.html</guid>
+<pubDate>2026-06-02T10:19:04.220908+00:00</pubDate>
+<description>OpenAIがStargate計画の一環として米ミシガン州に1GW級のデータセンター建設を開始。AIインフラ拡張、雇用創出、地域支援の狙いと影響を解説する。</description>
+</item>
+<item>
+<title>OpenAIがAI政策・政治アドボカシー方針を公開｜規制支持と中立を明言</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-ai.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-ai.html</guid>
+<pubDate>2026-06-02T10:18:36.280360+00:00</pubDate>
+<description>OpenAIがAI政策と政治的アドボカシーに関する方針を発表。透明性、慎重な規制への支持、AI安全性、外部政治団体が同社を代弁しないことを明記。内容と影響を解説。</description>
+</item>
+<item>
+<title>OpenAIがCodexを「知的労働の生産性ツール」に拡張、調査・分析・自動化まで対応</title>
+<link>https://nayo126.github.io/ai-news-jp/posts/openai-codex.html</link>
+<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-codex.html</guid>
+<pubDate>2026-06-02T10:18:04.753248+00:00</pubDate>
+<description>OpenAIがCodexを知的労働向け生産性ツールへ拡張。AIによる調査、データ分析、ワークフロー自動化、コンテンツ作成の活用法を解説する。</description>
+</item>
+<item>
 <title>OpenAIのAIがBoston Children's Hospitalで40件超の希少疾患を診断支援</title>
 <link>https://nayo126.github.io/ai-news-jp/posts/openai-ai-boston-children-s-hospital-40.html</link>
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-ai-boston-children-s-hospital-40.html</guid>
@@ -192,26 +213,5 @@
 <guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html</guid>
 <pubDate>2026-05-19T22:18:59.154713+00:00</pubDate>
 <description>OpenAIがAIコンテンツの来歴を示すContent CredentialsとGoogleのSynthID対応を進め、生成物の真贋を検証できる新ツールを発表。透明性強化の中身と影響を解説。</description>
-</item>
-<item>
-<title>Andrej KarpathyがAnthropicに移籍 OpenAI共同創業者の電撃移籍が示すAI業界の地殻変動</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html</guid>
-<pubDate>2026-05-19T22:18:25.352007+00:00</pubDate>
-<description>OpenAI共同創業者のAndrej KarpathyがAnthropicに加わると発表。Claude開発元への移籍が持つ意味、AI業界の人材構造、Anthropicの優位性を解説する。</description>
-</item>
-<item>
-<title>ChatGPTに個人資産管理機能、米Proユーザー向けにプレビュー開始</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html</guid>
-<pubDate>2026-05-19T10:18:03.351959+00:00</pubDate>
-<description>OpenAIがChatGPTに新たな個人資産管理機能を追加。米国Proユーザー限定で銀行口座などを安全に連携し、AIによる資産分析と目標達成サポートを提供する。</description>
-</item>
-<item>
-<title>OpenAIとマルタが提携、全国民にChatGPT Plus提供へ</title>
-<link>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</link>
-<guid isPermaLink='true'>https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html</guid>
-<pubDate>2026-05-19T10:17:29.562889+00:00</pubDate>
-<description>OpenAIが地中海の島国マルタと提携し、全国民にChatGPT Plusと実践的なAIトレーニングを提供する国家プロジェクトを発表した。</description>
 </item>
 </channel></rss>
