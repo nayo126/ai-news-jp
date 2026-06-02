@@ -69,7 +69,7 @@ https://xcancel.com/karpathy/status/2056753169888334312
 ### 姉妹サイトの関連記事
 - [OpenAIとAnthropic徹底比較2026|副業で稼ぐ7つの違い](https://nayo126.github.io/auto-blog/blog/openaiとanthropic徹底比較2026副業で稼ぐ7つの違い/) — auto-blog
 - [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/) — auto-blog
-- [Anthropic Academyとは？無料で学べるClaude講座5選2026](https://nayo126.github.io/auto-blog/blog/anthropic-academyとは無料で学べるclaude講座5選2026/) — auto-blog
+- [Anthropic（Claude）の支払い方法を完全整理|7つの選択肢](https://nayo126.github.io/auto-blog/blog/anthropicclaudeの支払い方法を完全整理7つの選択肢/) — auto-blog
 
 <!-- SEO_MESH_END -->
 

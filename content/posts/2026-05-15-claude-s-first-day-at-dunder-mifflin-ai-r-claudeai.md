@@ -61,8 +61,8 @@ AI企業のブランドが、ユーザー側のクリエイティブによって
 
 ### 姉妹サイトの関連記事
 - [AI動画おすすめプロンプト10選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/ai動画おすすめプロンプト10選2026年最新版/) — auto-blog
+- [Claudeプロンプト術7選｜精度を2倍にするベストプラクティス](https://nayo126.github.io/auto-blog/blog/claudeプロンプト術7選精度を2倍にするベストプラクティス/) — auto-blog
 - [プロンプトの作り方｜5要素と型で誰でも上達する基本](https://nayo126.github.io/auto-blog/blog/プロンプトの作り方5要素と型で誰でも上達する基本/) — auto-blog
-- [プロンプト入力で副業を始める7つの型｜月5万への最短ルート](https://nayo126.github.io/auto-blog/blog/プロンプト入力で副業を始める7つの型月5万への最短ルート/) — auto-blog
 
 <!-- SEO_MESH_END -->
 
