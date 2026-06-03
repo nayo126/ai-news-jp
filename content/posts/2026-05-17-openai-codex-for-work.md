@@ -84,9 +84,9 @@ https://openai.com/codex
 
 ## 関連する記事
 
+- [OpenAI Codex新プラグイン・サイト機能で全職種のAI活用が加速](https://nayo126.github.io/ai-news-jp/posts/openai-codex-ai.html)
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html)
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
-- [OpenAIがCodexを「知的労働の生産性ツール」に拡張、調査・分析・自動化まで対応](https://nayo126.github.io/ai-news-jp/posts/openai-codex.html)
 
 ### 姉妹サイトの関連記事
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/) — auto-blog
